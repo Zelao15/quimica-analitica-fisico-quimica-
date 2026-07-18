@@ -59,6 +59,6 @@ A unidade 9 concentra a maior carga prática porque integra a marcha analítica 
 ## Status
 
 - [x] Esqueleto validado (sumário, tópicos, carga horária)
-- [ ] Conteúdo teórico completo por unidade
-- [ ] Roteiros de aula prática
+- [x] Conteúdo teórico completo por unidade (Unidades 1 a 9)
+- [x] Roteiros de aula prática (integrados em cada unidade)
 - [ ] Exportação para Word/PDF
