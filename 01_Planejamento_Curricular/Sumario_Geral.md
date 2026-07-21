@@ -2251,3 +2251,665 @@ A possibilidade de repartir alguns conteúdos entre esta unidade, interfaces e c
 | Segurança | Exige revisão rigorosa dos reagentes |
 | Carga horária | Adequada apenas com integração e seleção |
 | Recomendação | Preservar, aprofundar e integrar |
+### 8.5 Unidade atual 5 — Complexação
+
+#### 8.5.1 Função atual
+
+A Unidade atual 5 desenvolve os fundamentos da formação e da estabilidade de complexos metálicos e os aplica à identificação, ao mascaramento, à dissolução seletiva e às interações entre íons metálicos e substâncias de interesse farmacêutico.
+
+Com 6 h/a teóricas e 4 h/a práticas, a unidade deverá conectar:
+
+- estrutura e composição dos complexos;
+- equilíbrios de formação;
+- distribuição das espécies;
+- influência do pH;
+- competição entre ligantes;
+- efeito da complexação sobre a solubilidade;
+- seletividade analítica;
+- aplicações farmacêuticas;
+- observações experimentais como cor e dissolução.
+
+Sua principal contribuição será mostrar que a concentração total de um metal não corresponde necessariamente à concentração de sua forma livre e reativa.
+
+#### 8.5.2 Pontos fortes
+
+A estrutura atual contempla conteúdos essenciais:
+
+- íons complexos;
+- ligantes;
+- número de coordenação;
+- constantes de formação;
+- constantes de instabilidade;
+- fatores de estabilidade;
+- efeito sobre a solubilidade;
+- agentes quelantes;
+- EDTA.
+
+As aplicações analíticas são adequadas à disciplina:
+
+- formação de complexos coloridos;
+- mascaramento;
+- dissolução seletiva;
+- identificação de cátions.
+
+As aplicações farmacêuticas também são pertinentes, principalmente o uso de quelantes e as interações entre metais e medicamentos.
+
+#### 8.5.3 Importância integradora
+
+A complexação interfere diretamente em diferentes equilíbrios químicos.
+
+A formação de um complexo pode:
+
+- reduzir a concentração do íon metálico livre;
+- impedir ou favorecer uma precipitação;
+- dissolver um precipitado;
+- modificar um potencial de oxirredução;
+- gerar uma espécie colorida;
+- mascarar um interferente;
+- aumentar ou reduzir a seletividade de uma reação;
+- alterar a disponibilidade de um metal;
+- modificar a estabilidade de uma preparação farmacêutica.
+
+A unidade deverá desenvolver continuamente a relação:
+
+**formação do complexo → alteração da espécie livre → deslocamento de outros equilíbrios → consequência analítica ou farmacêutica**
+
+#### 8.5.4 Conhecimentos prévios
+
+O desenvolvimento adequado da unidade pressupõe conhecimentos sobre:
+
+- concentração e atividade;
+- equilíbrio químico;
+- constantes de equilíbrio;
+- quociente de reação;
+- equilíbrios ácido-base;
+- distribuição das espécies;
+- soluções tampão;
+- produto de solubilidade;
+- precipitação e dissolução;
+- estequiometria;
+- logaritmos.
+
+A retomada desses conteúdos deverá ocorrer de modo integrado aos problemas de complexação.
+
+#### 8.5.5 Conceitos fundamentais de coordenação
+
+A unidade deverá apresentar os conceitos mínimos necessários de Química de Coordenação:
+
+- espécie central;
+- íon metálico;
+- ligante;
+- átomo doador;
+- ligação coordenada;
+- esfera de coordenação;
+- número de coordenação;
+- carga do complexo;
+- ligantes monodentados e polidentados;
+- nomenclatura básica, quando necessária.
+
+O objetivo não será substituir uma disciplina completa de Química Inorgânica, mas fornecer linguagem suficiente para compreender os equilíbrios e suas aplicações.
+
+#### 8.5.6 Estrutura e geometria
+
+A relação entre número de coordenação e geometria poderá ser introduzida qualitativamente.
+
+Poderão ser considerados exemplos de complexos:
+
+- lineares;
+- tetraédricos;
+- quadrado-planares;
+- octaédricos.
+
+A geometria deverá ser relacionada, quando pertinente, a:
+
+- propriedades ópticas;
+- estabilidade;
+- reatividade;
+- reconhecimento molecular;
+- aplicações analíticas e farmacêuticas.
+
+Não será necessário desenvolver integralmente teorias de ligação ou campo cristalino nesta unidade, salvo quando forem indispensáveis à explicação de uma observação.
+
+#### 8.5.7 Formação por etapas
+
+A formação de complexos deverá ser apresentada como processo que pode ocorrer em etapas sucessivas.
+
+Para um sistema genérico, poderão ser consideradas reações como:
+
+\[
+M + L \rightleftharpoons ML
+\]
+
+\[
+ML + L \rightleftharpoons ML_2
+\]
+
+\[
+ML_2 + L \rightleftharpoons ML_3
+\]
+
+O estudante deverá compreender que diferentes espécies podem coexistir e que sua distribuição depende:
+
+- das constantes de cada etapa;
+- das concentrações totais;
+- da concentração livre do ligante;
+- do pH;
+- da presença de competidores;
+- das demais condições do meio.
+
+#### 8.5.8 Constantes sucessivas de formação
+
+Cada etapa de formação poderá ser representada por uma constante sucessiva:
+
+\[
+K_1=\frac{a_{ML}}{a_Ma_L}
+\]
+
+\[
+K_2=\frac{a_{ML_2}}{a_{ML}a_L}
+\]
+
+O material deverá esclarecer:
+
+- o significado das constantes sucessivas;
+- a diferença entre uma etapa e o processo global;
+- a dependência em relação à temperatura e ao meio;
+- o uso de atividades na definição termodinâmica;
+- o emprego de concentrações em aproximações didáticas.
+
+Não se deverá pressupor que todas as etapas possuem a mesma constante.
+
+#### 8.5.9 Constantes globais de formação
+
+A constante global ou cumulativa deverá ser diferenciada das constantes sucessivas.
+
+Para a formação de \(ML_n\):
+
+\[
+M+nL \rightleftharpoons ML_n
+\]
+
+\[
+\beta_n=\frac{a_{ML_n}}{a_Ma_L^n}
+\]
+
+Deverá ser demonstrada a relação:
+
+\[
+\beta_n=K_1K_2\cdots K_n
+\]
+
+O estudante deverá aprender a identificar corretamente qual constante está sendo utilizada em tabelas, cálculos e referências.
+
+#### 8.5.10 Constante de instabilidade
+
+A constante de instabilidade poderá ser preservada, mas deverá ser apresentada como a constante do equilíbrio inverso ao da formação correspondente.
+
+O material deverá evitar a criação de uma falsa separação conceitual entre “formação” e “instabilidade”.
+
+O estudante deverá compreender que:
+
+- uma constante elevada de formação indica favorecimento termodinâmico da espécie complexada;
+- a constante inversa descreve sua dissociação;
+- estabilidade termodinâmica não é sinônimo de inércia cinética;
+- um complexo termodinamicamente estável pode apresentar diferentes velocidades de troca de ligantes.
+
+#### 8.5.11 Estabilidade termodinâmica e estabilidade cinética
+
+A unidade atual utiliza o termo estabilidade, mas não diferencia seus sentidos.
+
+Deverão ser distinguidas:
+
+- estabilidade termodinâmica: posição do equilíbrio;
+- estabilidade cinética: velocidade de decomposição ou substituição;
+- labilidade;
+- inércia.
+
+Essa distinção poderá ser introduzida qualitativamente e retomada posteriormente na unidade de cinética.
+
+O valor de uma constante de formação não permite, sozinho, prever a rapidez com que o complexo será formado ou destruído.
+
+#### 8.5.12 Fatores que influenciam a estabilidade
+
+Os fatores de estabilidade deverão ser organizados de forma sistemática.
+
+Poderão ser analisados:
+
+- carga e tamanho do íon metálico;
+- natureza do átomo doador;
+- basicidade do ligante;
+- compatibilidade entre metal e ligante;
+- denticidade;
+- geometria;
+- efeitos estéricos;
+- solvente;
+- temperatura;
+- força iônica;
+- pH;
+- competição entre ligantes;
+- possibilidade de formação de anéis quelatos.
+
+A relação entre esses fatores deverá ser apresentada com cautela, evitando regras absolutas.
+
+#### 8.5.13 Efeito quelato
+
+O efeito quelato deverá receber explicação conceitual e termodinâmica.
+
+A unidade deverá mostrar que ligantes polidentados podem formar múltiplas ligações coordenadas com o mesmo centro metálico e produzir estruturas cíclicas.
+
+Sua estabilidade relativa poderá envolver:
+
+- fatores entrópicos;
+- número de partículas;
+- probabilidade de religação;
+- tamanho dos anéis;
+- geometria;
+- natureza do metal e do ligante;
+- condições do meio.
+
+Não se deverá afirmar que todo ligante polidentado forma necessariamente um complexo mais estável em qualquer condição.
+
+#### 8.5.14 Especiação e distribuição dos complexos
+
+A unidade deverá explicitar que diferentes formas do metal podem coexistir.
+
+A distribuição poderá incluir:
+
+- metal livre;
+- complexos com diferentes números de ligantes;
+- espécies hidrolisadas;
+- complexos com ligantes distintos;
+- espécies precipitadas;
+- formas protonadas do ligante.
+
+Diagramas de distribuição deverão ser utilizados sempre que ajudarem a visualizar a espécie predominante em função:
+
+- da concentração do ligante;
+- do pH;
+- da composição do meio.
+
+#### 8.5.15 Balanços de massa
+
+Os cálculos de complexação deverão ser fundamentados em balanços de massa.
+
+Para o metal, a concentração total poderá ser expressa pela soma das formas presentes:
+
+\[
+C_M=[M]+[ML]+[ML_2]+\cdots
+\]
+
+Para o ligante, deverão ser consideradas:
+
+- forma livre;
+- formas protonadas;
+- formas ligadas ao metal;
+- participação em outros equilíbrios.
+
+A abordagem deverá começar com sistemas simples e evoluir gradualmente para situações com competição e reações paralelas.
+
+#### 8.5.16 Influência do pH
+
+O pH influencia a complexação por controlar:
+
+- a protonação do ligante;
+- a hidrólise do metal;
+- a precipitação de hidróxidos;
+- a disponibilidade dos átomos doadores;
+- a distribuição das espécies;
+- a estabilidade condicional do complexo.
+
+A unidade deverá utilizar conhecimentos de equilíbrio ácido-base para mostrar que a constante termodinâmica de formação não descreve isoladamente o comportamento do sistema em qualquer pH.
+
+#### 8.5.17 Constantes condicionais
+
+As constantes condicionais deverão ser incorporadas por sua importância na integração dos equilíbrios.
+
+Uma constante condicional poderá representar a formação do complexo sob condições específicas de:
+
+- pH;
+- força iônica;
+- composição do meio;
+- concentração de ligantes competidores;
+- ocorrência de reações paralelas.
+
+O conceito deverá ser apresentado primeiro de maneira qualitativa. A formulação matemática será introduzida progressivamente, com ênfase na fração do ligante disponível e na fração do metal presente em formas reativas.
+
+#### 8.5.18 Competição entre ligantes e metais
+
+Sistemas analíticos e farmacêuticos raramente contêm apenas um metal e um ligante.
+
+A unidade deverá incluir situações envolvendo:
+
+- dois ligantes competindo pelo mesmo metal;
+- dois metais competindo pelo mesmo ligante;
+- deslocamento de um ligante;
+- formação preferencial;
+- influência das concentrações;
+- influência do pH;
+- seletividade condicional.
+
+A simples comparação entre constantes de formação não deverá ser considerada suficiente sem avaliar as condições do sistema.
+
+#### 8.5.19 Complexação e solubilidade
+
+A relação entre complexação e solubilidade deverá ser aprofundada.
+
+Quando o cátion livre é convertido em complexo, o equilíbrio de dissolução pode ser deslocado, aumentando a quantidade total dissolvida.
+
+A unidade deverá desenvolver:
+
+- dissolução de precipitados por complexação;
+- relação entre \(K_{ps}\) e constante de formação;
+- cálculo da constante global do processo;
+- influência da concentração do ligante;
+- influência do pH;
+- possibilidade de formação de novas fases sólidas;
+- limites da dissolução seletiva.
+
+Essa seção deverá retomar diretamente a Unidade 4.
+
+#### 8.5.20 Formação de complexos coloridos
+
+A formação de complexos coloridos deverá ser preservada como aplicação analítica e recurso experimental.
+
+O estudante deverá compreender que a cor pode depender de:
+
+- identidade do metal;
+- identidade do ligante;
+- geometria;
+- estado de oxidação;
+- concentração;
+- pH;
+- solvente;
+- presença de espécies concorrentes.
+
+A observação visual poderá sustentar testes qualitativos, mas deverão ser discutidas suas limitações:
+
+- subjetividade;
+- baixa concentração;
+- interferência da cor da amostra;
+- turbidez;
+- iluminação;
+- coexistência de diferentes espécies coloridas.
+
+#### 8.5.21 Mascaramento e desmascaramento
+
+O mascaramento deverá ser apresentado como controle da reatividade de uma espécie interferente.
+
+A formação de um complexo poderá reduzir a concentração livre do interferente e impedir:
+
+- precipitação;
+- reação colorida;
+- oxirredução;
+- competição com o analito.
+
+A unidade deverá incluir:
+
+- critérios para escolha do agente mascarante;
+- seletividade;
+- concentração necessária;
+- influência do pH;
+- estabilidade condicional;
+- possibilidade de desmascaramento;
+- riscos de mascarar também o analito.
+
+O mascaramento não deverá ser apresentado como desaparecimento da espécie, mas como alteração controlada de sua forma química.
+
+#### 8.5.22 Complexação na identificação de cátions
+
+A formação de complexos deverá ser relacionada às etapas de identificação de cátions.
+
+Poderão ser analisados:
+
+- aparecimento ou mudança de cor;
+- dissolução de precipitado;
+- formação de espécie solúvel;
+- alteração da seletividade;
+- competição com outros íons;
+- confirmação por reação complementar.
+
+Cada teste deverá ser explicado em termos das espécies presentes e dos equilíbrios envolvidos, evitando a memorização isolada de cores e procedimentos.
+
+#### 8.5.23 EDTA e ligantes poliaminocarboxílicos
+
+O EDTA deverá ser mantido como exemplo importante de ligante polidentado.
+
+A unidade deverá incluir:
+
+- estrutura funcional;
+- formas de protonação;
+- espécie efetivamente disponível para complexação;
+- estequiometria geralmente 1:1;
+- influência do pH;
+- constante global;
+- constante condicional;
+- competição entre metais;
+- aplicações analíticas;
+- aplicações farmacêuticas.
+
+A complexometria quantitativa poderá ser apresentada como conexão, sem reproduzir integralmente conteúdos pertencentes à Química Analítica Quantitativa.
+
+#### 8.5.24 Aplicações farmacêuticas dos quelantes
+
+Os agentes quelantes deverão ser relacionados a aplicações farmacêuticas e biomédicas selecionadas.
+
+Poderão ser discutidos:
+
+- tratamento de exposições a determinados metais;
+- redução da disponibilidade catalítica de metais;
+- estabilização de formulações;
+- controle de oxidação promovida por metais;
+- uso como excipientes;
+- aplicações diagnósticas específicas;
+- limitações de seletividade;
+- efeitos adversos e remoção de metais essenciais.
+
+Os exemplos deverão utilizar fontes científicas e regulatórias confiáveis e evitar generalizações terapêuticas.
+
+#### 8.5.25 Interações entre metais e medicamentos
+
+A unidade deverá examinar interações químicas entre íons metálicos e medicamentos.
+
+A complexação poderá alterar:
+
+- solubilidade;
+- dissolução;
+- absorção;
+- disponibilidade;
+- estabilidade;
+- atividade do princípio ativo;
+- comportamento em métodos analíticos.
+
+Poderão ser utilizados estudos de caso envolvendo fármacos que interagem com cálcio, magnésio, ferro ou alumínio.
+
+A abordagem deverá permanecer físico-química e farmacêutica, sem substituir orientações clínicas específicas.
+
+#### 8.5.26 Complexação e estabilidade de formulações
+
+Traços de metais podem catalisar processos de degradação, especialmente reações oxidativas.
+
+A unidade poderá mostrar como agentes quelantes são utilizados para:
+
+- reduzir a concentração do metal livre;
+- limitar a atividade catalítica;
+- aumentar a estabilidade de determinados sistemas;
+- complementar a ação de antioxidantes.
+
+Também deverão ser considerados:
+
+- compatibilidade com os componentes;
+- pH;
+- concentração;
+- seletividade;
+- requisitos regulatórios;
+- possibilidade de interação com o princípio ativo.
+
+#### 8.5.27 Atividades práticas atuais
+
+As práticas sugeridas são coerentes:
+
+- formação de complexos coloridos;
+- dissolução de precipitado por complexação;
+- mascaramento de interferente.
+
+Entretanto, cada prática deverá definir:
+
+- sistema químico escolhido;
+- equações e equilíbrios envolvidos;
+- objetivo analítico;
+- concentração e quantidade dos reagentes;
+- influência do pH;
+- controles experimentais;
+- riscos;
+- descarte;
+- questões para interpretação.
+
+A observação de uma cor ou dissolução deverá ser acompanhada da identificação das espécies responsáveis e das limitações da interpretação.
+
+#### 8.5.28 Possibilidades de práticas integradas
+
+Poderão ser avaliadas atividades como:
+
+- formação de um complexo em diferentes concentrações de ligante;
+- influência do pH sobre a complexação;
+- competição entre ligantes;
+- deslocamento de um ligante por outro;
+- dissolução de precipitado por formação de complexo;
+- mascaramento de uma reação de precipitação;
+- comparação entre ligantes monodentados e polidentados;
+- construção de diagrama de distribuição com auxílio computacional;
+- estudo de interação entre íon metálico e substância de interesse farmacêutico;
+- avaliação qualitativa da ação de um quelante em sistema simulado.
+
+A seleção final deverá privilegiar sistemas visualmente claros, seguros e interpretáveis no tempo disponível.
+
+#### 8.5.29 Segurança e responsabilidade ambiental
+
+Experimentos de complexação frequentemente utilizam metais e ligantes que exigem controle rigoroso.
+
+Deverão ser avaliados especialmente:
+
+- sais de níquel;
+- sais de cobalto;
+- sais de cobre;
+- sais de prata;
+- compostos de cromo;
+- compostos de chumbo, cádmio e mercúrio;
+- amônia;
+- tiocianatos;
+- solventes orgânicos;
+- ligantes irritantes ou tóxicos.
+
+As práticas deverão priorizar:
+
+- microescala;
+- metais de menor risco;
+- concentrações reduzidas;
+- substituição de reagentes perigosos;
+- ventilação adequada;
+- segregação de resíduos contendo metais;
+- ausência de descarte na pia;
+- protocolos institucionais de destinação.
+
+Complexos solúveis podem aumentar a mobilidade de metais no ambiente. Portanto, a dissolução de um precipitado não elimina o risco químico associado ao metal.
+
+#### 8.5.30 Carga horária
+
+A carga atual de 6 h/a teóricas e 4 h/a práticas é reduzida para o conjunto de conteúdos possíveis.
+
+A unidade deverá contemplar, no mínimo:
+
+- conceitos de coordenação;
+- constantes sucessivas e globais;
+- especiação;
+- influência do pH;
+- constantes condicionais;
+- competição;
+- efeito quelato;
+- relação com solubilidade;
+- mascaramento;
+- aplicações farmacêuticas.
+
+A carga poderá ser suficiente apenas se os conceitos estruturais forem selecionados cuidadosamente e articulados às unidades de ácido-base e solubilidade.
+
+As práticas deverão integrar múltiplos objetivos em vez de constituírem demonstrações isoladas.
+
+#### 8.5.31 Repetições e conexões
+
+A unidade apresenta conexões diretas com:
+
+- equilíbrios ácido-base;
+- solubilidade;
+- precipitação seletiva;
+- eletroquímica;
+- cinética;
+- análise qualitativa sistemática;
+- Química Analítica Quantitativa;
+- Química Inorgânica;
+- estabilidade farmacêutica.
+
+A nova organização deverá evitar a repetição completa dos fundamentos anteriores.
+
+Nesta unidade, o foco deverá permanecer na formação, distribuição e aplicação dos complexos. Nas unidades posteriores, esses conceitos serão empregados na análise sistemática e em estudos farmacêuticos.
+
+#### 8.5.32 Lacunas principais
+
+As principais lacunas identificadas são:
+
+- ausência de constantes sucessivas e globais;
+- ausência explícita de especiação;
+- ausência de balanços de massa;
+- influência do pH pouco desenvolvida;
+- constantes condicionais não indicadas;
+- competição entre ligantes e metais não explicitada;
+- estabilidade termodinâmica não diferenciada da cinética;
+- efeito quelato possivelmente simplificado;
+- EDTA apresentado sem detalhamento da protonação;
+- mascaramento sem critérios quantitativos;
+- práticas ainda não transformadas em roteiros;
+- riscos de metais e ligantes não explicitados.
+
+#### 8.5.33 Recomendação preliminar
+
+A unidade deverá ser preservada como componente central da disciplina.
+
+Recomenda-se:
+
+- manter sua posição depois da solubilidade;
+- introduzir constantes sucessivas e globais;
+- desenvolver especiação e balanços;
+- incorporar influência do pH e constantes condicionais;
+- analisar competição entre ligantes e metais;
+- explicar o efeito quelato com cautela;
+- integrar complexação e dissolução de precipitados;
+- aprofundar mascaramento e desmascaramento;
+- delimitar o tratamento do EDTA;
+- fortalecer as aplicações farmacêuticas;
+- revisar todas as práticas quanto à segurança.
+
+A unidade poderá permanecer autônoma, mas necessitará de articulação estreita com ácido-base, solubilidade e análise qualitativa sistemática.
+
+#### 8.5.34 Conclusão diagnóstica
+
+| Critério | Diagnóstico |
+|---|---|
+| Relevância | Essencial |
+| Integração curricular | Muito alta |
+| Conceitos de coordenação | Adequados como introdução |
+| Constantes de formação | Necessitam diferenciação entre sucessivas e globais |
+| Constante de instabilidade | Deve ser apresentada como equilíbrio inverso |
+| Especiação | Ausente |
+| Balanços de massa | Ausentes |
+| Influência do pH | Precisa ser ampliada |
+| Constantes condicionais | Ausentes |
+| Competição | Não explicitada |
+| Efeito quelato | Relevante, mas exige tratamento cuidadoso |
+| Relação com solubilidade | Central e deve ser aprofundada |
+| Mascaramento | Importante, porém necessita fundamentação |
+| EDTA | Deve ser preservado e contextualizado |
+| Aplicações analíticas | Muito relevantes |
+| Aplicações farmacêuticas | Pertinentes e ampliáveis |
+| Práticas | Adequadas, mas ainda incompletas |
+| Segurança | Exige seleção rigorosa de metais e ligantes |
+| Carga horária | Provavelmente insuficiente sem integração |
+| Recomendação | Preservar, aprofundar e articular |
