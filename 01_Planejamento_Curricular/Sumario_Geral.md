@@ -8674,3 +8674,559 @@ As edições e referências completas serão definidas e verificadas durante a r
 #### 12.1.16 Status
 
 **SUMÁRIO DETALHADO DA UNIDADE 1 — APROVADO**
+### 12.2 Unidade 2 — Soluções, eletrólitos e atividade
+
+**Carga horária:** 5 h/a teóricas e 3 h/a práticas.
+
+#### 12.2.1 Grande ideia
+
+O comportamento químico de uma solução depende de sua composição, das interações entre seus componentes e da diferença entre concentração nominal e atividade efetiva das espécies.
+
+Compreender essa diferença é essencial para preparar soluções, interpretar equilíbrios e prever o comportamento de sistemas analíticos e farmacêuticos.
+
+#### 12.2.2 Função curricular
+
+A Unidade 2 fornecerá a linguagem quantitativa e físico-química necessária para todas as unidades posteriores.
+
+Ela deverá desenvolver:
+
+- natureza das soluções;
+- processo de dissolução;
+- formas de expressar concentração;
+- preparo e diluição;
+- eletrólitos;
+- dissociação e ionização;
+- condutividade em nível introdutório;
+- força iônica;
+- atividade;
+- coeficientes de atividade;
+- comportamento ideal e não ideal.
+
+Esses fundamentos serão utilizados em propriedades coligativas, Termodinâmica, equilíbrio, ácido-base, solubilidade, complexação e Eletroquímica.
+
+#### 12.2.3 Objetivos de aprendizagem
+
+Ao final da unidade, o estudante deverá ser capaz de:
+
+1. definir solução, soluto e solvente;
+2. descrever o processo de dissolução em nível molecular;
+3. relacionar polaridade e forças intermoleculares à formação de soluções;
+4. diferenciar solução ideal e solução real em nível introdutório;
+5. calcular e converter unidades de concentração;
+6. selecionar a unidade mais adequada ao problema;
+7. planejar o preparo de uma solução;
+8. calcular diluições e misturas;
+9. distinguir dissociação de ionização;
+10. classificar eletrólitos fortes, fracos e não eletrólitos;
+11. interpretar qualitativamente medidas de condutividade;
+12. calcular força iônica;
+13. explicar a diferença entre concentração e atividade;
+14. utilizar coeficientes de atividade em cálculos introdutórios;
+15. reconhecer os limites das aproximações de idealidade;
+16. relacionar composição da solução a aplicações analíticas e farmacêuticas;
+17. preparar, diluir, rotular e registrar soluções com segurança.
+
+#### 12.2.4 Pré-requisitos
+
+A unidade pressupõe conhecimentos sobre:
+
+- quantidade de matéria;
+- massa molar;
+- estequiometria;
+- unidades;
+- densidade;
+- volume;
+- temperatura;
+- polaridade;
+- forças intermoleculares;
+- algarismos significativos;
+- uso básico de vidraria volumétrica.
+
+Os conhecimentos da Unidade 1 sobre líquidos e interações intermoleculares serão retomados como fundamento da dissolução.
+
+#### 12.2.5 Conteúdos conceituais
+
+##### 12.2.5.1 Natureza das soluções
+
+- mistura homogênea;
+- soluto;
+- solvente;
+- componente;
+- fase;
+- soluções sólidas, líquidas e gasosas;
+- soluções aquosas;
+- sistemas com mais de um solvente;
+- composição qualitativa e quantitativa.
+
+##### 12.2.5.2 Processo de dissolução
+
+- separação das partículas do soluto;
+- reorganização do solvente;
+- solvatação;
+- hidratação;
+- interações soluto–soluto;
+- interações solvente–solvente;
+- interações soluto–solvente;
+- balanço energético qualitativo;
+- papel da entropia em nível introdutório.
+
+O tratamento termodinâmico formal da dissolução será realizado na Unidade 4.
+
+##### 12.2.5.3 Polaridade e miscibilidade
+
+- substâncias polares;
+- substâncias apolares;
+- interações íon–dipolo;
+- ligação de hidrogênio;
+- forças de dispersão;
+- miscibilidade;
+- miscibilidade parcial;
+- limitações da regra “semelhante dissolve semelhante”.
+
+A regra deverá ser apresentada como orientação inicial, não como lei universal.
+
+##### 12.2.5.4 Soluções ideais e reais
+
+- comportamento ideal;
+- interações semelhantes entre componentes;
+- desvio da idealidade;
+- influência da composição;
+- influência da temperatura;
+- introdução ao conceito de atividade;
+- exemplos farmacêuticos e analíticos.
+
+A Lei de Raoult será desenvolvida formalmente na Unidade 3.
+
+##### 12.2.5.5 Concentração em quantidade de matéria
+
+- concentração molar;
+- quantidade de soluto;
+- volume da solução;
+- unidade mol/L;
+- dependência do volume com a temperatura;
+- preparação;
+- aplicação em cálculos estequiométricos.
+
+##### 12.2.5.6 Molalidade
+
+- quantidade de soluto;
+- massa do solvente;
+- unidade mol/kg;
+- independência direta em relação ao volume;
+- aplicação em propriedades coligativas;
+- diferença entre molalidade e concentração molar.
+
+##### 12.2.5.7 Frações e porcentagens
+
+- fração molar;
+- fração em massa;
+- porcentagem massa/massa;
+- porcentagem massa/volume;
+- porcentagem volume/volume;
+- interpretação correta do denominador;
+- limitações da notação percentual sem especificação.
+
+##### 12.2.5.8 Concentrações reduzidas
+
+- g/L;
+- mg/mL;
+- mg/L;
+- micrograma por mililitro;
+- partes por milhão;
+- partes por bilhão;
+- condições para aproximações em sistemas aquosos;
+- uso responsável das equivalências aproximadas.
+
+##### 12.2.5.9 Concentração equivalente e normalidade
+
+A concentração equivalente e a normalidade poderão ser apresentadas de forma crítica porque ainda aparecem em procedimentos e compêndios.
+
+Deverão ser discutidos:
+
+- equivalente;
+- fator de equivalência;
+- dependência em relação à reação;
+- dificuldade de interpretação;
+- preferência pelo uso de quantidade de matéria e equações explícitas;
+- contextos em que a unidade ainda é encontrada.
+
+A normalidade não deverá ser apresentada como propriedade absoluta da solução sem indicação da reação correspondente.
+
+##### 12.2.5.10 Conversão entre unidades
+
+A conversão poderá exigir:
+
+- massa molar;
+- densidade;
+- pureza;
+- teor;
+- temperatura;
+- composição do solvente;
+- distinção entre solução e solvente.
+
+Os estudantes deverão aprender a verificar se os dados disponíveis são suficientes para a conversão.
+
+##### 12.2.5.11 Preparo de soluções
+
+O planejamento do preparo deverá incluir:
+
+- concentração desejada;
+- volume final;
+- quantidade de soluto;
+- pureza;
+- hidratação ou solvatação do reagente;
+- escolha da vidraria;
+- dissolução;
+- transferência quantitativa;
+- ajuste do menisco;
+- homogeneização;
+- rotulagem;
+- registro.
+
+A concentração calculada deverá ser distinguida da concentração determinada por padronização.
+
+##### 12.2.5.12 Pureza, teor e forma química
+
+Os cálculos deverão considerar:
+
+- pureza do reagente;
+- teor declarado;
+- umidade;
+- água de cristalização;
+- forma anidra ou hidratada;
+- massa molar da forma utilizada;
+- correção da massa pesada;
+- rastreabilidade do lote.
+
+##### 12.2.5.13 Diluição
+
+- conservação da quantidade de soluto;
+- relação \(C_1V_1=C_2V_2\) sob condições adequadas;
+- interpretação da relação;
+- fator de diluição;
+- diluição única;
+- diluição seriada;
+- escolha de volumes;
+- propagação de erros operacionais em nível introdutório.
+
+##### 12.2.5.14 Mistura de soluções
+
+- quantidade total de soluto;
+- volume final;
+- mistura de soluções do mesmo soluto;
+- mistura acompanhada de reação;
+- necessidade de realizar primeiro a estequiometria;
+- possível não aditividade dos volumes;
+- limites das aproximações.
+
+##### 12.2.5.15 Eletrólitos e não eletrólitos
+
+- formação de íons em solução;
+- mobilidade iônica;
+- condução elétrica;
+- eletrólitos fortes;
+- eletrólitos fracos;
+- não eletrólitos;
+- influência da concentração;
+- influência da carga e mobilidade;
+- limitações da classificação baseada apenas em uma observação.
+
+##### 12.2.5.16 Dissociação e ionização
+
+- dissociação de compostos iônicos;
+- ionização de substâncias moleculares;
+- equações de dissolução;
+- estequiometria dos íons;
+- grau de dissociação ou ionização;
+- diferença entre força e concentração;
+- conexão com ácido-base.
+
+##### 12.2.5.17 Condutividade
+
+A condutividade será introduzida qualitativamente como propriedade dependente da presença e mobilidade de íons.
+
+Deverão ser diferenciadas:
+
+- condutância;
+- condutividade;
+- concentração;
+- número de íons;
+- mobilidade;
+- temperatura;
+- geometria da célula;
+- interpretação comparativa.
+
+O tratamento eletroquímico e instrumental poderá ser retomado na Unidade 9.
+
+##### 12.2.5.18 Força iônica
+
+A força iônica deverá ser definida por:
+
+\[
+I=\frac{1}{2}\sum_i c_i z_i^2
+\]
+
+em uma formulação baseada em concentração, para os cálculos introdutórios.
+
+O estudante deverá compreender:
+
+- contribuição de cada espécie;
+- influência do quadrado da carga;
+- diferença entre força iônica e concentração total;
+- efeito de eletrólitos de diferentes valências;
+- importância para equilíbrios e atividades.
+
+##### 12.2.5.19 Atividade química
+
+A atividade deverá ser apresentada como medida termodinâmica da concentração efetiva de uma espécie.
+
+Para uma espécie em solução, poderá ser utilizada:
+
+\[
+a_i=\gamma_i\frac{c_i}{c^\circ}
+\]
+
+O material deverá esclarecer:
+
+- caráter adimensional da atividade;
+- concentração padrão;
+- coeficiente de atividade;
+- condição ideal;
+- diferença entre atividade e concentração;
+- dependência em relação ao meio.
+
+##### 12.2.5.20 Coeficiente de atividade
+
+Deverão ser desenvolvidos:
+
+- significado de \(\gamma_i\);
+- comportamento ideal;
+- influência da força iônica;
+- influência da carga;
+- dependência da temperatura e do solvente;
+- coeficientes médios para eletrólitos em nível introdutório;
+- impossibilidade prática de determinar isoladamente certas atividades iônicas.
+
+##### 12.2.5.21 Modelo de Debye–Hückel
+
+A lei limite de Debye–Hückel poderá ser apresentada como modelo introdutório:
+
+\[
+\log \gamma_i=-Az_i^2\sqrt{I}
+\]
+
+Deverão ser discutidos:
+
+- significado físico do modelo;
+- atmosfera iônica;
+- influência da carga;
+- validade em soluções suficientemente diluídas;
+- dependência da constante \(A\);
+- limitações em forças iônicas maiores.
+
+O estudante não deverá aplicar a expressão fora de sua faixa de validade sem avaliação crítica.
+
+##### 12.2.5.22 Consequências da não idealidade
+
+A diferença entre concentração e atividade afeta:
+
+- pH;
+- constantes de equilíbrio;
+- solubilidade;
+- complexação;
+- potenciais eletroquímicos;
+- propriedades coligativas;
+- comportamento de soluções farmacêuticas.
+
+Essas consequências serão retomadas progressivamente nas unidades posteriores.
+
+#### 12.2.6 Desenvolvimento matemático
+
+A unidade deverá desenvolver cálculos envolvendo:
+
+- concentração molar;
+- molalidade;
+- fração molar;
+- fração em massa;
+- porcentagens;
+- concentrações reduzidas;
+- pureza e teor;
+- hidratos;
+- diluições;
+- diluições seriadas;
+- mistura de soluções;
+- força iônica;
+- atividade;
+- coeficientes de atividade em soluções diluídas.
+
+Os cálculos deverão incluir:
+
+- análise dimensional;
+- unidades;
+- algarismos significativos;
+- interpretação do resultado;
+- escolha da expressão;
+- verificação da plausibilidade.
+
+#### 12.2.7 Exemplos resolvidos previstos
+
+A unidade deverá incluir exemplos sobre:
+
+1. preparo de solução a partir de sólido;
+2. correção da massa pela pureza;
+3. uso de reagente hidratado;
+4. preparo a partir de solução concentrada;
+5. conversão entre mol/L, g/L e mg/mL;
+6. conversão com uso de densidade;
+7. porcentagens farmacêuticas;
+8. diluição única;
+9. diluição seriada;
+10. mistura de soluções;
+11. dissociação e concentração dos íons;
+12. cálculo de força iônica;
+13. comparação entre concentração e atividade;
+14. aplicação introdutória da lei limite de Debye–Hückel.
+
+#### 12.2.8 Conexão com a análise qualitativa
+
+A unidade deverá relacionar seus conteúdos a:
+
+- preparo de reagentes;
+- controle de concentração;
+- diluição de amostras;
+- concentração dos íons após mistura;
+- estequiometria das precipitações;
+- influência da força iônica;
+- resposta de testes;
+- conservação e rotulagem;
+- contaminação;
+- rastreabilidade das soluções.
+
+Erros no preparo de um reagente podem alterar seletividade, intensidade da resposta e confiabilidade da identificação.
+
+#### 12.2.9 Conexão farmacêutica
+
+Poderão ser utilizadas aplicações relacionadas a:
+
+- soluções orais;
+- soluções tópicas;
+- soluções de uso parenteral como contexto conceitual;
+- reconstituição;
+- concentração em rótulos;
+- porcentagens;
+- mg/mL;
+- veículos hidroalcoólicos;
+- eletrólitos;
+- influência da composição sobre estabilidade;
+- preparo e controle de soluções.
+
+Questões clínicas de dose ou administração deverão ser claramente delimitadas e não inferidas apenas a partir dos cálculos físico-químicos.
+
+#### 12.2.10 Atividades práticas correspondentes
+
+##### 12.2.10.1 Prática A — Preparo e diluição de soluções
+
+A atividade deverá incluir:
+
+- planejamento do cálculo;
+- escolha de vidraria;
+- correção de pureza;
+- pesagem;
+- dissolução;
+- transferência quantitativa;
+- ajuste de volume;
+- homogeneização;
+- diluição;
+- rotulagem;
+- registro.
+
+##### 12.2.10.2 Prática B — Eletrólitos e condutividade
+
+A atividade poderá comparar:
+
+- água;
+- solução de não eletrólito;
+- eletrólito forte;
+- eletrólito fraco;
+- diferentes concentrações;
+- eletrólitos de cargas distintas.
+
+A interpretação deverá considerar que condutividade depende de concentração, mobilidade, temperatura e geometria da célula.
+
+As duas atividades deverão ser integradas nas 3 h/a práticas disponíveis.
+
+#### 12.2.11 Estudo de caso previsto
+
+**Erro de concentração durante a reconstituição de uma preparação**
+
+O estudante deverá analisar:
+
+- unidade declarada;
+- volume final;
+- quantidade de soluto;
+- fator de diluição;
+- diferença entre adicionar determinado volume e completar até o volume;
+- consequências do erro;
+- procedimento correto;
+- registro e prevenção.
+
+#### 12.2.12 Integração com as unidades posteriores
+
+A Unidade 2 fornecerá fundamentos para:
+
+- Unidade 3 — molalidade, fração molar, eletrólitos e não idealidade;
+- Unidade 4 — composição, atividade e estado padrão;
+- Unidade 5 — expressão das constantes de equilíbrio;
+- Unidade 6 — atividade do íon hidrogênio;
+- Unidade 7 — produto de solubilidade;
+- Unidade 8 — especiação e complexação;
+- Unidade 9 — equação de Nernst;
+- Unidade 10 — leis de velocidade;
+- Unidade 11 — tensoativos e eletrólitos em dispersões;
+- Unidade 12 — preparo de reagentes e interpretação das separações.
+
+#### 12.2.13 Delimitações
+
+Nesta unidade não serão desenvolvidos integralmente:
+
+- propriedades coligativas;
+- pressão osmótica;
+- isotonicidade;
+- equilíbrio químico formal;
+- cálculos completos de pH;
+- solubilidade de equilíbrio;
+- condutimetria instrumental;
+- modelos avançados de atividade;
+- equações para soluções concentradas.
+
+Esses conteúdos serão tratados nas unidades correspondentes.
+
+#### 12.2.14 Distribuição da carga horária
+
+| Componente | Carga |
+|---|---:|
+| Natureza das soluções e unidades de concentração | 2 h/a teóricas |
+| Preparo, diluição e eletrólitos | 1,5 h/a teórica |
+| Força iônica e atividade | 1,5 h/a teórica |
+| Práticas integradas | 3 h/a práticas |
+| **Total** | **5 h/a teóricas + 3 h/a práticas** |
+
+A distribuição poderá ser ajustada no calendário, mantendo o total aprovado.
+
+#### 12.2.15 Referências estruturantes
+
+A redação da unidade deverá utilizar:
+
+- livros reconhecidos de Química Geral;
+- livros de Físico-Química;
+- textos de Química Analítica;
+- literatura de Físico-Química farmacêutica;
+- compêndios aplicáveis às formas de expressão da concentração;
+- documentos institucionais de segurança;
+- fontes científicas para atividade e não idealidade.
+
+As referências completas serão verificadas durante a redação do Livro Mestre.
+
+#### 12.2.16 Status
+
+**SUMÁRIO DETALHADO DA UNIDADE 2 — APROVADO**
