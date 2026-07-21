@@ -736,3 +736,358 @@ A decisão sobre transformar esses núcleos em duas ou três unidades definitiva
 | Práticas | Necessitam reorganização |
 | Segurança | Riscos controláveis |
 | Recomendação | Desmembrar e ampliar |
+### 8.2 Unidade atual 2 — Equilíbrio químico
+
+#### 8.2.1 Função atual
+
+A Unidade atual 2 apresenta o equilíbrio químico como fundamento comum para:
+
+- equilíbrios ácido-base;
+- solubilidade;
+- precipitação;
+- complexação;
+- oxirredução;
+- separação;
+- identificação de espécies.
+
+Sua posição inicial procura fornecer ao estudante uma linguagem geral antes das aplicações específicas.
+
+Essa função é essencial para a integração da disciplina.
+
+#### 8.2.2 Pontos fortes
+
+Devem ser preservados:
+
+- conceito de reversibilidade;
+- caráter dinâmico do equilíbrio;
+- igualdade entre as velocidades direta e inversa;
+- constante de equilíbrio;
+- quociente de reação;
+- comparação entre Q e K;
+- princípio de Le Chatelier;
+- influência da concentração;
+- influência da temperatura;
+- influência da pressão em sistemas gasosos;
+- distinção entre deslocamento e alteração da constante;
+- efeito do catalisador;
+- conexão com os equilíbrios posteriores.
+
+A apresentação de Q e K como ferramentas para prever a evolução do sistema é particularmente importante.
+
+#### 8.2.3 Importância integradora
+
+O equilíbrio químico não deverá ser tratado apenas como uma unidade isolada.
+
+Ele deverá funcionar como uma linguagem utilizada posteriormente em:
+
+- Ka e Kb;
+- Kw;
+- Kps;
+- constantes de formação;
+- hidrólise;
+- tampões;
+- equilíbrio redox;
+- equação de Nernst;
+- precipitação seletiva;
+- mascaramento;
+- marcha analítica.
+
+A estrutura das unidades posteriores deverá retomar explicitamente os conceitos construídos aqui.
+
+#### 8.2.4 Conhecimentos prévios
+
+Antes do equilíbrio químico, o estudante deverá dominar:
+
+- quantidade de matéria;
+- estequiometria;
+- concentração;
+- gases, quando Kp for tratado;
+- soluções;
+- eletrólitos;
+- equações químicas;
+- atividade, ao menos conceitualmente;
+- noção de velocidade de reação direta e inversa.
+
+A ideia de velocidade pode ser introduzida qualitativamente sem exigir o desenvolvimento completo da cinética química.
+
+#### 8.2.5 Equilíbrio dinâmico
+
+A unidade deverá reforçar que, no equilíbrio:
+
+- as reações direta e inversa continuam ocorrendo;
+- as velocidades se tornam iguais;
+- as concentrações permanecem constantes;
+- as concentrações de reagentes e produtos não precisam ser iguais;
+- o sistema exige condições macroscópicas constantes;
+- alterações externas podem estabelecer um novo estado de equilíbrio.
+
+Deverão ser evitadas expressões que sugiram que a reação parou.
+
+#### 8.2.6 Constante de equilíbrio
+
+O conteúdo deverá diferenciar:
+
+- constante termodinâmica de equilíbrio;
+- expressão aproximada em concentração;
+- Kc;
+- Kp;
+- constantes específicas dos equilíbrios em solução.
+
+Deverá ser esclarecido que a definição termodinâmica rigorosa utiliza atividades.
+
+O uso de concentrações e pressões deverá ser apresentado como forma operacional associada a determinadas condições e estados de referência.
+
+A constante de equilíbrio deverá ser interpretada em relação:
+
+- à predominância relativa de reagentes e produtos;
+- à extensão da transformação;
+- à temperatura;
+- à estequiometria utilizada para representar a reação.
+
+Deverá ser explicado que modificar a equação química modifica a expressão e o valor numérico de K.
+
+#### 8.2.7 Manipulação das constantes
+
+A unidade deverá incluir:
+
+- inversão da reação;
+- multiplicação dos coeficientes;
+- soma de reações;
+- relação entre as constantes das etapas;
+- constante global de processos acoplados.
+
+Essas operações são importantes para compreender:
+
+- dissolução seguida de complexação;
+- precipitação dependente do pH;
+- reações ácido-base acopladas;
+- processos redox;
+- deslocamento analítico de equilíbrios.
+
+#### 8.2.8 Quociente de reação
+
+A comparação entre Q e K deverá ser preservada e aprofundada.
+
+O estudante deverá compreender que:
+
+- Q utiliza a composição em qualquer instante;
+- K corresponde ao estado de equilíbrio;
+- Q menor que K favorece o sentido direto;
+- Q maior que K favorece o sentido inverso;
+- Q igual a K caracteriza o equilíbrio.
+
+Essa lógica deverá ser retomada diretamente na previsão de precipitação por meio da comparação entre produto iônico e Kps.
+
+#### 8.2.9 Cálculos de equilíbrio
+
+A unidade atual apresenta pouca estrutura para cálculos de composição no equilíbrio.
+
+Deverão ser considerados:
+
+- construção de tabelas de variação;
+- concentração inicial;
+- variação estequiométrica;
+- concentração de equilíbrio;
+- resolução de equações simples;
+- avaliação de aproximações;
+- verificação do resultado;
+- interpretação química.
+
+Os cálculos deverão ser selecionados de modo a preparar o estudante para ácido-base, solubilidade e complexação, sem transformar a unidade em tratamento matemático excessivamente abstrato.
+
+#### 8.2.10 Princípio de Le Chatelier
+
+Le Chatelier deverá ser apresentado como ferramenta qualitativa útil, mas não como substituto da análise por Q e K.
+
+Deverão ser discutidos:
+
+- adição e remoção de reagentes;
+- adição e remoção de produtos;
+- variação de volume;
+- variação de pressão;
+- adição de gás inerte;
+- variação de temperatura;
+- efeito do catalisador;
+- presença de sólidos puros;
+- diluição.
+
+Deverá ser reforçado que:
+
+- somente a temperatura altera o valor de K;
+- o catalisador não altera K;
+- o catalisador não modifica a composição final de equilíbrio;
+- a quantidade de sólido puro não altera o equilíbrio enquanto a fase estiver presente;
+- interpretações exclusivamente memorizadas podem falhar em sistemas mais complexos.
+
+#### 8.2.11 Relação com a Termodinâmica
+
+A unidade atual apresenta a relação:
+
+    ΔG° = -RT ln K
+
+Entretanto, a Termodinâmica formal aparece apenas na Unidade atual 7.
+
+Isso produz um problema de sequência: a equação é apresentada antes do desenvolvimento de energia livre de Gibbs, espontaneidade e estado padrão.
+
+Existem duas possibilidades curriculares:
+
+1. desenvolver os fundamentos da Termodinâmica antes do equilíbrio químico;
+2. apresentar inicialmente o equilíbrio de forma fenomenológica e retomar sua fundamentação termodinâmica em unidade posterior.
+
+A escolha deverá considerar:
+
+- carga horária;
+- maturidade matemática dos estudantes;
+- urgência do equilíbrio para a análise qualitativa;
+- necessidade de evitar conceitos sem fundamentação;
+- integração entre Físico-Química e Química Analítica.
+
+A decisão definitiva será tomada depois do diagnóstico da Unidade atual 7.
+
+#### 8.2.12 Relação com a cinética
+
+O equilíbrio químico depende da igualdade entre as velocidades direta e inversa, mas não exige que a cinética seja integralmente ensinada antes.
+
+Nesta etapa, poderá ser utilizada uma introdução qualitativa sobre:
+
+- reação direta;
+- reação inversa;
+- velocidade;
+- colisões;
+- estabelecimento do equilíbrio.
+
+O desenvolvimento de leis de velocidade, ordem de reação, energia de ativação e Arrhenius deverá permanecer na unidade específica de cinética.
+
+#### 8.2.13 Aplicação analítica
+
+A unidade atual afirma que uma reação de identificação precisa possuir equilíbrio favorável à formação do produto observável.
+
+Essa ideia é importante, mas deverá ser ampliada.
+
+Uma reação analítica adequada depende de:
+
+- extensão do equilíbrio;
+- seletividade;
+- sensibilidade;
+- velocidade;
+- estabilidade do produto;
+- intensidade da evidência;
+- ausência de interferentes;
+- controle das condições experimentais.
+
+Uma constante favorável, isoladamente, não garante um teste analítico confiável.
+
+#### 8.2.14 Aplicações farmacêuticas
+
+O equilíbrio químico poderá ser relacionado a:
+
+- ionização de fármacos;
+- solubilidade;
+- formação de sais;
+- sistemas tampão;
+- complexação;
+- partição;
+- incompatibilidades;
+- dissolução;
+- estabilidade dependente do meio;
+- distribuição entre espécies químicas.
+
+As aplicações deverão preparar o estudante para os conteúdos posteriores, sem antecipar todos os seus cálculos.
+
+#### 8.2.15 Atividades práticas atuais
+
+As práticas sugeridas atualmente são:
+
+- equilíbrio cromato/dicromato;
+- equilíbrio de complexos de cobalto dependente da temperatura.
+
+Embora visualmente eficientes, essas práticas exigem revisão de segurança.
+
+Compostos de cromo hexavalente apresentam riscos elevados e impacto ambiental relevante.
+
+Sais de cobalto também exigem controle de exposição e destinação adequada.
+
+Esses sistemas não deverão ser adotados automaticamente apenas por produzirem mudanças visuais intensas.
+
+#### 8.2.16 Alternativas experimentais
+
+Deverão ser avaliadas alternativas em microescala e de menor risco, envolvendo:
+
+- equilíbrio entre ferro e tiocianato;
+- indicadores ácido-base como modelo de equilíbrio;
+- formação reversível de complexos;
+- dissolução e precipitação controladas;
+- equilíbrio de espécies coloridas com reagentes menos perigosos;
+- simulações para sistemas que envolvam substâncias de maior risco.
+
+Cada proposta deverá ser avaliada quanto a:
+
+- concentração;
+- toxicidade;
+- geração de resíduos;
+- estabilidade;
+- clareza do fenômeno;
+- disponibilidade;
+- possibilidade de reversão;
+- compatibilidade com a infraestrutura.
+
+#### 8.2.17 Carga horária
+
+A carga atual é de 6 h/a teóricas e 1 h/a prática.
+
+Uma única aula prática pode ser suficiente para demonstrar deslocamento de equilíbrio, mas a carga teórica poderá ser insuficiente se forem incluídos:
+
+- manipulação de constantes;
+- cálculos de composição;
+- Q e K;
+- atividades;
+- relação termodinâmica;
+- aplicações analíticas.
+
+A carga definitiva dependerá da posição da Termodinâmica e da profundidade matemática escolhida.
+
+#### 8.2.18 Repetições e conexões
+
+Deverão ser controladas as repetições com:
+
+- Termodinâmica;
+- cinética;
+- ácido-base;
+- solubilidade;
+- complexação;
+- eletroquímica.
+
+O princípio geral será apresentado nesta unidade. Nas unidades posteriores, ele deverá ser aplicado a sistemas específicos, evitando reexplicações completas.
+
+#### 8.2.19 Recomendação preliminar
+
+A Unidade atual 2 deverá ser preservada como núcleo central da disciplina, mas precisa de:
+
+- maior rigor na definição de K;
+- desenvolvimento progressivo dos cálculos;
+- inclusão da manipulação de constantes;
+- aprofundamento de Q e K;
+- revisão da relação com a Termodinâmica;
+- revisão das aplicações analíticas;
+- substituição ou restrição das práticas de maior risco.
+
+Sua posição definitiva na sequência dependerá da análise da Termodinâmica.
+
+#### 8.2.20 Conclusão diagnóstica
+
+| Critério | Diagnóstico |
+|---|---|
+| Relevância | Essencial |
+| Função integradora | Muito alta |
+| Definição de equilíbrio | Adequada, com necessidade de aprofundamento |
+| Constante de equilíbrio | Necessita maior rigor |
+| Atividade | Precisa ser retomada |
+| Q e K | Devem ser preservados e aprofundados |
+| Cálculos | Insuficientemente desenvolvidos |
+| Le Chatelier | Adequado, mas deve ser relacionado a Q e K |
+| Relação com Termodinâmica | Problema de sequência a resolver |
+| Relação com cinética | Pode permanecer qualitativa nesta etapa |
+| Aplicação analítica | Necessita incluir seletividade, sensibilidade e velocidade |
+| Práticas atuais | Exigem revisão de segurança |
+| Carga horária | Possivelmente insuficiente |
+| Recomendação | Preservar, aprofundar e reposicionar se necessário |
