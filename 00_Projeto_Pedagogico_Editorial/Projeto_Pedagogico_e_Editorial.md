@@ -1452,3 +1452,758 @@ A revisão deverá ocorrer:
 - quando práticas ou reagentes precisarem ser substituídos por razões de segurança.
 
 Toda atualização relevante deverá ser registrada no histórico de versões do projeto.
+## 22. Sistema de materiais derivados
+
+O Livro Mestre será a fonte acadêmica central da disciplina. Todos os materiais derivados deverão nascer de seu conteúdo, preservando conceitos, terminologia, sequência didática, exemplos e aplicações.
+
+A relação entre os materiais será:
+
+> **Projeto Pedagógico e Editorial → Livro Mestre → Materiais derivados → Aplicação em sala de aula → Avaliação e revisão → Atualização do Livro Mestre**
+
+Os materiais derivados não deverão constituir fontes independentes. Quando uma correção conceitual ou atualização científica for necessária, ela deverá ser realizada primeiro no Livro Mestre e depois propagada aos demais materiais.
+
+### 22.1 Livro Mestre
+
+O Livro Mestre deverá conter o tratamento mais completo de cada conteúdo:
+
+- fundamentação conceitual;
+- desenvolvimento matemático;
+- exemplos resolvidos;
+- aplicações analíticas;
+- conexões farmacêuticas;
+- integração com as práticas;
+- estudos de caso;
+- exercícios;
+- referências;
+- orientações para os materiais derivados.
+
+### 22.2 Apostila do estudante
+
+A apostila será uma versão didática e condensada do Livro Mestre.
+
+Deverá conter:
+
+- objetivos;
+- conceitos essenciais;
+- equações fundamentais;
+- exemplos selecionados;
+- figuras;
+- conexões farmacêuticas;
+- mensagens-chave;
+- exercícios;
+- referências básicas.
+
+A redução do conteúdo não poderá produzir perda de rigor ou omissão de condições importantes para a compreensão.
+
+### 22.3 Caderno de práticas
+
+O Caderno de Práticas deverá reunir os roteiros experimentais completos.
+
+Cada prática deverá apresentar:
+
+- título;
+- objetivos;
+- fundamento;
+- resultados de aprendizagem;
+- riscos;
+- equipamentos de proteção;
+- materiais;
+- reagentes e concentrações;
+- procedimento numerado;
+- tabela para registro;
+- cálculos;
+- questões pós-laboratório;
+- tratamento dos resíduos;
+- critérios de avaliação;
+- referências.
+
+### 22.4 Guia do professor
+
+O Guia do Professor deverá conter:
+
+- objetivos de cada aula;
+- distribuição do tempo;
+- conceitos que exigem maior atenção;
+- erros frequentes;
+- estratégias de explicação;
+- resoluções completas;
+- respostas dos estudos de caso;
+- orientações para as práticas;
+- critérios de avaliação;
+- alternativas para diferentes condições de infraestrutura.
+
+### 22.5 Apresentações de slides
+
+Os slides deverão apoiar a aula, sem reproduzir integralmente o Livro Mestre ou a apostila.
+
+Deverão priorizar:
+
+- organização visual;
+- conceitos centrais;
+- esquemas;
+- gráficos;
+- figuras;
+- equações essenciais;
+- perguntas orientadoras;
+- exemplos curtos;
+- sínteses.
+
+### 22.6 Estudos de caso
+
+Os estudos de caso serão derivados das aplicações analíticas e farmacêuticas desenvolvidas no Livro Mestre.
+
+Cada caso deverá possuir:
+
+- versão do estudante;
+- orientações para o professor;
+- objetivos;
+- dados;
+- perguntas;
+- respostas esperadas;
+- critérios de avaliação;
+- referências.
+
+### 22.7 Banco de questões
+
+O banco de questões será organizado por:
+
+- unidade;
+- conteúdo;
+- objetivo de aprendizagem;
+- nível de dificuldade;
+- tipo de questão;
+- competência avaliada;
+- resposta;
+- justificativa;
+- status de revisão;
+- histórico de utilização.
+
+Questões utilizadas em avaliações poderão receber controle específico para evitar exposição ou repetição inadequada.
+
+### 22.8 Avaliações
+
+As avaliações serão construídas a partir dos objetivos e resultados de aprendizagem estabelecidos no Livro Mestre.
+
+Deverão existir arquivos separados para:
+
+- matriz da avaliação;
+- versão do estudante;
+- gabarito;
+- resolução comentada;
+- critérios de correção;
+- análise posterior do desempenho.
+
+### 22.9 Flashcards e materiais de revisão
+
+Os flashcards serão destinados à recuperação ativa de:
+
+- conceitos;
+- símbolos;
+- unidades;
+- relações fundamentais;
+- espécies químicas;
+- condições experimentais;
+- erros frequentes.
+
+Eles não deverão substituir exercícios de cálculo, interpretação ou integração.
+
+### 22.10 Rastreabilidade entre os materiais
+
+Sempre que possível, os materiais derivados deverão indicar a unidade e a seção de origem no Livro Mestre.
+
+Essa rastreabilidade permitirá:
+
+- localizar rapidamente a fonte;
+- corrigir inconsistências;
+- atualizar materiais;
+- evitar contradições;
+- identificar lacunas;
+- manter coerência entre ensino e avaliação.
+## 23. Arquitetura das pastas do repositório
+
+O repositório será organizado para separar planejamento, fonte acadêmica, materiais derivados, referências e versões publicadas.
+
+A estrutura proposta será:
+
+    Quimica_Analitica_Qualitativa_Fisico_Quimica/
+    │
+    ├── 00_Projeto_Pedagogico_Editorial/
+    │   ├── Projeto_Pedagogico_e_Editorial.md
+    │   └── Padrao_Editorial.md
+    │
+    ├── 01_Planejamento_Curricular/
+    │   ├── Sumario_Geral.md
+    │   ├── Distribuicao_da_Carga_Horaria.md
+    │   ├── Cronograma_Semestral.md
+    │   └── Matriz_de_Integracao.md
+    │
+    ├── 02_Livro_Mestre/
+    │   ├── Unidade_01/
+    │   ├── Unidade_02/
+    │   ├── Unidade_03/
+    │   ├── Unidade_04/
+    │   ├── Unidade_05/
+    │   ├── Unidade_06/
+    │   ├── Unidade_07/
+    │   ├── Unidade_08/
+    │   ├── Unidade_09/
+    │   └── Unidade_10/
+    │
+    ├── 03_Figuras/
+    │   ├── Editaveis/
+    │   ├── Finais/
+    │   └── Fontes_e_Licencas/
+    │
+    ├── 04_Guia_do_Professor/
+    │
+    ├── 05_Apostila_do_Estudante/
+    │
+    ├── 06_Slides/
+    │
+    ├── 07_Estudos_de_Caso/
+    │
+    ├── 08_Banco_de_Questoes/
+    │
+    ├── 09_Caderno_de_Praticas/
+    │
+    ├── 10_Avaliacoes/
+    │
+    ├── 11_Flashcards_e_Revisao/
+    │
+    ├── 12_Referencias/
+    │   ├── Livros/
+    │   ├── Artigos/
+    │   ├── Farmacopeias_e_Compendios/
+    │   ├── Normas_e_Regulamentacoes/
+    │   └── Seguranca_Quimica/
+    │
+    ├── 13_Materiais_de_Apoio/
+    │   └── Texto_Base_Inicial/
+    │
+    ├── 14_Versoes_Publicadas/
+    │   ├── Apostila/
+    │   ├── Caderno_de_Praticas/
+    │   └── Livro_Mestre/
+    │
+    ├── 99_Arquivo_Historico/
+    │
+    ├── README.md
+    └── .gitignore
+
+A numeração final das unidades será definida somente depois da revisão e aprovação do sumário.
+
+### 23.1 Destino dos nove arquivos existentes
+
+Os nove arquivos atualmente existentes serão preservados como texto-base inicial.
+
+Antes da reorganização, deverão ser:
+
+- conferidos;
+- associados ao novo sumário;
+- identificados como texto-base;
+- preservados sem perda de conteúdo;
+- utilizados na redação das novas unidades.
+
+Eles não deverão ser considerados automaticamente como capítulos finais do Livro Mestre.
+
+### 23.2 Destino da apostila original
+
+A apostila Word que originou o projeto deverá ser preservada em:
+
+    13_Materiais_de_Apoio/Texto_Base_Inicial/
+
+Ela funcionará como documento histórico e fonte de consulta durante a reconstrução do material.
+
+### 23.3 Pastas vazias
+
+Como o Git não registra pastas vazias, cada nova pasta deverá receber um arquivo necessário ao projeto ou, quando indispensável, um arquivo de orientação como `README.md`.
+
+A estrutura não deverá ser criada integralmente antes de sua utilização. As pastas poderão ser implantadas progressivamente, acompanhando as etapas do projeto.
+## 24. Fluxo de produção e validação
+
+A produção será realizada em blocos pequenos, com revisão e registro frequentes.
+
+Cada conteúdo deverá percorrer as seguintes etapas:
+
+1. planejamento;
+2. redação inicial;
+3. revisão conceitual;
+4. revisão matemática;
+5. revisão farmacêutica;
+6. revisão pedagógica;
+7. revisão editorial;
+8. verificação das referências;
+9. validação;
+10. registro no Git;
+11. produção dos materiais derivados.
+
+### 24.1 Planejamento
+
+Antes da redação, deverão ser definidos:
+
+- objetivos;
+- conceitos;
+- pré-requisitos;
+- exemplos;
+- figuras;
+- aplicações;
+- prática relacionada;
+- estudo de caso;
+- exercícios;
+- referências iniciais.
+
+### 24.2 Redação inicial
+
+A redação será desenvolvida seção por seção, evitando a produção simultânea de capítulos extensos sem pontos intermediários de verificação.
+
+### 24.3 Revisão conceitual e matemática
+
+A revisão deverá verificar:
+
+- correção científica;
+- terminologia;
+- equações;
+- unidades;
+- cálculos;
+- aproximações;
+- coerência entre texto e exemplos;
+- interpretação dos resultados.
+
+### 24.4 Revisão farmacêutica
+
+A revisão farmacêutica deverá verificar:
+
+- pertinência da aplicação;
+- precisão do contexto;
+- relação com a formação profissional;
+- ausência de generalizações inadequadas;
+- atualização de informações técnicas e regulatórias.
+
+### 24.5 Revisão pedagógica
+
+A revisão pedagógica deverá verificar:
+
+- clareza;
+- progressão;
+- conhecimentos prévios;
+- carga cognitiva;
+- coerência entre objetivos e atividades;
+- qualidade dos exemplos;
+- adequação dos exercícios;
+- integração entre teoria e prática.
+
+### 24.6 Revisão editorial
+
+A revisão editorial deverá verificar:
+
+- títulos;
+- hierarquia;
+- terminologia;
+- estilo;
+- listas;
+- figuras;
+- tabelas;
+- boxes;
+- legendas;
+- referências cruzadas;
+- consistência gráfica.
+
+### 24.7 Validação
+
+Nenhuma unidade será considerada consolidada apenas porque seu texto foi redigido.
+
+A validação deverá confirmar que:
+
+- todos os componentes previstos estão presentes;
+- os cálculos foram conferidos;
+- as referências foram verificadas;
+- as figuras correspondem ao texto;
+- os exercícios podem ser resolvidos;
+- as práticas são executáveis e seguras;
+- os materiais derivados permanecem coerentes.
+
+### 24.8 Registro no Git
+
+Os commits deverão corresponder a marcos compreensíveis do projeto.
+
+Deverão ser evitados commits que:
+
+- misturem conteúdos não relacionados;
+- incluam arquivos acidentalmente;
+- utilizem mensagens vagas;
+- reúnam grandes alterações sem revisão intermediária.
+
+Antes de cada commit, deverão ser verificados:
+
+- `git status`;
+- arquivos preparados;
+- diferenças;
+- espaços ou erros de formatação;
+- escopo da alteração;
+- mensagem do commit.
+
+## 25. Nomenclatura e controle de versões
+
+A nomenclatura deverá favorecer organização, compatibilidade entre sistemas e localização dos arquivos.
+
+### 25.1 Nomes de pastas e arquivos
+
+Os nomes deverão:
+
+- evitar espaços;
+- evitar acentos;
+- utilizar `_` como separador;
+- apresentar numeração com dois algarismos quando houver sequência;
+- identificar claramente o conteúdo;
+- evitar abreviações ambíguas.
+
+Exemplos:
+
+    Unidade_01_Materia_Solucoes_Eletrolitos.md
+    Figura_01_03_Dissociacao_Ionica.png
+    Estudo_de_Caso_01_Isotonicidade.md
+    Pratica_04_Precipitacao_Seletiva.md
+
+### 25.2 Arquivos de trabalho
+
+O arquivo-fonte mantido no Git será a versão de trabalho oficial.
+
+Não deverão ser criados nomes como:
+
+    final.docx
+    final_novo.docx
+    final_corrigido.docx
+    final_agora_vai.docx
+
+O histórico de alterações será controlado pelo Git.
+
+### 25.3 Versões publicadas
+
+Arquivos destinados à distribuição poderão utilizar versões explícitas:
+
+    Apostila_Versao_1_0.pdf
+    Caderno_de_Praticas_Versao_1_0.pdf
+    Livro_Mestre_Versao_1_0.pdf
+
+A numeração seguirá, preferencialmente:
+
+- alteração principal: `2.0`;
+- ampliação ou revisão relevante: `1.1`;
+- correção pontual: `1.0.1`.
+
+### 25.4 Datas
+
+Quando datas forem necessárias nos nomes, será utilizado o padrão:
+
+    AAAA-MM-DD
+
+Exemplo:
+
+    Relatorio_de_Revisao_2026-07-21.md
+
+### 25.5 Mensagens de commit
+
+As mensagens deverão ser curtas, descritivas e relacionadas ao conteúdo alterado.
+
+Exemplos:
+
+    cria sumario geral do Livro Mestre
+    revisa objetivos da Unidade 1
+    desenvolve equilibrio acido-base
+    adiciona exemplos de calculo de Kps
+    corrige equacao de Nernst
+    inclui protocolo de descarte da pratica 4
+
+### 25.6 Histórico de versões
+
+As versões publicadas deverão possuir registro contendo:
+
+- número;
+- data;
+- alterações principais;
+- responsáveis;
+- unidades revisadas;
+- pendências conhecidas;
+- referências atualizadas.
+## 26. Etapas de implantação do projeto
+
+O projeto será implantado progressivamente, respeitando a dependência entre planejamento, produção, validação e aplicação.
+
+### 26.1 Etapa 1 — Projeto Pedagógico e Editorial
+
+Objetivos:
+
+- definir a identidade do projeto;
+- estabelecer os princípios pedagógicos;
+- determinar a estrutura dos materiais;
+- registrar os padrões editoriais;
+- organizar o fluxo de trabalho;
+- definir critérios de qualidade.
+
+Produto:
+
+    00_Projeto_Pedagogico_Editorial/Projeto_Pedagogico_e_Editorial.md
+
+### 26.2 Etapa 2 — Revisão do sumário
+
+Objetivos:
+
+- revisar as unidades existentes;
+- identificar lacunas conceituais;
+- inserir propriedades coligativas;
+- desenvolver osmose, osmolaridade e isotonicidade;
+- verificar a sequência entre Termodinâmica, equilíbrio, cinética e eletroquímica;
+- compatibilizar teoria e prática;
+- redistribuir a carga horária;
+- estabelecer as conexões entre as unidades.
+
+Produtos:
+
+    01_Planejamento_Curricular/Sumario_Geral.md
+    01_Planejamento_Curricular/Distribuicao_da_Carga_Horaria.md
+    01_Planejamento_Curricular/Matriz_de_Integracao.md
+
+### 26.3 Etapa 3 — Implantação da arquitetura
+
+Objetivos:
+
+- criar progressivamente as pastas necessárias;
+- preservar os arquivos existentes;
+- mover os textos-base para a localização adequada;
+- preservar a apostila original;
+- atualizar o `README.md`;
+- documentar a nova estrutura;
+- verificar o histórico do Git após a reorganização.
+
+A movimentação dos arquivos deverá ocorrer somente depois da aprovação do sumário e da definição da correspondência entre os textos antigos e as novas unidades.
+
+### 26.4 Etapa 4 — Redação do Livro Mestre
+
+Objetivos:
+
+- desenvolver cada unidade;
+- revisar os conceitos;
+- construir o desenvolvimento matemático;
+- produzir exemplos resolvidos;
+- definir as figuras;
+- elaborar estudos de caso;
+- produzir exercícios;
+- verificar as referências;
+- estabelecer a conexão com as práticas.
+
+A redação seguirá a ordem aprovada no sumário e será realizada em blocos pequenos, com commits intermediários.
+
+### 26.5 Etapa 5 — Desenvolvimento das práticas
+
+Objetivos:
+
+- revisar as atividades sugeridas;
+- verificar sua relação com a teoria;
+- avaliar os riscos;
+- selecionar reagentes;
+- substituir reagentes de maior perigo, quando possível;
+- reduzir escalas;
+- estabelecer o tratamento dos resíduos;
+- elaborar roteiros completos;
+- testar a viabilidade experimental;
+- definir critérios de avaliação.
+
+Nenhuma prática será considerada concluída antes da revisão de segurança e da análise de seus resíduos.
+
+### 26.6 Etapa 6 — Produção dos materiais derivados
+
+Objetivos:
+
+- produzir a apostila do estudante;
+- criar os slides;
+- elaborar o Guia do Professor;
+- consolidar o banco de questões;
+- preparar as avaliações;
+- produzir flashcards;
+- criar materiais de revisão;
+- manter rastreabilidade com o Livro Mestre.
+
+### 26.7 Etapa 7 — Aplicação e avaliação
+
+Objetivos:
+
+- utilizar os materiais em sala e no laboratório;
+- registrar dificuldades;
+- analisar o desempenho dos estudantes;
+- avaliar o tempo necessário para cada atividade;
+- verificar a adequação dos exemplos;
+- identificar lacunas;
+- avaliar a segurança das práticas;
+- recolher sugestões;
+- propor melhorias.
+
+As observações obtidas durante a aplicação deverão retornar ao Livro Mestre e orientar sua revisão.
+
+### 26.8 Etapa 8 — Revisão e publicação
+
+Objetivos:
+
+- incorporar os resultados da aplicação;
+- realizar revisão científica;
+- realizar revisão pedagógica;
+- realizar revisão editorial;
+- verificar as referências;
+- consolidar as figuras;
+- atualizar o histórico de versões;
+- gerar os arquivos para distribuição;
+- registrar a versão publicada.
+
+## 27. Critérios de qualidade e conclusão
+
+A qualidade do projeto será avaliada em diferentes dimensões complementares.
+
+### 27.1 Qualidade científica
+
+O conteúdo deverá apresentar:
+
+- conceitos corretos;
+- terminologia adequada;
+- equações consistentes;
+- dados verificáveis;
+- referências confiáveis;
+- limitações explícitas;
+- aproximações justificadas;
+- coerência entre texto, figuras e exemplos.
+
+### 27.2 Qualidade pedagógica
+
+O material deverá apresentar:
+
+- objetivos claros;
+- progressão conceitual;
+- contextualização;
+- conhecimentos prévios;
+- exemplos;
+- exercícios;
+- integração entre teoria e prática;
+- linguagem adequada ao público;
+- oportunidades de aprendizagem ativa;
+- coerência entre ensino e avaliação.
+
+### 27.3 Qualidade matemática
+
+Os cálculos deverão apresentar:
+
+- identificação dos dados;
+- estratégia;
+- equações;
+- unidades;
+- desenvolvimento;
+- arredondamento;
+- algarismos significativos;
+- interpretação;
+- coerência dimensional;
+- coerência química.
+
+### 27.4 Qualidade experimental
+
+As práticas deverão ser:
+
+- executáveis;
+- seguras;
+- adequadas à infraestrutura;
+- coerentes com a teoria;
+- acompanhadas de procedimentos claros;
+- ambientalmente responsáveis;
+- acompanhadas de critérios de interpretação;
+- testadas antes de sua consolidação.
+
+### 27.5 Qualidade farmacêutica
+
+As aplicações deverão ser:
+
+- pertinentes;
+- cientificamente corretas;
+- atuais;
+- relacionadas à formação profissional;
+- sustentadas por referências;
+- integradas ao conteúdo;
+- compatíveis com o nível de formação do estudante.
+
+### 27.6 Qualidade editorial
+
+O material deverá manter:
+
+- hierarquia;
+- consistência;
+- legibilidade;
+- identidade visual;
+- qualidade das figuras;
+- padronização das tabelas;
+- uso moderado dos boxes;
+- referências cruzadas;
+- acessibilidade;
+- uniformidade terminológica.
+
+### 27.7 Qualidade documental
+
+O projeto deverá garantir:
+
+- rastreabilidade;
+- controle de versões;
+- organização dos arquivos;
+- histórico de alterações;
+- preservação das fontes;
+- coerência entre os materiais derivados;
+- identificação das versões publicadas;
+- registro das pendências.
+
+### 27.8 Status de cada unidade
+
+Cada unidade poderá receber um dos seguintes status:
+
+1. **Planejada:** estrutura e objetivos definidos.
+2. **Em redação:** conteúdo em desenvolvimento.
+3. **Redigida:** primeira versão concluída.
+4. **Revisada:** conteúdo científico e pedagógico conferido.
+5. **Validada:** componentes completos e aprovados.
+6. **Aplicada:** utilizada com estudantes.
+7. **Consolidada:** revisada após aplicação.
+8. **Publicada:** incorporada a uma versão distribuída.
+
+### 27.9 Critério para validação de uma unidade
+
+Uma unidade somente será considerada validada quando apresentar:
+
+- objetivos;
+- situação-problema;
+- grande ideia;
+- conhecimentos prévios;
+- fundamentação conceitual;
+- desenvolvimento matemático;
+- exemplos resolvidos;
+- aplicação analítica;
+- conexão farmacêutica;
+- integração prática;
+- estudo de caso;
+- mensagem-chave;
+- resumo;
+- exercícios;
+- respostas;
+- figuras previstas;
+- referências verificadas;
+- revisão de segurança;
+- revisão editorial.
+
+### 27.10 Critério para conclusão do projeto
+
+O projeto será considerado concluído em sua primeira versão quando:
+
+- o Projeto Pedagógico e Editorial estiver consolidado;
+- o sumário estiver aprovado;
+- todas as unidades estiverem validadas;
+- as práticas estiverem testadas;
+- as figuras essenciais estiverem concluídas;
+- as referências estiverem auditadas;
+- a apostila do estudante estiver produzida;
+- o Guia do Professor estiver disponível;
+- o banco de questões estiver organizado;
+- os materiais estiverem prontos para aplicação;
+- a versão 1.0 estiver registrada e publicada.
+
+A conclusão da primeira versão não encerrará o desenvolvimento. O Livro Mestre permanecerá em processo contínuo de avaliação, correção e atualização.
