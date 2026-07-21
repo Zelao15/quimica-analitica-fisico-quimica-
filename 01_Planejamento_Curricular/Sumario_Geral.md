@@ -423,3 +423,316 @@ A próxima etapa será realizar uma análise diagnóstica das nove unidades, con
 - relação com as demais unidades.
 
 Somente depois dessa análise será proposta a nova estrutura do sumário.
+## 8. Análise diagnóstica das unidades atuais
+
+A análise diagnóstica avaliará cada unidade segundo os seguintes critérios:
+
+- importância do conteúdo;
+- adequação da profundidade;
+- conhecimentos prévios;
+- progressão conceitual;
+- desenvolvimento matemático;
+- integração entre as duas áreas;
+- aplicação farmacêutica;
+- relação com as práticas;
+- segurança;
+- carga horária;
+- permanência, ampliação, deslocamento ou exclusão dos conteúdos.
+
+As conclusões desta seção ainda são diagnósticas. A numeração e a distribuição definitiva serão estabelecidas somente depois da análise das nove unidades.
+
+### 8.1 Unidade atual 1 — Matéria, soluções e eletrólitos
+
+#### 8.1.1 Função atual
+
+A unidade procura estabelecer a base quantitativa e físico-química para os conteúdos posteriores.
+
+Ela reúne:
+
+- estados da matéria;
+- gases;
+- soluções;
+- unidades de concentração;
+- eletrólitos;
+- dissociação;
+- atividade;
+- força iônica;
+- coeficiente de atividade;
+- preparo e diluição de soluções.
+
+Essa função introdutória é necessária, mas a unidade atual reúne conteúdos numerosos e com níveis de complexidade muito diferentes.
+
+#### 8.1.2 Pontos fortes
+
+Devem ser preservados:
+
+- início pelos sistemas materiais e pelas soluções;
+- apresentação das principais unidades de concentração;
+- distinção entre eletrólitos fortes, fracos e não eletrólitos;
+- introdução ao grau de dissociação;
+- distinção entre concentração e atividade;
+- introdução à força iônica;
+- relação com os equilíbrios posteriores;
+- preparo e diluição de soluções;
+- conexão com formas farmacêuticas líquidas.
+
+A presença de atividade e força iônica é especialmente importante porque impede que os cálculos com concentração sejam apresentados como descrições exatas de qualquer solução real.
+
+#### 8.1.3 Problemas de abrangência
+
+A unidade atual reúne pelo menos quatro conjuntos conceituais:
+
+1. estados da matéria e gases;
+2. soluções e concentração;
+3. eletrólitos e dissociação;
+4. atividade e força iônica.
+
+Esses conjuntos não possuem o mesmo grau de dificuldade.
+
+O estudante passa rapidamente de leis elementares dos gases para a Lei de Debye-Hückel, sem espaço suficiente para desenvolver:
+
+- comportamento dos líquidos;
+- interações soluto-solvente;
+- dissolução;
+- solução ideal e solução real;
+- pressão de vapor;
+- propriedades coligativas;
+- osmose.
+
+A amplitude da unidade dificulta o aprofundamento e pode produzir uma sequência excessivamente acelerada.
+
+#### 8.1.4 Tratamento insuficiente dos gases
+
+O conteúdo atual apresenta apenas:
+
+- equação dos gases ideais;
+- Lei de Boyle;
+- Lei de Charles;
+- referência breve à teoria cinética.
+
+Esse tratamento é insuficiente caso gases façam parte explicitamente da formação prevista.
+
+Deverão ser considerados:
+
+- variáveis de estado;
+- unidades de pressão;
+- temperatura absoluta;
+- equação combinada dos gases;
+- equação dos gases ideais;
+- misturas gasosas;
+- pressões parciais;
+- Lei de Dalton;
+- teoria cinético-molecular;
+- desvios do comportamento ideal;
+- aplicações farmacêuticas.
+
+As aplicações poderão envolver:
+
+- gases medicinais;
+- aerossóis;
+- inaladores;
+- recipientes pressurizados;
+- armazenamento;
+- influência da temperatura e da pressão.
+
+#### 8.1.5 Ausência das propriedades dos líquidos
+
+A passagem direta dos gases para as soluções deixa pouco desenvolvidas propriedades importantes dos líquidos.
+
+Deverão ser consideradas:
+
+- forças intermoleculares;
+- evaporação;
+- condensação;
+- pressão de vapor;
+- volatilidade;
+- ponto de ebulição;
+- viscosidade;
+- densidade;
+- relação entre temperatura e propriedades dos líquidos.
+
+Pressão de vapor e volatilidade são pré-requisitos para o desenvolvimento das propriedades coligativas.
+
+Viscosidade e fenômenos interfaciais poderão ser aprofundados posteriormente, evitando sobreposição com a unidade de interfaces e sistemas dispersos.
+
+#### 8.1.6 Soluções e unidades de concentração
+
+O conteúdo de soluções deverá ser preservado e ampliado.
+
+Deverão ser abordados:
+
+- soluto e solvente;
+- processo de dissolução;
+- solvatação e hidratação;
+- soluções moleculares e iônicas;
+- miscibilidade;
+- soluções insaturadas, saturadas e supersaturadas;
+- concentração comum;
+- concentração em quantidade de matéria;
+- porcentagens;
+- ppm e ppb;
+- molalidade;
+- fração molar;
+- diluição;
+- mistura de soluções.
+
+A normalidade poderá ser apresentada como unidade dependente da reação, com explicação cuidadosa de suas limitações.
+
+A padronização de soluções deverá ser tratada apenas no nível necessário às práticas da disciplina, evitando sobreposição excessiva com Química Analítica Quantitativa.
+
+#### 8.1.7 Eletrólitos e dissociação
+
+Devem ser preservados:
+
+- eletrólitos fortes;
+- eletrólitos fracos;
+- não eletrólitos;
+- dissociação;
+- ionização;
+- grau de dissociação;
+- condutividade qualitativa das soluções.
+
+Deverá ser explicitada a diferença entre:
+
+- dissociação de compostos iônicos;
+- ionização de substâncias moleculares;
+- dissolução sem formação de íons.
+
+A Lei de diluição de Ostwald deverá permanecer associada aos equilíbrios ácido-base, evitando antecipação matemática excessiva.
+
+#### 8.1.8 Atividade e força iônica
+
+Atividade, coeficiente de atividade e força iônica deverão ser preservados, mas com tratamento progressivo.
+
+O estudante deverá compreender inicialmente que:
+
+- concentração representa a quantidade analítica;
+- atividade representa o comportamento químico efetivo;
+- interações iônicas produzem desvios do comportamento ideal;
+- soluções muito diluídas permitem aproximações;
+- a carga do íon influencia sua contribuição para a força iônica.
+
+A Lei limite de Debye-Hückel poderá ser apresentada:
+
+- conceitualmente;
+- com um exemplo simples;
+- com indicação de suas condições de validade;
+- sem exigir aplicação repetitiva antes do domínio dos equilíbrios.
+
+O aprofundamento poderá ser retomado quando atividade for aplicada a pH, Kps, complexação e equação de Nernst.
+
+#### 8.1.9 Propriedades coligativas como lacuna central
+
+A maior lacuna da unidade atual é a ausência de desenvolvimento sistemático das propriedades coligativas.
+
+Deverão ser incluídos:
+
+- pressão de vapor;
+- Lei de Raoult;
+- abaixamento relativo da pressão de vapor;
+- elevação do ponto de ebulição;
+- abaixamento do ponto de congelamento;
+- pressão osmótica;
+- fator de van’t Hoff;
+- comportamento de eletrólitos;
+- dissociação e número de partículas;
+- aplicações farmacêuticas.
+
+O conteúdo possui importância suficiente para constituir núcleo próprio e não deverá permanecer apenas como referência associada à molalidade.
+
+#### 8.1.10 Osmose, osmolaridade e isotonicidade
+
+Deverão ser desenvolvidos:
+
+- membrana semipermeável;
+- osmose;
+- pressão osmótica;
+- osmolaridade;
+- osmolalidade;
+- tonicidade;
+- soluções isotônicas;
+- soluções hipotônicas;
+- soluções hipertônicas;
+- influência da dissociação;
+- cálculo de equivalência osmótica;
+- aplicações parenterais;
+- aplicações oftálmicas.
+
+Deverá ser diferenciada a quantidade total de partículas osmoticamente ativas do efeito biológico efetivo de uma solução sobre uma célula.
+
+#### 8.1.11 Práticas
+
+As práticas atuais de preparo e diluição são adequadas, mas deverão ser reorganizadas.
+
+Poderão ser consideradas:
+
+- preparo de soluções em diferentes unidades;
+- diluição de solução-estoque;
+- comparação da condutividade de eletrólitos e não eletrólitos;
+- determinação ou comparação de densidades;
+- observação do efeito da concentração;
+- demonstração de osmose;
+- estudo de crioscopia;
+- cálculo e preparo de solução aproximadamente isotônica.
+
+A propagação formal de incerteza poderá ser deslocada para Química Analítica Quantitativa. Nesta disciplina, serão priorizados erro de preparo, precisão das vidrarias e coerência dos resultados.
+
+#### 8.1.12 Segurança
+
+As práticas desta etapa apresentam riscos geralmente controláveis, mas deverão considerar:
+
+- identificação dos reagentes;
+- uso de equipamentos de proteção;
+- preparo correto de ácidos e bases diluídos;
+- risco de recipientes pressurizados;
+- aquecimento;
+- descarte de soluções;
+- proibição de pipetagem com a boca;
+- rotulagem imediata.
+
+#### 8.1.13 Repetições e deslocamentos necessários
+
+Alguns conteúdos deverão ser reposicionados:
+
+- classificação em solução saturada e supersaturada deverá conectar-se à solubilidade;
+- Lei de diluição de Ostwald deverá ser desenvolvida em ácido-base;
+- viscosidade deverá conectar-se aos líquidos e aos sistemas dispersos;
+- tensão superficial deverá permanecer na unidade de interfaces;
+- padronização formal deverá ser limitada para evitar duplicação com análise quantitativa;
+- propagação matemática de incerteza deverá ser aprofundada na disciplina quantitativa.
+
+#### 8.1.14 Recomendação preliminar
+
+A Unidade atual 1 não deverá ser mantida integralmente como uma única unidade.
+
+Recomenda-se seu desmembramento provisório em três núcleos:
+
+1. **Estados da matéria, gases e propriedades dos líquidos.**
+2. **Soluções, concentração, eletrólitos, atividade e força iônica.**
+3. **Propriedades coligativas, osmose, osmolaridade e isotonicidade.**
+
+A decisão sobre transformar esses núcleos em duas ou três unidades definitivas dependerá:
+
+- da análise das demais unidades;
+- da carga horária disponível;
+- da sequência conceitual;
+- das práticas selecionadas;
+- do equilíbrio entre Físico-Química e Química Analítica Qualitativa.
+
+#### 8.1.15 Conclusão diagnóstica
+
+| Critério | Diagnóstico |
+|---|---|
+| Relevância | Muito alta |
+| Abrangência atual | Excessiva |
+| Profundidade | Irregular |
+| Gases | Insuficientes |
+| Líquidos | Praticamente ausentes |
+| Soluções | Necessitam ampliação |
+| Eletrólitos | Adequados, com necessidade de refinamento |
+| Atividade e força iônica | Importantes, mas introduzidas rapidamente |
+| Propriedades coligativas | Ausentes |
+| Osmose e isotonicidade | Apenas mencionadas |
+| Práticas | Necessitam reorganização |
+| Segurança | Riscos controláveis |
+| Recomendação | Desmembrar e ampliar |
