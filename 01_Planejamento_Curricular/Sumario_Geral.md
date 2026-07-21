@@ -8231,3 +8231,446 @@ Para cada unidade serão definidos:
 - referências estruturantes.
 
 Somente depois da aprovação desse sumário detalhado será iniciada a reorganização dos nove arquivos existentes.
+## 12. Sumário detalhado da arquitetura aprovada
+
+O sumário detalhado definirá o escopo acadêmico de cada uma das 12 unidades aprovadas.
+
+Nesta etapa não será redigido ainda o capítulo completo. Para cada unidade serão estabelecidos:
+
+- título;
+- carga horária;
+- grande ideia;
+- função curricular;
+- objetivos de aprendizagem;
+- pré-requisitos;
+- conteúdos;
+- desenvolvimento matemático;
+- aplicações analíticas;
+- aplicações farmacêuticas;
+- atividade prática;
+- estudo de caso;
+- conexões;
+- delimitações;
+- referências estruturantes.
+
+A aprovação do sumário detalhado deverá ocorrer antes da reorganização dos nove textos-base existentes.
+
+### 12.1 Unidade 1 — Estados físicos, gases e líquidos
+
+**Carga horária:** 4 h/a teóricas e 2 h/a práticas.
+
+#### 12.1.1 Grande ideia
+
+O estado físico e as propriedades macroscópicas de uma substância resultam da relação entre energia, movimento molecular e forças intermoleculares.
+
+Essas propriedades determinam como materiais de interesse farmacêutico podem ser armazenados, manipulados, transformados e analisados.
+
+#### 12.1.2 Função curricular
+
+A Unidade 1 fornecerá os fundamentos necessários para compreender:
+
+- comportamento dos gases;
+- propriedades dos líquidos;
+- mudanças de fase;
+- formação de soluções;
+- volatilidade;
+- pressão de vapor;
+- viscosidade;
+- tensão superficial;
+- sistemas farmacêuticos líquidos e gasosos;
+- processos posteriores de dissolução, osmose e interfaces.
+
+Ela deverá estabelecer a passagem entre a descrição macroscópica da matéria e sua interpretação molecular.
+
+#### 12.1.3 Objetivos de aprendizagem
+
+Ao final da unidade, o estudante deverá ser capaz de:
+
+1. relacionar os estados físicos ao movimento molecular e às forças intermoleculares;
+2. diferenciar propriedades intensivas e extensivas;
+3. interpretar pressão, volume, temperatura e quantidade de matéria;
+4. aplicar a equação dos gases ideais em situações simples;
+5. reconhecer os limites do modelo de gás ideal;
+6. explicar qualitativamente desvios do comportamento ideal;
+7. relacionar forças intermoleculares às propriedades dos líquidos;
+8. interpretar pressão de vapor e volatilidade;
+9. descrever mudanças de fase;
+10. interpretar um diagrama de fases simples;
+11. relacionar viscosidade, densidade e tensão superficial às interações moleculares;
+12. reconhecer aplicações analíticas e farmacêuticas dessas propriedades;
+13. registrar e interpretar medidas experimentais de propriedades físicas.
+
+#### 12.1.4 Pré-requisitos
+
+A unidade pressupõe conhecimentos introdutórios sobre:
+
+- unidades e conversões;
+- notação científica;
+- algarismos significativos;
+- massa;
+- volume;
+- temperatura;
+- quantidade de matéria;
+- estrutura atômica;
+- ligações químicas;
+- polaridade molecular.
+
+Quando necessário, esses conceitos deverão ser retomados de forma breve.
+
+#### 12.1.5 Conteúdos conceituais
+
+##### 12.1.5.1 Descrição macroscópica da matéria
+
+- sistema e amostra;
+- fase;
+- componente;
+- propriedades físicas;
+- propriedades químicas;
+- propriedades intensivas;
+- propriedades extensivas;
+- estado físico;
+- transformação física;
+- transformação química.
+
+##### 12.1.5.2 Modelo molecular dos estados físicos
+
+- movimento das partículas;
+- distância intermolecular;
+- organização;
+- forças de atração;
+- energia cinética;
+- estado sólido;
+- estado líquido;
+- estado gasoso;
+- transições entre estados.
+
+##### 12.1.5.3 Sólidos como ponto de partida
+
+- organização cristalina e amorfa em nível introdutório;
+- rigidez;
+- forma e volume;
+- partículas constituintes;
+- fusão;
+- sublimação;
+- relação preliminar entre estado sólido e propriedades farmacêuticas.
+
+Polimorfismo, solvatos, hidratos e estabilidade do estado sólido serão retomados nas unidades de Termodinâmica e Solubilidade.
+
+##### 12.1.5.4 Variáveis de estado dos gases
+
+- pressão;
+- volume;
+- temperatura absoluta;
+- quantidade de matéria;
+- condições do sistema;
+- unidades;
+- conversões;
+- interpretação física.
+
+##### 12.1.5.5 Leis empíricas dos gases
+
+- relação entre pressão e volume;
+- relação entre volume e temperatura;
+- relação entre volume e quantidade de matéria;
+- condições mantidas constantes;
+- construção e interpretação de gráficos;
+- limites das extrapolações.
+
+##### 12.1.5.6 Equação dos gases ideais
+
+- modelo de gás ideal;
+- equação \(PV=nRT\);
+- significado das grandezas;
+- escolha da constante dos gases;
+- coerência das unidades;
+- volume molar;
+- densidade de gases;
+- massa molar;
+- misturas gasosas em nível introdutório.
+
+##### 12.1.5.7 Pressões parciais
+
+- mistura de gases;
+- pressão total;
+- pressão parcial;
+- fração molar;
+- Lei de Dalton;
+- gases coletados sobre líquidos;
+- correção da pressão de vapor.
+
+##### 12.1.5.8 Teoria cinético-molecular
+
+- movimento molecular;
+- colisões;
+- pressão;
+- temperatura;
+- energia cinética média;
+- distribuição de velocidades em nível qualitativo;
+- interpretação molecular das leis dos gases.
+
+##### 12.1.5.9 Gases reais
+
+- limitações do modelo ideal;
+- volume molecular;
+- forças intermoleculares;
+- influência da pressão;
+- influência da temperatura;
+- fator de compressibilidade em nível introdutório;
+- equação de van der Waals como modelo conceitual.
+
+Não será exigido desenvolvimento matemático extenso das equações de estado reais.
+
+##### 12.1.5.10 Forças intermoleculares
+
+- forças de dispersão;
+- interações dipolo–dipolo;
+- ligação de hidrogênio;
+- interações íon–dipolo;
+- polarizabilidade;
+- relação entre estrutura e intensidade das interações.
+
+##### 12.1.5.11 Estrutura e propriedades dos líquidos
+
+- volume definido;
+- fluidez;
+- organização molecular;
+- mobilidade;
+- compressibilidade reduzida;
+- coesão;
+- adesão;
+- dependência com a temperatura.
+
+##### 12.1.5.12 Densidade
+
+- massa por unidade de volume;
+- dependência com a temperatura;
+- densidade relativa;
+- aplicação em líquidos farmacêuticos;
+- uso em identificação e controle;
+- limitações da medida.
+
+##### 12.1.5.13 Viscosidade
+
+- resistência ao escoamento;
+- influência das forças intermoleculares;
+- influência da temperatura;
+- viscosidade dinâmica;
+- comparação qualitativa entre líquidos;
+- relação preliminar com formulações.
+
+O comportamento reológico não newtoniano será retomado na Unidade 11.
+
+##### 12.1.5.14 Tensão superficial
+
+- origem molecular;
+- energia da superfície;
+- coesão;
+- formação de gotas;
+- influência da temperatura;
+- influência da composição;
+- introdução à molhabilidade.
+
+O desenvolvimento completo de interfaces e tensoativos será realizado na Unidade 11.
+
+##### 12.1.5.15 Pressão de vapor e volatilidade
+
+- equilíbrio líquido–vapor;
+- pressão de vapor;
+- influência da temperatura;
+- intensidade das forças intermoleculares;
+- volatilidade;
+- evaporação;
+- ebulição;
+- relação entre pressão externa e temperatura de ebulição.
+
+##### 12.1.5.16 Mudanças de fase
+
+- fusão;
+- solidificação;
+- vaporização;
+- condensação;
+- sublimação;
+- deposição;
+- equilíbrio entre fases;
+- calor envolvido em nível conceitual;
+- influência da pressão e da temperatura.
+
+##### 12.1.5.17 Diagramas de fases
+
+- regiões de estabilidade;
+- linhas de equilíbrio;
+- ponto triplo;
+- ponto crítico;
+- leitura de diagrama de uma substância pura;
+- água como exemplo;
+- dióxido de carbono como exemplo comparativo.
+
+O tratamento termodinâmico detalhado será retomado na Unidade 4.
+
+#### 12.1.6 Desenvolvimento matemático
+
+A unidade deverá desenvolver:
+
+- conversões de temperatura;
+- conversões de pressão;
+- aplicação das leis dos gases;
+- uso de \(PV=nRT\);
+- cálculo de densidade de gases;
+- estimativa de massa molar;
+- cálculo de pressões parciais;
+- correção para gás coletado sobre líquido;
+- cálculo de densidade de líquidos;
+- leitura e construção de gráficos.
+
+Cada equação deverá ser acompanhada de:
+
+- definição das grandezas;
+- unidades;
+- condições de aplicação;
+- interpretação química;
+- verificação dimensional;
+- análise da plausibilidade do resultado.
+
+#### 12.1.7 Exemplos resolvidos previstos
+
+A unidade deverá incluir exemplos sobre:
+
+1. conversão entre unidades de pressão;
+2. variação de volume com temperatura;
+3. cálculo de quantidade de gás;
+4. determinação de massa molar;
+5. mistura de gases e pressões parciais;
+6. gás coletado sobre água;
+7. determinação de densidade;
+8. comparação de volatilidade;
+9. interpretação de diagrama de fases;
+10. relação entre forças intermoleculares e propriedades físicas.
+
+#### 12.1.8 Conexão com a análise qualitativa
+
+A unidade deverá relacionar suas propriedades a:
+
+- formação e identificação segura de gases;
+- influência da temperatura sobre reações;
+- volatilização de componentes;
+- aquecimento e evaporação;
+- secagem de precipitados;
+- condensação;
+- uso da densidade como propriedade auxiliar;
+- comportamento de solventes;
+- conservação de reagentes voláteis.
+
+A identificação de gases nunca deverá utilizar inalação direta.
+
+#### 12.1.9 Conexão farmacêutica
+
+Poderão ser desenvolvidas aplicações relacionadas a:
+
+- armazenamento de substâncias voláteis;
+- gases medicinais em nível introdutório;
+- sistemas pressurizados;
+- aerossóis;
+- evaporação de solventes;
+- propriedades de veículos líquidos;
+- densidade de preparações;
+- viscosidade;
+- volatilidade;
+- mudanças de fase;
+- comportamento de materiais sólidos;
+- estabilidade durante armazenamento.
+
+#### 12.1.10 Atividade prática correspondente
+
+**Prática integrada — Propriedades físicas de líquidos**
+
+A atividade poderá envolver:
+
+- determinação de densidade;
+- comparação de viscosidade por método didático;
+- observação de formação de gotas;
+- influência da temperatura;
+- comparação entre líquidos;
+- relação com forças intermoleculares.
+
+O roteiro deverá incluir:
+
+- objetivos;
+- previsão;
+- método;
+- registro de temperatura;
+- medidas replicadas;
+- cálculos;
+- fontes de erro;
+- descarte;
+- aplicação farmacêutica.
+
+Caso a infraestrutura permita, uma demonstração sobre comportamento dos gases poderá complementar a prática.
+
+#### 12.1.11 Estudo de caso previsto
+
+**Armazenamento e perda de solvente volátil em preparação farmacêutica**
+
+O estudante deverá analisar:
+
+- natureza do líquido;
+- pressão de vapor;
+- temperatura;
+- fechamento da embalagem;
+- espaço livre;
+- risco de evaporação;
+- alteração da concentração;
+- consequências para estabilidade e uso.
+
+#### 12.1.12 Integração com as unidades posteriores
+
+A Unidade 1 fornecerá fundamentos para:
+
+- Unidade 2 — formação e propriedades das soluções;
+- Unidade 3 — pressão de vapor e propriedades coligativas;
+- Unidade 4 — energia, calor, trabalho e mudanças de fase;
+- Unidade 10 — influência da temperatura na velocidade;
+- Unidade 11 — tensão superficial, viscosidade e interfaces;
+- Unidade 12 — aquecimento, evaporação e formação de gases na análise.
+
+#### 12.1.13 Delimitações
+
+Nesta unidade não serão desenvolvidos integralmente:
+
+- soluções e unidades de concentração;
+- propriedades coligativas;
+- Termodinâmica formal;
+- reologia não newtoniana;
+- teoria completa das interfaces;
+- tecnologia de aerossóis;
+- polimorfismo farmacêutico avançado.
+
+Esses conteúdos serão retomados nas unidades correspondentes.
+
+#### 12.1.14 Distribuição da carga horária
+
+| Componente | Carga |
+|---|---:|
+| Estados físicos e modelo molecular | 1 h/a teórica |
+| Gases ideais e reais | 1,5 h/a teórica |
+| Líquidos, forças intermoleculares e mudanças de fase | 1,5 h/a teórica |
+| Prática integrada | 2 h/a práticas |
+| **Total** | **4 h/a teóricas + 2 h/a práticas** |
+
+A distribuição detalhada poderá ser ajustada no calendário, mantendo o total aprovado.
+
+#### 12.1.15 Referências estruturantes
+
+A redação da unidade deverá utilizar:
+
+- livros reconhecidos de Físico-Química;
+- livros universitários de Química Geral;
+- literatura de Físico-Química aplicada à Farmácia;
+- compêndios farmacêuticos quando houver aplicação normativa;
+- fichas de segurança para os materiais experimentais;
+- fontes primárias ou institucionais para aplicações específicas.
+
+As edições e referências completas serão definidas e verificadas durante a redação do Livro Mestre.
+
+#### 12.1.16 Status
+
+**SUMÁRIO DETALHADO DA UNIDADE 1 — APROVADO**
