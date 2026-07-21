@@ -8099,3 +8099,135 @@ Essa recomendação ainda deverá ser submetida a uma validação final, conside
 - equilíbrio entre teoria, prática e avaliação.
 
 Somente depois dessa validação a alternativa será registrada como arquitetura curricular aprovada.
+## 11. Arquitetura curricular aprovada
+
+### 11.1 Decisão
+
+Após a análise diagnóstica das nove unidades atuais, a síntese transversal das lacunas e a comparação entre três alternativas de organização, fica aprovada a arquitetura curricular com 12 unidades.
+
+A estrutura aprovada corresponde à Alternativa B — Estrutura equilibrada com 12 unidades.
+
+Ela será utilizada como base para:
+
+- elaboração do novo sumário;
+- redistribuição dos conteúdos;
+- organização das práticas;
+- redação do Livro Mestre;
+- produção dos materiais derivados;
+- reorganização futura dos arquivos existentes.
+
+### 11.2 Estrutura aprovada
+
+| Unidade | T | P | Total |
+|---|---:|---:|---:|
+| 1 — Estados físicos, gases e líquidos | 4 | 2 | 6 |
+| 2 — Soluções, eletrólitos e atividade | 5 | 3 | 8 |
+| 3 — Propriedades coligativas, osmose e isotonicidade | 5 | 3 | 8 |
+| 4 — Termodinâmica química | 6 | 3 | 9 |
+| 5 — Equilíbrio químico | 4 | 2 | 6 |
+| 6 — Equilíbrios ácido-base | 6 | 4 | 10 |
+| 7 — Solubilidade e precipitação | 6 | 4 | 10 |
+| 8 — Complexação | 5 | 3 | 8 |
+| 9 — Oxirredução e Eletroquímica | 5 | 3 | 8 |
+| 10 — Cinética e estabilidade farmacêutica | 5 | 3 | 8 |
+| 11 — Interfaces e sistemas dispersos | 4 | 3 | 7 |
+| 12 — Análise qualitativa sistemática | 5 | 7 | 12 |
+| **Total** | **60** | **40** | **100** |
+
+### 11.3 Fundamentação da decisão
+
+A arquitetura foi aprovada porque:
+
+- estabelece progressão conceitual coerente;
+- separa estados físicos de soluções;
+- cria espaço próprio para propriedades coligativas;
+- incorpora osmose, osmolaridade, osmolalidade e isotonicidade;
+- posiciona Termodinâmica antes do equilíbrio;
+- separa Termodinâmica de cinética;
+- preserva os equilíbrios específicos como unidades próprias;
+- mantém Oxirredução e Eletroquímica integradas;
+- distribui as práticas ao longo da disciplina;
+- preserva a análise qualitativa como culminância;
+- mantém aplicações farmacêuticas em todas as unidades;
+- totaliza exatamente a carga horária institucional.
+
+### 11.4 Situação das demais alternativas
+
+A alternativa com 11 unidades permanece registrada como opção compacta, mas não foi aprovada porque mantém sobrecarga no bloco inicial.
+
+A alternativa com 13 unidades permanece registrada como opção ampliada, mas não foi aprovada porque fragmenta Oxirredução e Eletroquímica e reduz o espaço da análise qualitativa integradora.
+
+As alternativas não aprovadas serão preservadas como parte do histórico da decisão curricular.
+
+### 11.5 Natureza da carga horária
+
+A carga indicada para cada unidade representa planejamento curricular inicial.
+
+Durante a elaboração do calendário, pequenas redistribuições poderão ser avaliadas desde que:
+
+- o total permaneça em 100 h/a;
+- sejam preservadas 60 h/a teóricas;
+- sejam preservadas 40 h/a práticas;
+- nenhuma alteração comprometa os pré-requisitos;
+- a mudança seja documentada;
+- a arquitetura de 12 unidades seja mantida, salvo revisão formal do projeto.
+
+### 11.6 Princípio de distribuição das práticas
+
+As práticas não ficarão concentradas apenas na última unidade.
+
+Elas deverão acompanhar a sequência conceitual e preparar progressivamente o estudante para a análise qualitativa sistemática.
+
+As 7 h/a práticas da Unidade 12 serão destinadas prioritariamente a:
+
+- integração dos equilíbrios;
+- marcha didática adaptada;
+- testes confirmatórios;
+- análise de amostra desconhecida;
+- elaboração e discussão do relatório final.
+
+### 11.7 Condição de segurança
+
+A aprovação da arquitetura não representa aprovação automática de qualquer prática ou reagente mencionado nos textos-base.
+
+Cada atividade experimental ainda deverá passar por:
+
+- avaliação de risco;
+- seleção de reagentes;
+- adaptação para microescala;
+- verificação da infraestrutura;
+- definição de controles;
+- definição do descarte;
+- validação do roteiro.
+
+### 11.8 Status da arquitetura
+
+A arquitetura curricular de 12 unidades passa a ser considerada:
+
+**APROVADA PARA DESENVOLVIMENTO DO NOVO SUMÁRIO**
+
+Essa aprovação encerra a etapa de comparação das alternativas.
+
+### 11.9 Próxima etapa
+
+A próxima etapa será desenvolver o sumário detalhado das 12 unidades.
+
+Para cada unidade serão definidos:
+
+- título definitivo;
+- grande ideia;
+- função curricular;
+- objetivos de aprendizagem;
+- pré-requisitos;
+- conteúdos conceituais;
+- desenvolvimento matemático;
+- aplicações analíticas;
+- aplicações farmacêuticas;
+- práticas correspondentes;
+- estudos de caso previstos;
+- conexões com outras unidades;
+- carga teórica;
+- carga prática;
+- referências estruturantes.
+
+Somente depois da aprovação desse sumário detalhado será iniciada a reorganização dos nove arquivos existentes.
