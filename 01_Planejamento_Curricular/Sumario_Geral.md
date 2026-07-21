@@ -6718,3 +6718,1103 @@ Recomenda-se:
 | Carga prática | Adequada apenas para seleção de sistemas |
 | Distribuição das práticas | Deve ocorrer ao longo da disciplina |
 | Recomendação | Preservar, modernizar e tornar segura |
+## 9. Síntese transversal do diagnóstico curricular
+
+### 9.1 Finalidade da síntese
+
+A análise individual das nove unidades atuais permitiu identificar qualidades, lacunas, repetições, problemas de sequência, desequilíbrios de carga horária e riscos experimentais.
+
+Esta síntese tem como finalidade transformar os diagnósticos particulares em decisões curriculares integradas.
+
+Ela deverá orientar:
+
+- a nova arquitetura do Livro Mestre;
+- a sequência dos fundamentos físico-químicos;
+- a integração com a análise qualitativa;
+- a inclusão dos conteúdos ausentes;
+- a redistribuição das cargas teórica e prática;
+- a seleção de experiências;
+- a modernização das marchas analíticas;
+- a contextualização farmacêutica;
+- a elaboração do novo sumário.
+
+Neste momento, ainda não será aprovado o número definitivo de unidades. Primeiro serão consolidados os critérios que orientarão essa decisão.
+
+### 9.2 Panorama geral
+
+As nove unidades atuais formam uma estrutura conceitualmente promissora e coerente com a proposta integrada da disciplina.
+
+O material existente reconhece corretamente que a análise qualitativa depende de fundamentos como:
+
+- concentração;
+- atividade;
+- equilíbrio;
+- ácido-base;
+- solubilidade;
+- complexação;
+- oxirredução;
+- Termodinâmica;
+- cinética;
+- fenômenos interfaciais.
+
+Também estabelece conexões pertinentes com:
+
+- ionização de fármacos;
+- solubilidade;
+- estabilidade;
+- antioxidantes;
+- agentes quelantes;
+- suspensões;
+- emulsões;
+- controle de qualidade;
+- testes de identificação.
+
+Entretanto, a estrutura atual apresenta três problemas gerais:
+
+1. alguns conteúdos fundamentais estão ausentes;
+2. vários campos extensos foram comprimidos em unidades com carga insuficiente;
+3. a sequência não respeita completamente as dependências conceituais.
+
+O novo sumário deverá preservar a integração existente, mas reconstruir sua progressão.
+
+### 9.3 Síntese diagnóstica das unidades atuais
+
+| Unidade atual | Diagnóstico central | Decisão preliminar |
+|---|---|---|
+| 1 — Matéria, soluções e eletrólitos | Excessivamente abrangente e incompleta em gases, líquidos e propriedades coligativas | Desmembrar e ampliar |
+| 2 — Equilíbrio químico | Essencial, mas necessita maior rigor e melhor relação com Termodinâmica | Preservar, aprofundar e reposicionar se necessário |
+| 3 — Equilíbrios ácido-base | Central, com lacunas em sistemas polipróticos, distribuição e capacidade tamponante | Preservar, aprofundar e integrar |
+| 4 — Solubilidade | Central para a análise qualitativa, mas precisa incluir extensão da precipitação e fenômenos reais | Preservar, aprofundar e integrar |
+| 5 — Complexação | Muito relevante, porém compacta e sem especiação ou constantes condicionais | Preservar, aprofundar e articular |
+| 6 — Oxirredução e Eletroquímica | Essencial, mas depende de fundamentos termodinâmicos apresentados posteriormente | Preservar, aprofundar e reposicionar |
+| 7 — Termodinâmica e cinética | Dois campos extensos reunidos com carga claramente insuficiente | Desmembrar, ampliar e reposicionar |
+| 8 — Interfaces e sistemas dispersos | Muito relevante para Farmácia, porém severamente comprimida | Preservar, ampliar e delimitar |
+| 9 — Análise qualitativa sistemática | Excelente culminância integradora, mas exige modernização e revisão de segurança | Preservar, modernizar e tornar segura |
+
+Nenhuma unidade deverá ser simplesmente eliminada. A reconstrução envolverá desmembramento, aprofundamento, deslocamento, delimitação e integração.
+
+### 9.4 Pontos fortes a preservar
+
+O novo currículo deverá preservar os seguintes pontos fortes:
+
+- integração entre Físico-Química e Química Analítica Qualitativa;
+- uso dos equilíbrios para explicar separações e identificações;
+- presença de aplicações farmacêuticas;
+- importância concedida às atividades práticas;
+- culminância em análise de amostra desconhecida;
+- articulação entre pH, precipitação, complexação e oxirredução;
+- utilização de problemas químicos observáveis;
+- relação entre estabilidade e transformação;
+- valorização do relatório técnico;
+- carga horária total equilibrada entre 60 h/a teóricas e 40 h/a práticas.
+
+A lógica central deverá permanecer:
+
+**fundamento físico-químico → fenômeno observável → aplicação analítica → aplicação farmacêutica**
+
+### 9.5 Sobrecargas identificadas
+
+Algumas unidades concentram conteúdos demais para a carga prevista.
+
+#### 9.5.1 Unidade atual 1
+
+Reúne:
+
+- matéria;
+- estados físicos;
+- gases;
+- líquidos;
+- soluções;
+- concentração;
+- eletrólitos;
+- atividade;
+- força iônica.
+
+Além disso, deveria incorporar:
+
+- propriedades coligativas;
+- osmose;
+- osmolaridade;
+- osmolalidade;
+- isotonicidade.
+
+A unidade não deve permanecer como bloco único.
+
+#### 9.5.2 Unidade atual 7
+
+Reúne:
+
+- Primeira Lei;
+- Segunda Lei;
+- entalpia;
+- entropia;
+- energia livre;
+- equilíbrio;
+- velocidade;
+- ordem;
+- Arrhenius;
+- degradação;
+- meia-vida;
+- prazo de validade.
+
+Termodinâmica e cinética deverão ser transformadas em unidades distintas.
+
+#### 9.5.3 Unidade atual 8
+
+Reúne:
+
+- tensão superficial;
+- adsorção;
+- tensoativos;
+- micelas;
+- coloides;
+- suspensões;
+- emulsões;
+- géis;
+- espumas;
+- estabilidade;
+- dissolução.
+
+O conteúdo precisa de ampliação de carga ou delimitação rigorosa em relação à Tecnologia Farmacêutica.
+
+#### 9.5.4 Unidade atual 9
+
+A unidade pretende abranger:
+
+- marcha completa de cátions;
+- análise de ânions;
+- testes confirmatórios;
+- amostra desconhecida;
+- relatório;
+- segurança;
+- resíduos.
+
+As 13 h/a práticas permitem apenas uma seleção cuidadosa de sistemas, não a execução integral de todas as marchas clássicas.
+
+### 9.6 Repetições identificadas
+
+As repetições não são necessariamente inadequadas. Algumas funcionam como retomadas pedagógicas. Entretanto, deverão ser planejadas para evitar duplicação extensa.
+
+#### 9.6.1 Atividade e força iônica
+
+Aparecem ou são necessárias em:
+
+- soluções;
+- equilíbrio;
+- ácido-base;
+- solubilidade;
+- complexação;
+- Eletroquímica.
+
+Deverão ser fundamentadas em uma unidade inicial e retomadas apenas como aplicação.
+
+#### 9.6.2 Quociente de reação
+
+O conceito aparece em:
+
+- equilíbrio químico;
+- precipitação;
+- Eletroquímica;
+- Termodinâmica.
+
+Deverá ser introduzido de forma geral e depois adaptado como:
+
+- \(Q\);
+- \(Q_{ps}\);
+- quociente redox.
+
+#### 9.6.3 Controle de pH
+
+É necessário em:
+
+- ácido-base;
+- solubilidade;
+- complexação;
+- Eletroquímica;
+- análise qualitativa.
+
+Sua fundamentação deverá ocorrer na unidade ácido-base. Nas demais, será utilizado como ferramenta de controle da especiação.
+
+#### 9.6.4 Precipitação e dissolução
+
+Aparecem em:
+
+- solubilidade;
+- complexação;
+- análise qualitativa;
+- interfaces.
+
+A Unidade de Solubilidade deverá desenvolver os fundamentos. As demais deverão explorar acoplamentos e aplicações.
+
+#### 9.6.5 Complexação e mascaramento
+
+Aparecem em:
+
+- complexação;
+- solubilidade;
+- Eletroquímica;
+- análise qualitativa.
+
+As constantes, a especiação e as condições deverão ser construídas uma vez e reutilizadas.
+
+#### 9.6.6 Espontaneidade
+
+Aparece em:
+
+- equilíbrio;
+- Eletroquímica;
+- Termodinâmica;
+- reações analíticas.
+
+A fundamentação deverá ocorrer na Termodinâmica antes das aplicações.
+
+#### 9.6.7 Estabilidade
+
+O termo é utilizado em sentidos diferentes:
+
+- estabilidade termodinâmica;
+- estabilidade cinética;
+- estabilidade de complexos;
+- estabilidade coloidal;
+- estabilidade farmacêutica.
+
+Cada uso deverá ser definido para evitar que o estudante interprete todos como equivalentes.
+
+### 9.7 Lacunas transversais
+
+As lacunas identificadas em diferentes unidades podem ser agrupadas em grandes conjuntos.
+
+#### 9.7.1 Estados físicos e propriedades dos líquidos
+
+Precisam ser desenvolvidos:
+
+- modelo molecular dos estados físicos;
+- gases reais em nível adequado;
+- forças intermoleculares;
+- pressão de vapor;
+- viscosidade;
+- tensão superficial;
+- mudanças de fase;
+- diagramas de fases selecionados.
+
+Esses conteúdos fundamentam soluções, propriedades coligativas, interfaces e sistemas farmacêuticos.
+
+#### 9.7.2 Propriedades coligativas
+
+Deverão ser incorporadas explicitamente:
+
+- abaixamento da pressão de vapor;
+- elevação do ponto de ebulição;
+- abaixamento do ponto de congelamento;
+- pressão osmótica;
+- fator de van ’t Hoff;
+- limitações da idealidade.
+
+#### 9.7.3 Osmose e sistemas farmacêuticos
+
+Deverão ser desenvolvidos:
+
+- membrana semipermeável;
+- osmose;
+- pressão osmótica;
+- osmolaridade;
+- osmolalidade;
+- tonicidade;
+- isotonicidade;
+- diferença entre concentração osmótica e efeito biológico;
+- aplicações em soluções farmacêuticas.
+
+#### 9.7.4 Ferramentas de resolução de equilíbrios
+
+Precisam ser ampliadas:
+
+- balanço de massa;
+- balanço de cargas;
+- balanço de prótons;
+- frações de distribuição;
+- diagramas de predominância;
+- constantes condicionais;
+- equilíbrios simultâneos;
+- validação de aproximações.
+
+#### 9.7.5 Formação real de precipitados
+
+Deverão ser incorporados:
+
+- supersaturação;
+- nucleação;
+- crescimento;
+- envelhecimento;
+- coprecipitação;
+- adsorção;
+- comportamento coloidal;
+- influência da ordem de adição.
+
+#### 9.7.6 Medições e qualidade experimental
+
+Precisam ser incluídos de forma transversal:
+
+- calibração;
+- controles;
+- branco;
+- replicatas;
+- incerteza;
+- fontes de erro;
+- registro de dados;
+- rastreabilidade;
+- critérios de aceitação;
+- tratamento gráfico.
+
+#### 9.7.7 Segurança e sustentabilidade
+
+Todas as práticas deverão explicitar:
+
+- perigos;
+- incompatibilidades;
+- microescala;
+- substituição de reagentes;
+- segregação;
+- descarte;
+- medidas de emergência;
+- responsabilidade ambiental.
+
+#### 9.7.8 Comunicação científica
+
+Deverão ser fortalecidos:
+
+- caderno de laboratório;
+- fluxogramas;
+- relatórios;
+- justificativa das conclusões;
+- referências;
+- distinção entre observação e interpretação;
+- comunicação das limitações.
+### 9.8 Conteúdos a preservar
+
+Os seguintes conteúdos deverão permanecer na nova estrutura:
+
+- matéria e estados físicos;
+- gases e líquidos;
+- soluções e unidades de concentração;
+- eletrólitos;
+- atividade e força iônica;
+- equilíbrio químico;
+- quociente de reação;
+- ácido-base;
+- tampões;
+- titulações e indicadores;
+- solubilidade;
+- produto de solubilidade;
+- precipitação seletiva;
+- complexação;
+- mascaramento;
+- oxirredução;
+- Eletroquímica;
+- Termodinâmica;
+- cinética;
+- estabilidade farmacêutica;
+- interfaces;
+- tensoativos;
+- sistemas coloidais;
+- análise qualitativa sistemática;
+- análise de amostra desconhecida.
+
+Preservar um conteúdo não significa manter sua posição, profundidade ou agrupamento atual.
+
+### 9.9 Conteúdos a ampliar
+
+#### 9.9.1 Estados físicos, gases e líquidos
+
+Deverão ser ampliados:
+
+- modelo molecular dos estados;
+- gases ideais e desvios selecionados;
+- forças intermoleculares;
+- propriedades dos líquidos;
+- pressão de vapor;
+- mudanças de fase;
+- diagramas de fases;
+- viscosidade;
+- relação com sistemas farmacêuticos.
+
+#### 9.9.2 Soluções
+
+Deverão ser ampliados:
+
+- processo de dissolução;
+- solvatação;
+- idealidade e não idealidade;
+- atividade;
+- força iônica;
+- coeficientes de atividade;
+- unidades de concentração;
+- preparo e diluição;
+- aplicações farmacêuticas.
+
+#### 9.9.3 Equilíbrios
+
+Deverão ser ampliados:
+
+- definição termodinâmica das constantes;
+- manipulação das constantes;
+- relação entre \(Q\) e \(K\);
+- cálculos de equilíbrio;
+- balanços;
+- atividades;
+- equilíbrios simultâneos;
+- constantes condicionais;
+- interpretação de aproximações.
+
+#### 9.9.4 Ácido-base
+
+Deverão ser ampliados:
+
+- sistemas polipróticos;
+- espécies anfipróticas;
+- balanços de massa e cargas;
+- frações de distribuição;
+- diagramas de predominância;
+- capacidade tamponante;
+- limites da equação de Henderson–Hasselbalch;
+- medição de pH;
+- pH, solubilidade e estabilidade.
+
+#### 9.9.5 Solubilidade
+
+Deverão ser ampliados:
+
+- relação entre \(K_{ps}\) e solubilidade;
+- extensão da precipitação;
+- precipitação fracionada;
+- influência do pH;
+- equilíbrios simultâneos;
+- supersaturação;
+- nucleação;
+- crescimento;
+- coprecipitação;
+- distinção entre solubilidade e velocidade de dissolução.
+
+#### 9.9.6 Complexação
+
+Deverão ser ampliados:
+
+- constantes sucessivas;
+- constantes globais;
+- especiação;
+- balanços;
+- competição;
+- influência do pH;
+- constantes condicionais;
+- efeito quelato;
+- estabilidade termodinâmica e cinética;
+- mascaramento e desmascaramento.
+
+#### 9.9.7 Eletroquímica
+
+Deverão ser ampliados:
+
+- células galvânicas e eletrolíticas;
+- convenções;
+- potenciais de eletrodo;
+- referência;
+- relação entre \(E\), \(\Delta G\) e \(K\);
+- equação de Nernst;
+- atividade;
+- influência do pH;
+- potenciais formais;
+- medições eletroquímicas;
+- aplicações farmacêuticas.
+
+#### 9.9.8 Termodinâmica
+
+Deverão ser ampliados:
+
+- sistemas;
+- funções de estado;
+- calor e trabalho;
+- Primeira Lei;
+- entalpia;
+- Lei de Hess;
+- calorimetria;
+- Segunda Lei;
+- entropia;
+- energia livre;
+- estado padrão;
+- relação entre \(\Delta G\), \(Q\) e \(K\);
+- dependência do equilíbrio com a temperatura.
+
+#### 9.9.9 Cinética
+
+Deverão ser ampliados:
+
+- velocidade;
+- leis de velocidade;
+- ordem;
+- unidades de \(k\);
+- leis integradas;
+- determinação do modelo;
+- energia de ativação;
+- Arrhenius;
+- catálise;
+- pseudo-ordem;
+- degradação;
+- \(t_{1/2}\);
+- \(t_{90}\);
+- limites das estimativas de prazo de validade.
+
+#### 9.9.10 Interfaces e coloides
+
+Deverão ser ampliados:
+
+- energia superficial;
+- capilaridade;
+- molhabilidade;
+- adsorção;
+- classificação dos tensoativos;
+- CMC;
+- solubilização;
+- potencial zeta;
+- estabilidade eletrostática e estérica;
+- sedimentação;
+- instabilidades de emulsões;
+- conexão com reologia.
+
+#### 9.9.11 Análise qualitativa
+
+Deverão ser ampliados:
+
+- natureza da evidência;
+- seletividade;
+- sensibilidade;
+- amostragem;
+- preparação;
+- controles;
+- separação de fases;
+- lavagem;
+- testes confirmatórios;
+- interferências;
+- rastreabilidade;
+- segurança;
+- resíduos;
+- avaliação da competência prática.
+
+### 9.10 Conteúdos a incorporar
+
+Os seguintes conteúdos não aparecem adequadamente no sumário atual e deverão ser incorporados:
+
+- propriedades coligativas;
+- pressão osmótica;
+- osmose;
+- osmolaridade;
+- osmolalidade;
+- tonicidade;
+- isotonicidade;
+- solubilidade intrínseca e aparente;
+- balanços sistemáticos de equilíbrio;
+- diagramas de distribuição;
+- constantes condicionais;
+- supersaturação;
+- nucleação;
+- coprecipitação;
+- potencial zeta;
+- estabilização estérica;
+- \(t_{90}\);
+- controles experimentais;
+- critérios de evidência analítica;
+- química analítica verde;
+- plano de gestão de resíduos.
+
+A incorporação não implica necessariamente a criação de uma unidade exclusiva para cada tema.
+
+### 9.11 Conteúdos a mover
+
+#### 9.11.1 Termodinâmica
+
+Deverá ser deslocada para uma posição anterior ao equilíbrio químico ou, no mínimo, anterior à Eletroquímica.
+
+A opção preferencial é apresentá-la antes do equilíbrio para fundamentar:
+
+- espontaneidade;
+- energia livre;
+- constante de equilíbrio;
+- influência da temperatura;
+- potenciais eletroquímicos.
+
+#### 9.11.2 Cinética
+
+Deverá ser retirada do bloco compartilhado com Termodinâmica.
+
+Poderá ser posicionada depois dos principais equilíbrios, permitindo aplicações em:
+
+- velocidade das reações analíticas;
+- degradação;
+- estabilidade;
+- dissolução;
+- sistemas dispersos.
+
+#### 9.11.3 Atividade e força iônica
+
+Deverão ser introduzidas na unidade de soluções.
+
+Nas unidades posteriores, serão retomadas como fundamento para:
+
+- pH;
+- solubilidade;
+- complexação;
+- Eletroquímica.
+
+#### 9.11.4 Propriedades interfaciais básicas
+
+Tensão superficial, viscosidade e forças intermoleculares deverão começar na discussão das propriedades dos líquidos.
+
+A unidade de interfaces deverá aprofundar:
+
+- adsorção;
+- molhabilidade;
+- tensoativos;
+- coloides;
+- dispersões.
+
+#### 9.11.5 Práticas de análise qualitativa
+
+Parte das atuais 13 h/a práticas deverá ser distribuída ao longo das unidades.
+
+A prática final deverá concentrar:
+
+- separação integrada;
+- testes confirmatórios;
+- amostra desconhecida;
+- relatório.
+
+### 9.12 Conteúdos a desmembrar
+
+#### 9.12.1 Unidade atual 1
+
+Deverá originar, preliminarmente, mais de um núcleo:
+
+1. estados físicos, gases e líquidos;
+2. soluções, concentração, eletrólitos e atividade;
+3. propriedades coligativas, osmose e isotonicidade.
+
+A decisão entre duas ou três unidades dependerá da carga horária.
+
+#### 9.12.2 Unidade atual 7
+
+Deverá originar duas unidades:
+
+1. Termodinâmica química;
+2. cinética química e estabilidade farmacêutica.
+
+Esse desmembramento é necessário para corrigir profundidade e sequência.
+
+### 9.13 Conteúdos a delimitar
+
+#### 9.13.1 Titulações ácido-base
+
+Deverão ser utilizadas para interpretar equilíbrio, curvas e indicadores.
+
+O desenvolvimento volumétrico completo deverá ser articulado com Química Analítica Quantitativa, evitando duplicação.
+
+#### 9.13.2 EDTA e complexometria
+
+O EDTA deverá exemplificar:
+
+- protonação;
+- efeito quelato;
+- constante condicional;
+- seletividade;
+- aplicação farmacêutica.
+
+A complexometria quantitativa completa permanecerá nas disciplinas correspondentes.
+
+#### 9.13.3 Suspensões, emulsões e géis
+
+Nesta disciplina, deverão funcionar como aplicações dos fundamentos físico-químicos.
+
+O desenvolvimento tecnológico completo deverá permanecer em Tecnologia Farmacêutica.
+
+#### 9.13.4 Métodos eletroanalíticos
+
+Deverão ser apresentados como aplicação dos potenciais e dos eletrodos.
+
+A instrumentação avançada deverá permanecer nas disciplinas instrumentais.
+
+#### 9.13.5 Estudos de estabilidade
+
+A disciplina deverá desenvolver fundamentos cinéticos, interpretação de dados e limitações.
+
+A definição regulatória de prazo de validade deverá ser apresentada como processo mais amplo que um cálculo isolado.
+
+#### 9.13.6 Marcha analítica clássica
+
+A marcha clássica deverá ser estudada por seu valor conceitual e histórico.
+
+Sua execução prática deverá ser limitada a sistemas:
+
+- seguros;
+- selecionados;
+- adaptados;
+- realizados em microescala;
+- compatíveis com a infraestrutura;
+- acompanhados de plano de resíduos.
+### 9.14 Eixos integradores do novo currículo
+
+O novo sumário deverá ser organizado a partir de eixos que atravessem todas as unidades.
+
+#### 9.14.1 Composição e especiação
+
+O estudante deverá aprender a distinguir:
+
+- concentração total;
+- concentração livre;
+- atividade;
+- forma ionizada;
+- forma complexada;
+- forma precipitada;
+- espécie predominante;
+- distribuição entre fases.
+
+Esse eixo integrará soluções, ácido-base, solubilidade, complexação, Eletroquímica e análise qualitativa.
+
+#### 9.14.2 Energia, equilíbrio e transformação
+
+O estudante deverá relacionar:
+
+- energia;
+- espontaneidade;
+- quociente de reação;
+- constante de equilíbrio;
+- temperatura;
+- potencial eletroquímico;
+- velocidade;
+- estabilidade.
+
+Esse eixo evitará a confusão entre favorecimento termodinâmico e rapidez.
+
+#### 9.14.3 Estrutura, propriedades e desempenho
+
+O estudante deverá relacionar:
+
+- estrutura molecular;
+- forças intermoleculares;
+- estado físico;
+- solubilidade;
+- pressão de vapor;
+- propriedades coligativas;
+- comportamento interfacial;
+- desempenho farmacêutico.
+
+#### 9.14.4 Seletividade analítica
+
+A seletividade deverá ser construída pela combinação de:
+
+- pH;
+- precipitação;
+- complexação;
+- oxirredução;
+- mascaramento;
+- separação;
+- controle de interferentes;
+- confirmação.
+
+#### 9.14.5 Contextualização farmacêutica
+
+Cada unidade deverá incluir aplicações relacionadas a:
+
+- princípios ativos;
+- excipientes;
+- soluções farmacêuticas;
+- formas salinas;
+- estabilidade;
+- incompatibilidades;
+- sistemas dispersos;
+- controle de qualidade;
+- identificação de substâncias.
+
+#### 9.14.6 Segurança e sustentabilidade
+
+Cada conteúdo experimental deverá ser analisado quanto a:
+
+- perigo;
+- exposição;
+- substituição;
+- microescala;
+- prevenção de resíduos;
+- segregação;
+- descarte;
+- impacto ambiental.
+
+#### 9.14.7 Qualidade e comunicação
+
+Cada prática deverá desenvolver:
+
+- planejamento;
+- registro;
+- controle;
+- rastreabilidade;
+- interpretação;
+- comunicação;
+- reconhecimento das limitações.
+
+### 9.15 Critérios para a nova sequência curricular
+
+A nova sequência deverá respeitar dependências conceituais.
+
+#### 9.15.1 Do observável ao explicativo
+
+Os conteúdos iniciais deverão partir de fenômenos familiares:
+
+- estados físicos;
+- gases;
+- líquidos;
+- soluções;
+- concentração;
+- propriedades observáveis.
+
+Em seguida, deverão ser introduzidos os modelos e as relações matemáticas.
+
+#### 9.15.2 Da composição ao comportamento
+
+Antes de estudar equilíbrios específicos, o estudante deverá compreender:
+
+- quantidade de matéria;
+- concentração;
+- atividade;
+- eletrólitos;
+- composição efetiva da solução.
+
+#### 9.15.3 Da Termodinâmica ao equilíbrio
+
+A Termodinâmica deverá fornecer as bases para:
+
+- espontaneidade;
+- energia livre;
+- quociente de reação;
+- constante de equilíbrio;
+- influência da temperatura.
+
+#### 9.15.4 Do equilíbrio geral aos equilíbrios específicos
+
+Depois do equilíbrio geral, a progressão deverá seguir:
+
+1. ácido-base;
+2. solubilidade;
+3. complexação;
+4. oxirredução e Eletroquímica.
+
+Essa ordem permite aumentar gradualmente a complexidade e reutilizar conceitos anteriores.
+
+#### 9.15.5 Dos fundamentos às aplicações integradas
+
+A análise qualitativa sistemática deverá ocorrer depois da construção dos principais equilíbrios.
+
+Entretanto, pequenas aplicações analíticas deverão aparecer desde as primeiras unidades.
+
+#### 9.15.6 Da possibilidade à velocidade
+
+Depois de compreender a tendência termodinâmica e os equilíbrios, o estudante deverá estudar:
+
+- velocidade;
+- mecanismo;
+- temperatura;
+- degradação;
+- estabilidade.
+
+#### 9.15.7 Das fases homogêneas às interfaces
+
+As propriedades dos líquidos e das soluções deverão anteceder:
+
+- tensão superficial;
+- adsorção;
+- tensoativos;
+- coloides;
+- sistemas dispersos.
+
+### 9.16 Relações de pré-requisito
+
+A sequência preliminar deverá respeitar as seguintes relações:
+
+| Conteúdo | Depende principalmente de |
+|---|---|
+| Soluções | quantidade de matéria, estados físicos e interações |
+| Propriedades coligativas | soluções, concentração e idealidade |
+| Osmose e isotonicidade | soluções e propriedades coligativas |
+| Termodinâmica | gases, energia, estados e propriedades |
+| Equilíbrio químico | Termodinâmica, atividade e quociente de reação |
+| Ácido-base | equilíbrio químico |
+| Solubilidade | equilíbrio e ácido-base |
+| Complexação | equilíbrio, ácido-base e solubilidade |
+| Eletroquímica | Termodinâmica, equilíbrio e atividade |
+| Cinética | concentração, energia e interpretação gráfica |
+| Interfaces e coloides | líquidos, Termodinâmica, soluções e cinética |
+| Análise qualitativa sistemática | ácido-base, solubilidade, complexação e redox |
+
+Essa matriz orientará a proposta do novo sumário.
+
+### 9.17 Diretrizes para a carga horária teórica
+
+A distribuição das 60 h/a teóricas deverá:
+
+- assegurar fundamentos iniciais;
+- ampliar Termodinâmica;
+- separar Termodinâmica e cinética;
+- incorporar propriedades coligativas;
+- preservar os equilíbrios específicos;
+- manter Eletroquímica;
+- ampliar interfaces sem duplicar Tecnologia Farmacêutica;
+- reservar teoria para a lógica da análise qualitativa;
+- incluir tempo para integração e revisão.
+
+Nenhuma unidade deverá receber carga apenas com base no tamanho do texto-base atual.
+
+A carga deverá refletir:
+
+- importância formativa;
+- complexidade;
+- dependências;
+- necessidade matemática;
+- aplicação farmacêutica;
+- integração experimental.
+
+### 9.18 Diretrizes para a carga horária prática
+
+A distribuição das 40 h/a práticas deverá abandonar a concentração excessiva no final da disciplina.
+
+As práticas deverão acompanhar a progressão conceitual.
+
+Uma distribuição preliminar deverá contemplar experiências relacionadas a:
+
+- soluções e propriedades;
+- propriedades coligativas ou osmose;
+- Termodinâmica;
+- ácido-base;
+- solubilidade;
+- complexação;
+- Eletroquímica;
+- cinética;
+- interfaces;
+- análise qualitativa integradora.
+
+A carga prática deverá incluir tempo para:
+
+- orientação de segurança;
+- preparação;
+- execução;
+- observação;
+- registro;
+- cálculo;
+- discussão;
+- descarte.
+
+Não deverá ser calculada apenas pelo tempo de manipulação.
+
+### 9.19 Critérios de seleção das práticas
+
+Uma prática somente deverá ser incorporada quando atender aos seguintes critérios:
+
+1. possuir objetivo de aprendizagem explícito;
+2. corresponder ao conteúdo teórico;
+3. produzir resultado interpretável;
+4. ser executável no tempo disponível;
+5. possuir riscos avaliados;
+6. empregar quantidades reduzidas;
+7. possuir rota de descarte;
+8. evitar substâncias de preocupação injustificável;
+9. incluir controles quando necessários;
+10. gerar evidência que possa ser registrada;
+11. permitir conexão analítica ou farmacêutica;
+12. contribuir para uma competência prevista.
+
+Práticas tradicionais que não atendam a esses critérios deverão ser substituídas, simuladas ou estudadas apenas conceitualmente.
+
+### 9.20 Diretrizes para integração entre teoria e prática
+
+Cada prática deverá estar relacionada a uma unidade teórica e preparar conteúdos posteriores.
+
+A articulação poderá seguir o ciclo:
+
+1. problema ou fenômeno;
+2. previsão;
+3. fundamentação;
+4. planejamento;
+5. execução;
+6. observação;
+7. tratamento dos dados;
+8. interpretação;
+9. aplicação;
+10. comunicação.
+
+A prática não deverá funcionar como atividade paralela desconectada da aula teórica.
+
+### 9.21 Decisões curriculares preliminares
+
+A análise transversal permite registrar as seguintes decisões:
+
+1. a estrutura atual de nove unidades não será mantida obrigatoriamente;
+2. a Unidade atual 1 será desmembrada;
+3. propriedades coligativas, osmose, osmolaridade e isotonicidade serão incorporadas;
+4. Termodinâmica e cinética serão separadas;
+5. Termodinâmica será antecipada;
+6. equilíbrio químico será aprofundado;
+7. ácido-base, solubilidade e complexação serão preservados como eixos próprios;
+8. Eletroquímica será mantida depois de sua fundamentação termodinâmica;
+9. interfaces e coloides serão ampliados, mas delimitados;
+10. análise qualitativa continuará como culminância;
+11. práticas serão distribuídas ao longo da disciplina;
+12. a marcha clássica completa não será automaticamente reproduzida;
+13. segurança, microescala e resíduos serão critérios obrigatórios;
+14. a contextualização farmacêutica será permanente;
+15. a distribuição final deverá totalizar exatamente 60 h/a teóricas e 40 h/a práticas.
+
+### 9.22 Questões que ainda exigem decisão
+
+Antes da aprovação do novo sumário, deverão ser respondidas:
+
+- quantas unidades comporão a nova estrutura;
+- se propriedades coligativas formarão unidade própria;
+- qual carga será destinada aos estados físicos e às soluções;
+- quanto da Termodinâmica será necessário antes do equilíbrio;
+- qual profundidade matemática será adotada;
+- qual posição final será atribuída à cinética;
+- quanto conteúdo de reologia será incluído;
+- quais práticas estarão disponíveis na infraestrutura institucional;
+- quais cátions e ânions comporão a marcha adaptada;
+- como as práticas serão distribuídas no calendário;
+- quais conteúdos deverão ser remetidos a materiais complementares.
+
+Essas questões serão resolvidas pela construção e comparação de alternativas de sumário.
+
+### 9.23 Critérios para aprovação do novo sumário
+
+O novo sumário deverá ser aprovado somente se:
+
+- apresentar progressão conceitual coerente;
+- incorporar todas as lacunas prioritárias;
+- eliminar sobrecargas inviáveis;
+- diferenciar Termodinâmica e cinética;
+- integrar teoria e prática;
+- totalizar 100 h/a;
+- respeitar 60 h/a teóricas e 40 h/a práticas;
+- manter aplicações farmacêuticas;
+- sustentar a análise qualitativa;
+- possuir práticas seguras e realizáveis;
+- evitar duplicação excessiva com outras disciplinas;
+- permitir o desenvolvimento no padrão do Livro Mestre.
+
+### 9.24 Conclusão da síntese transversal
+
+O diagnóstico demonstra que o texto-base atual possui excelente orientação integradora, mas sua organização não deve ser convertida diretamente no sumário definitivo.
+
+A reconstrução deverá:
+
+- preservar sua identidade;
+- ampliar os fundamentos ausentes;
+- corrigir a sequência;
+- separar campos excessivamente agrupados;
+- distribuir melhor as práticas;
+- modernizar a análise qualitativa;
+- fortalecer o rigor matemático;
+- aprofundar as aplicações farmacêuticas;
+- incorporar segurança e sustentabilidade.
+
+A próxima etapa será elaborar alternativas de arquitetura curricular e comparar sua coerência, carga horária e capacidade de integração antes da escolha do novo sumário.
