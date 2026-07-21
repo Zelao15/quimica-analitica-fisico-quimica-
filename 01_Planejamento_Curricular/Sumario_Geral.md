@@ -1644,3 +1644,610 @@ Não se recomenda dividir imediatamente o conteúdo em duas unidades. A necessid
 | Segurança | Riscos controláveis com microescala e planejamento |
 | Carga horária | Expressiva, porém potencialmente insuficiente |
 | Recomendação | Preservar, aprofundar e integrar |
+### 8.4 Unidade atual 4 — Solubilidade
+
+#### 8.4.1 Função atual
+
+A Unidade atual 4 desenvolve os fundamentos do equilíbrio entre sólidos pouco solúveis e espécies presentes em solução.
+
+Sua função principal é permitir que o estudante compreenda e preveja:
+
+- a dissolução de sólidos;
+- o início da precipitação;
+- a extensão de uma precipitação;
+- a influência da composição do meio;
+- a separação seletiva de espécies;
+- a dissolução de precipitados;
+- incompatibilidades decorrentes da formação de fases sólidas;
+- alterações da solubilidade de substâncias de interesse farmacêutico.
+
+Com 8 h/a teóricas e 6 h/a práticas, a unidade ocupa posição central na integração entre Físico-Química e Química Analítica Qualitativa.
+
+#### 8.4.2 Pontos fortes
+
+A estrutura atual contempla conceitos fundamentais:
+
+- equilíbrio heterogêneo;
+- produto de solubilidade;
+- solubilidade molar;
+- efeito do íon comum;
+- efeito salino;
+- influência do pH;
+- quociente de reação;
+- precipitação seletiva;
+- dissolução de precipitados.
+
+As aplicações analíticas são diretamente pertinentes à análise qualitativa, especialmente a separação de cátions e o controle da precipitação.
+
+As aplicações farmacêuticas também são relevantes, pois solubilidade, precipitação e incompatibilidades interferem na formulação, na estabilidade, no preparo e na administração de medicamentos.
+
+#### 8.4.3 Importância integradora
+
+A unidade aplica simultaneamente conhecimentos de:
+
+- concentração;
+- atividade;
+- força iônica;
+- equilíbrio químico;
+- quociente de reação;
+- equilíbrio ácido-base;
+- estequiometria;
+- complexação;
+- temperatura;
+- propriedades interfaciais;
+- cinética de formação e dissolução de sólidos.
+
+A sequência conceitual central deverá ser:
+
+**composição da solução → estado de saturação → formação ou dissolução da fase sólida → aplicação analítica ou farmacêutica**
+
+O estudante deverá perceber que a precipitação não depende apenas do valor tabelado de \(K_{ps}\), mas da composição completa do sistema.
+
+#### 8.4.4 Conhecimentos prévios
+
+O desenvolvimento adequado pressupõe conhecimentos sobre:
+
+- concentração e diluição;
+- eletrólitos;
+- atividade e força iônica;
+- equilíbrio químico;
+- constantes de equilíbrio;
+- quociente de reação;
+- estequiometria;
+- pH;
+- ácidos e bases fracos;
+- hidrólise;
+- sistemas tampão;
+- distribuição de espécies.
+
+Esses fundamentos deverão ser retomados apenas quando necessários à compreensão dos equilíbrios de solubilidade.
+
+#### 8.4.5 Equilíbrio heterogêneo
+
+O equilíbrio de solubilidade deverá ser apresentado como um equilíbrio heterogêneo entre uma fase sólida e as espécies dissolvidas.
+
+Para um sólido genérico:
+
+\[
+M_aX_b(s) \rightleftharpoons aM^{n+}(aq)+bX^{m-}(aq)
+\]
+
+O material deverá esclarecer:
+
+- o significado do equilíbrio entre sólido e solução;
+- a condição de saturação;
+- a função da fase sólida;
+- por que a atividade de um sólido puro não aparece na expressão;
+- a diferença entre solução insaturada, saturada e supersaturada;
+- a dependência do equilíbrio em relação à temperatura.
+
+Também deverá ser explicado que a quantidade de sólido presente não altera a constante de equilíbrio, desde que a fase sólida exista e permaneça em equilíbrio com a solução.
+
+#### 8.4.6 Produto de solubilidade
+
+O produto de solubilidade deverá ser definido a partir das atividades das espécies dissolvidas.
+
+Para o equilíbrio genérico:
+
+\[
+K_{ps}=a_{M^{n+}}^a a_{X^{m-}}^b
+\]
+
+Nos cálculos introdutórios, as atividades poderão ser aproximadas por concentrações, desde que as condições e limitações dessa aproximação sejam explicitadas.
+
+O estudante deverá compreender que:
+
+- \(K_{ps}\) é uma constante de equilíbrio;
+- sua expressão depende da equação de dissolução;
+- os expoentes são os coeficientes estequiométricos;
+- seu valor depende da temperatura;
+- valores de diferentes sólidos não podem ser comparados sem considerar a estequiometria.
+
+#### 8.4.7 Solubilidade molar e solubilidade em massa
+
+A unidade deverá distinguir:
+
+- solubilidade molar;
+- solubilidade em massa;
+- concentração das espécies no equilíbrio;
+- quantidade total dissolvida;
+- produto de solubilidade.
+
+Deverão ser desenvolvidos exemplos para sólidos de diferentes estequiometrias:
+
+- \(MX\);
+- \(MX_2\);
+- \(M_2X\);
+- \(M_2X_3\);
+- outros casos relevantes.
+
+O estudante deverá compreender por que sólidos com o mesmo valor de solubilidade molar podem apresentar expressões e valores de \(K_{ps}\) diferentes.
+
+#### 8.4.8 Relação entre \(K_{ps}\) e solubilidade
+
+A conversão entre \(K_{ps}\) e solubilidade deverá ser desenvolvida de forma sistemática.
+
+Os cálculos deverão incluir:
+
+- dissolução em água pura;
+- presença de íon comum;
+- contribuição de outras fontes dos íons;
+- influência de equilíbrios ácido-base;
+- influência de complexação;
+- uso de aproximações;
+- verificação da coerência do resultado.
+
+Não deverá ser ensinada uma única fórmula geral descontextualizada. A expressão deverá ser construída a partir da estequiometria e das condições de cada sistema.
+
+#### 8.4.9 Atividade, força iônica e efeito salino
+
+O efeito salino deverá ser articulado com os conceitos de atividade e força iônica.
+
+A unidade deverá mostrar que a adição de eletrólitos que não fornecem íons comuns pode alterar os coeficientes de atividade e, consequentemente, a solubilidade observada.
+
+Deverão ser diferenciados:
+
+- efeito do íon comum;
+- efeito da força iônica;
+- efeito de reações químicas paralelas;
+- alterações decorrentes da natureza do meio.
+
+A abordagem matemática deverá ser compatível com o nível da disciplina, preservando o significado físico-químico.
+
+#### 8.4.10 Efeito do íon comum
+
+O efeito do íon comum deverá ser desenvolvido como consequência do deslocamento do equilíbrio.
+
+O estudante deverá aprender a:
+
+- identificar o íon comum;
+- construir a expressão de equilíbrio;
+- calcular a nova solubilidade;
+- avaliar a validade de aproximações;
+- interpretar o resultado;
+- relacionar o efeito à precipitação seletiva.
+
+Também deverá ser esclarecido que o íon comum geralmente reduz a solubilidade, mas o comportamento global poderá ser modificado por complexação, protonação ou outras reações simultâneas.
+
+#### 8.4.11 Quociente de reação e estado de saturação
+
+O quociente de reação deverá ser aplicado à previsão do estado do sistema.
+
+Deverão ser comparadas as condições:
+
+- \(Q_{ps}<K_{ps}\): solução insaturada;
+- \(Q_{ps}=K_{ps}\): solução saturada em equilíbrio;
+- \(Q_{ps}>K_{ps}\): condição termodinâmica favorável à precipitação.
+
+A comparação entre \(Q_{ps}\) e \(K_{ps}\) deverá ser acompanhada de uma ressalva: a condição termodinâmica não informa, sozinha, a velocidade de formação do precipitado.
+
+Essa distinção preparará a conexão com nucleação, supersaturação e cinética.
+
+#### 8.4.12 Início da precipitação
+
+O material deverá desenvolver cálculos para determinar:
+
+- a concentração mínima do reagente precipitante;
+- o pH de início da precipitação;
+- a espécie que precipita primeiro;
+- a composição da solução no instante de saturação;
+- o efeito da diluição causada pela mistura das soluções.
+
+O volume total após a mistura deverá ser considerado sempre que modificar significativamente as concentrações.
+
+A unidade deverá evitar exemplos em que as concentrações iniciais sejam utilizadas diretamente sem avaliar a diluição decorrente da adição do reagente.
+
+#### 8.4.13 Extensão da precipitação
+
+Prever o início da precipitação não é suficiente para avaliar uma separação.
+
+A unidade deverá incluir a determinação de:
+
+- concentração residual do íon precipitado;
+- porcentagem precipitada;
+- quantidade de reagente necessária;
+- condição de precipitação considerada praticamente completa;
+- possível contaminação por coprecipitação ou precipitação simultânea.
+
+O estudante deverá distinguir claramente:
+
+- início da precipitação;
+- precipitação quantitativamente significativa;
+- precipitação praticamente completa;
+- separação seletiva.
+
+#### 8.4.14 Precipitação seletiva e fracionada
+
+A precipitação seletiva deverá ser desenvolvida quantitativamente.
+
+O conteúdo deverá incluir:
+
+- comparação das condições de início da precipitação;
+- intervalo de concentração do agente precipitante;
+- razão entre concentrações residuais;
+- influência da estequiometria;
+- influência do pH;
+- limites da separação;
+- precipitação fracionada.
+
+O estudante deverá verificar se uma espécie pode ser precipitada de forma suficientemente completa antes que outra comece a precipitar.
+
+A simples comparação entre valores de \(K_{ps}\) não deverá ser aceita como critério suficiente de seletividade.
+
+#### 8.4.15 Efeito do pH sobre a solubilidade
+
+A influência do pH deverá ser articulada aos equilíbrios ácido-base.
+
+A protonação do ânion de um sal pode reduzir sua concentração livre e favorecer a dissolução do sólido.
+
+Deverão ser considerados exemplos envolvendo sais de ânions derivados de:
+
+- ácidos fracos;
+- sistemas polipróticos;
+- hidróxidos;
+- carbonatos;
+- fosfatos;
+- outras espécies pertinentes à análise qualitativa.
+
+O estudante deverá utilizar diagramas de distribuição ou frações de composição quando isso facilitar a compreensão.
+
+#### 8.4.16 Precipitação de hidróxidos
+
+A precipitação de hidróxidos metálicos deverá receber tratamento específico por sua importância analítica.
+
+O conteúdo deverá incluir:
+
+- relação entre \(K_{ps}\), concentração do cátion e pH;
+- pH de início da precipitação;
+- intervalo de precipitação seletiva;
+- hidróxidos anfóteros;
+- dissolução em excesso de ácido;
+- dissolução em excesso de base, quando aplicável;
+- influência da complexação.
+
+Essa seção estabelecerá conexão direta com as marchas de separação de cátions.
+
+#### 8.4.17 Dissolução de precipitados
+
+A unidade deverá explicar como um precipitado pode ser dissolvido pela redução da concentração de uma das espécies livres envolvidas no equilíbrio.
+
+A dissolução poderá ocorrer por:
+
+- protonação do ânion;
+- complexação do cátion;
+- reação de oxirredução;
+- alteração da temperatura;
+- mudança do solvente ou da composição do meio;
+- transformação em outra espécie química.
+
+O estudante deverá interpretar a dissolução como resultado do acoplamento entre equilíbrios, não como simples desaparecimento físico do sólido.
+
+#### 8.4.18 Equilíbrios simultâneos
+
+Os sistemas reais frequentemente envolvem mais de um equilíbrio.
+
+A nova unidade deverá integrar:
+
+- solubilidade e ácido-base;
+- solubilidade e complexação;
+- solubilidade e oxirredução;
+- solubilidade e hidrólise;
+- formação de diferentes fases sólidas;
+- competição entre ligantes;
+- distribuição das espécies.
+
+Inicialmente, poderão ser empregados métodos aproximados. Em exemplos mais complexos, poderão ser utilizadas planilhas, gráficos ou simulações para mostrar o comportamento do sistema.
+
+#### 8.4.19 Constantes condicionais
+
+A introdução de constantes condicionais poderá facilitar a interpretação de sistemas nos quais apenas uma fração da espécie está disponível para participar do equilíbrio de precipitação.
+
+O conceito deverá ser apresentado qualitativamente antes do desenvolvimento matemático.
+
+Sua utilização será especialmente útil para integrar:
+
+- efeito do pH;
+- protonação de ligantes;
+- complexação;
+- mascaramento;
+- precipitação seletiva.
+
+A profundidade matemática deverá respeitar os conhecimentos prévios e a carga horária da disciplina.
+
+#### 8.4.20 Supersaturação, nucleação e crescimento cristalino
+
+O sumário atual trata adequadamente o aspecto termodinâmico, mas não explicita os processos de formação real do precipitado.
+
+Deverão ser introduzidos:
+
+- supersaturação;
+- nucleação homogênea e heterogênea;
+- crescimento de partículas;
+- indução;
+- formação de precipitados cristalinos ou coloidais;
+- influência da agitação;
+- influência da temperatura;
+- influência da velocidade de adição.
+
+Esses conceitos deverão estabelecer conexão com a unidade de interfaces e sistemas dispersos.
+
+#### 8.4.21 Envelhecimento e transformação do precipitado
+
+O comportamento do precipitado pode mudar após sua formação.
+
+O material poderá abordar:
+
+- digestão;
+- envelhecimento;
+- recristalização;
+- agregação;
+- amadurecimento de Ostwald;
+- transformação de fases;
+- redissolução de partículas menores;
+- alteração da facilidade de filtração.
+
+A profundidade deverá ser compatível com os objetivos qualitativos e farmacêuticos da disciplina.
+
+#### 8.4.22 Coprecipitação e contaminação
+
+A unidade atual não explicita fenômenos que podem comprometer a pureza do precipitado.
+
+Deverão ser introduzidos, ao menos qualitativamente:
+
+- adsorção superficial;
+- oclusão;
+- inclusão;
+- aprisionamento mecânico;
+- pós-precipitação;
+- formação de precipitados mistos.
+
+Esses processos são importantes para compreender por que a formação de uma fase sólida nem sempre produz uma separação perfeitamente seletiva.
+
+#### 8.4.23 Solubilidade de fármacos
+
+A aplicação farmacêutica deverá distinguir o equilíbrio de solubilidade de sais inorgânicos da solubilidade de moléculas orgânicas e princípios ativos.
+
+Deverão ser diferenciados:
+
+- solubilidade intrínseca;
+- solubilidade aparente;
+- forma ionizada e não ionizada;
+- influência do pH;
+- forma salina;
+- estado sólido;
+- polimorfismo;
+- solvatos e hidratos;
+- temperatura;
+- composição do solvente;
+- presença de tensoativos e complexantes.
+
+Nem todos esses temas precisarão ser desenvolvidos integralmente nesta unidade. Alguns poderão ser retomados em Termodinâmica, interfaces e sistemas dispersos.
+
+#### 8.4.24 Solubilidade e velocidade de dissolução
+
+O material deverá distinguir claramente:
+
+- solubilidade: quantidade dissolvida no equilíbrio;
+- velocidade de dissolução: rapidez com que o soluto passa para a solução.
+
+Uma substância pode apresentar solubilidade de equilíbrio adequada e dissolução lenta, ou baixa solubilidade e dissolução inicial relativamente rápida.
+
+Essa distinção será importante para compreender:
+
+- desempenho de formas farmacêuticas;
+- tamanho de partícula;
+- área superficial;
+- agitação;
+- molhabilidade;
+- estado sólido;
+- condições do meio.
+
+O desenvolvimento quantitativo da velocidade de dissolução poderá ser realizado posteriormente na unidade de cinética e interfaces.
+
+#### 8.4.25 Incompatibilidades farmacêuticas por precipitação
+
+A unidade deverá incluir situações nas quais a mistura de componentes provoca precipitação.
+
+Poderão ser analisados casos envolvendo:
+
+- alteração do pH;
+- diluição de veículos;
+- mistura de eletrólitos;
+- formação de sais pouco solúveis;
+- redução da solubilização;
+- complexação;
+- incompatibilidades em preparações líquidas;
+- incompatibilidades em misturas para administração.
+
+Os estudos de caso deverão priorizar raciocínio químico e segurança, evitando recomendações clínicas fora do escopo da disciplina.
+
+#### 8.4.26 Atividades práticas atuais
+
+As três práticas sugeridas apresentam boa relação com o conteúdo:
+
+- determinação experimental de \(K_{ps}\);
+- precipitação seletiva de cátions;
+- efeito do pH sobre a solubilidade de um sal pouco solúvel.
+
+Entretanto, cada proposta deverá ser avaliada quanto a:
+
+- método de determinação;
+- validade das aproximações;
+- influência da temperatura;
+- força iônica;
+- tempo para atingir o equilíbrio;
+- possibilidade de supersaturação;
+- precisão da medição;
+- riscos dos reagentes;
+- tratamento e descarte dos resíduos.
+
+A expressão “determinação experimental de \(K_{ps}\)” deverá ser acompanhada da descrição do método empregado e de suas limitações.
+
+#### 8.4.27 Possibilidades de práticas integradas
+
+Poderão ser avaliadas atividades como:
+
+- comparação entre \(Q_{ps}\) e \(K_{ps}\);
+- determinação do início da precipitação;
+- precipitação seletiva em microescala;
+- influência do íon comum;
+- influência do pH;
+- dissolução de precipitado por acidificação;
+- dissolução por complexação;
+- comparação entre precipitação rápida e lenta;
+- observação de supersaturação e nucleação;
+- estudo de incompatibilidade por precipitação;
+- simulação computacional de curvas de precipitação.
+
+A seleção deverá considerar segurança, disponibilidade de materiais e capacidade de gerar resultados interpretáveis no tempo de aula.
+
+#### 8.4.28 Segurança e responsabilidade ambiental
+
+Práticas clássicas de análise qualitativa podem empregar íons metálicos tóxicos e agentes precipitantes perigosos.
+
+O planejamento deverá avaliar especialmente:
+
+- compostos de chumbo;
+- compostos de mercúrio;
+- sais de cádmio;
+- compostos de cromo hexavalente;
+- sais de bário solúveis;
+- sais de prata;
+- compostos de cobalto e níquel;
+- sulfetos e possível liberação de sulfeto de hidrogênio;
+- ácidos e bases corrosivos;
+- resíduos contendo metais.
+
+As práticas deverão priorizar:
+
+- microescala;
+- sistemas de menor toxicidade;
+- substituição de reagentes perigosos;
+- volumes reduzidos;
+- segregação dos resíduos;
+- proibição de descarte de metais na pia;
+- protocolos institucionais de armazenamento e destinação.
+
+A relevância histórica de um reagente não constitui justificativa suficiente para seu uso didático.
+
+#### 8.4.29 Carga horária
+
+A carga atual de 8 h/a teóricas e 6 h/a práticas é coerente com a importância experimental da unidade.
+
+Entretanto, o conjunto completo inclui:
+
+- equilíbrio heterogêneo;
+- \(K_{ps}\);
+- cálculos de solubilidade;
+- atividade;
+- íon comum;
+- efeito salino;
+- previsão de precipitação;
+- precipitação seletiva;
+- influência do pH;
+- equilíbrios simultâneos;
+- fenômenos de nucleação e crescimento;
+- aplicações analíticas;
+- aplicações farmacêuticas.
+
+A carga poderá ser suficiente para os fundamentos, mas exigirá seleção cuidadosa da profundidade e integração com outras unidades.
+
+As 6 h/a práticas deverão ser organizadas em experiências que combinem mais de um objetivo, evitando atividades excessivamente fragmentadas.
+
+#### 8.4.30 Repetições e conexões
+
+A unidade apresenta conexões diretas com:
+
+- equilíbrio químico geral;
+- equilíbrios ácido-base;
+- complexação;
+- oxirredução;
+- termodinâmica;
+- cinética;
+- interfaces e sistemas dispersos;
+- análise qualitativa sistemática.
+
+A nova organização deverá evitar repetições extensas.
+
+Nesta unidade deverão ser estabelecidos os fundamentos da solubilidade e da precipitação. Nas unidades posteriores, esses fundamentos serão aplicados à complexação, à análise sistemática e aos sistemas farmacêuticos.
+
+#### 8.4.31 Lacunas principais
+
+As principais lacunas identificadas são:
+
+- ausência explícita das condições de saturação e supersaturação;
+- comparação possivelmente simplificada entre \(K_{ps}\) e solubilidade;
+- falta de tratamento da extensão da precipitação;
+- precipitação fracionada não explicitada;
+- ausência de balanços e equilíbrios simultâneos;
+- ausência de constantes condicionais;
+- ausência de nucleação e crescimento de partículas;
+- ausência de coprecipitação;
+- distinção insuficiente entre solubilidade e velocidade de dissolução;
+- solubilidade farmacêutica apresentada de forma muito ampla;
+- práticas ainda não transformadas em roteiros completos;
+- riscos ambientais e toxicológicos não explicitados.
+
+#### 8.4.32 Recomendação preliminar
+
+A unidade deverá ser preservada como eixo central da integração entre Físico-Química e análise qualitativa.
+
+Recomenda-se:
+
+- manter sua posição depois dos equilíbrios ácido-base;
+- aprofundar a relação entre \(K_{ps}\) e solubilidade;
+- desenvolver cálculos de início e extensão da precipitação;
+- incorporar precipitação seletiva e fracionada;
+- integrar pH, complexação e solubilidade;
+- introduzir supersaturação, nucleação e coprecipitação;
+- distinguir solubilidade de velocidade de dissolução;
+- delimitar o tratamento da solubilidade farmacêutica;
+- revisar todas as práticas quanto à segurança;
+- articular a unidade com a análise qualitativa sistemática.
+
+A possibilidade de repartir alguns conteúdos entre esta unidade, interfaces e cinética deverá ser examinada durante a elaboração do novo sumário.
+
+#### 8.4.33 Conclusão diagnóstica
+
+| Critério | Diagnóstico |
+|---|---|
+| Relevância | Essencial |
+| Integração curricular | Muito alta |
+| Equilíbrio heterogêneo | Adequado, com necessidade de aprofundamento |
+| Produto de solubilidade | Deve receber maior rigor |
+| Relação entre \(K_{ps}\) e solubilidade | Precisa considerar estequiometria e condições do meio |
+| Atividade e força iônica | Precisam ser retomadas |
+| Efeito do íon comum | Adequado |
+| Efeito salino | Necessita definição mais precisa |
+| Q e \(K_{ps}\) | Devem ser preservados e aprofundados |
+| Extensão da precipitação | Não explicitada |
+| Precipitação seletiva | Central e precisa de desenvolvimento quantitativo |
+| Influência do pH | Essencial e deve ser integrada aos equilíbrios ácido-base |
+| Equilíbrios simultâneos | Insuficientemente desenvolvidos |
+| Formação real do precipitado | Ausente |
+| Solubilidade farmacêutica | Relevante, mas necessita delimitação |
+| Solubilidade e dissolução | Precisam ser diferenciadas |
+| Práticas | Pertinentes, porém incompletas |
+| Segurança | Exige revisão rigorosa dos reagentes |
+| Carga horária | Adequada apenas com integração e seleção |
+| Recomendação | Preservar, aprofundar e integrar |
