@@ -706,3 +706,749 @@ As aplicações serão sustentadas por fontes confiáveis, incluindo:
 - normas e regulamentações aplicáveis.
 
 Sempre que uma exigência normativa for mencionada, deverão ser identificados o documento, a edição ou versão e o contexto de aplicação.
+
+## 16. Estrutura permanente de cada unidade
+
+Todas as unidades do Livro Mestre seguirão uma estrutura pedagógica comum. Essa padronização deverá facilitar a orientação do estudante, garantir coerência entre os capítulos e permitir a produção dos materiais derivados.
+
+A estrutura não deverá transformar as unidades em textos rígidos ou repetitivos. Ajustes poderão ser realizados quando a natureza do conteúdo exigir, desde que a lógica pedagógica geral seja preservada.
+
+### 16.1 Abertura da unidade
+
+A abertura deverá apresentar:
+
+- número e título da unidade;
+- carga horária teórica e prática;
+- apresentação do conteúdo;
+- conhecimentos prévios necessários;
+- objetivos de aprendizagem;
+- situação-problema introdutória;
+- grande ideia da unidade;
+- relação com as unidades anteriores e posteriores.
+
+A situação-problema deverá mostrar ao estudante por que o conteúdo merece ser estudado. Sempre que possível, deverá partir de uma situação analítica, experimental ou farmacêutica.
+
+### 16.2 Grande ideia da unidade
+
+Cada unidade deverá apresentar uma afirmação central que sintetize o conceito mais importante a ser construído.
+
+A grande ideia deverá:
+
+- ser cientificamente correta;
+- utilizar linguagem clara;
+- evitar excesso de detalhes;
+- orientar o desenvolvimento da unidade;
+- reaparecer na síntese final;
+- estabelecer conexão com a formação farmacêutica.
+
+### 16.3 Fundamentação conceitual
+
+A fundamentação deverá explicar:
+
+- o fenômeno estudado;
+- suas causas;
+- as espécies químicas envolvidas;
+- as condições que influenciam o sistema;
+- as relações com conceitos anteriores;
+- as limitações dos modelos utilizados.
+
+Sempre que pertinente, a explicação deverá articular os níveis macroscópico, microscópico e simbólico.
+
+### 16.4 Desenvolvimento matemático
+
+Depois da construção conceitual, serão apresentadas as equações necessárias para descrever e prever o fenômeno.
+
+O desenvolvimento matemático deverá incluir:
+
+- origem ou justificativa da relação;
+- significado das variáveis;
+- unidades;
+- condições de validade;
+- aproximações adotadas;
+- exemplos resolvidos;
+- interpretação química do resultado.
+
+### 16.5 Aplicação analítica
+
+Cada unidade deverá explicitar como o fundamento estudado é utilizado na Química Analítica Qualitativa.
+
+Poderão ser abordados:
+
+- seleção de reagentes;
+- controle das condições experimentais;
+- precipitação;
+- dissolução;
+- formação de complexos;
+- mascaramento;
+- separação de espécies;
+- reações de identificação;
+- interferências;
+- confirmação de resultados.
+
+### 16.6 Conexão farmacêutica
+
+A relação com as Ciências Farmacêuticas deverá aparecer de forma integrada ao conteúdo.
+
+As conexões poderão envolver:
+
+- preparo de soluções;
+- propriedades de fármacos;
+- solubilidade;
+- ionização;
+- osmolaridade e isotonicidade;
+- estabilidade;
+- incompatibilidades;
+- degradação;
+- formulações;
+- controle de qualidade;
+- armazenamento e conservação.
+
+### 16.7 Integração com a prática
+
+Cada unidade deverá indicar quais conhecimentos serão mobilizados nas atividades experimentais.
+
+Essa seção deverá apresentar:
+
+- fenômeno que será observado;
+- princípio físico-químico envolvido;
+- aplicação analítica;
+- habilidades laboratoriais;
+- riscos principais;
+- tratamento dos resíduos;
+- dados que deverão ser registrados;
+- critérios para interpretação dos resultados.
+
+O roteiro operacional completo ficará no Caderno de Práticas. O Livro Mestre apresentará a fundamentação e a conexão pedagógica da atividade.
+
+### 16.8 Fechamento da unidade
+
+O fechamento deverá conter:
+
+- mensagem-chave;
+- síntese dos conceitos;
+- mapa de relações;
+- erros conceituais frequentes;
+- estudo de caso;
+- exercícios;
+- questões de integração;
+- indicação de leitura complementar;
+- referências utilizadas.
+
+### 16.9 Estrutura resumida
+
+A sequência permanente de cada unidade será:
+
+1. Identificação e carga horária.
+2. Objetivos de aprendizagem.
+3. Situação-problema.
+4. Grande ideia.
+5. Revisão dos conhecimentos prévios.
+6. Fundamentação conceitual.
+7. Desenvolvimento matemático.
+8. Exemplos resolvidos.
+9. Aplicação analítica.
+10. Conexão farmacêutica.
+11. Integração com a prática.
+12. Estudo de caso.
+13. Mensagem-chave.
+14. Resumo.
+15. Exercícios.
+16. Referências.
+
+## 17. Padrão de desenvolvimento conceitual e matemático
+
+O tratamento conceitual e matemático deverá permitir que o estudante compreenda não apenas como realizar um cálculo, mas por que determinada relação é aplicável e o que o resultado representa.
+
+### 17.1 Conceito antes da equação
+
+Nenhuma equação central deverá ser apresentada sem uma explicação prévia do fenômeno que ela representa.
+
+A sequência recomendada será:
+
+1. descrição da situação;
+2. identificação das espécies e variáveis;
+3. explicação qualitativa;
+4. representação química;
+5. apresentação da relação matemática;
+6. cálculo;
+7. interpretação do resultado.
+
+### 17.2 Significado das grandezas
+
+Toda grandeza deverá ser apresentada com:
+
+- nome;
+- símbolo;
+- definição;
+- unidade;
+- natureza intensiva ou extensiva, quando pertinente;
+- método de obtenção;
+- papel no sistema estudado.
+
+Símbolos semelhantes deverão ser diferenciados explicitamente para evitar ambiguidades.
+
+### 17.3 Equações químicas
+
+As equações deverão:
+
+- apresentar fórmulas corretas;
+- indicar estados físicos quando relevantes;
+- estar balanceadas;
+- representar adequadamente cargas e estequiometria;
+- distinguir reação total, reação iônica e equilíbrio;
+- indicar condições experimentais quando necessárias.
+
+### 17.4 Equações matemáticas
+
+As equações matemáticas deverão:
+
+- utilizar notação consistente;
+- definir todas as variáveis;
+- apresentar unidades compatíveis;
+- indicar constantes e condições de temperatura;
+- explicitar aproximações;
+- evitar mudanças injustificadas de símbolos;
+- ser numeradas quando forem retomadas posteriormente.
+
+### 17.5 Atividade e concentração
+
+Sempre que constantes termodinâmicas forem apresentadas, deverá ser esclarecido que sua definição rigorosa utiliza atividades.
+
+O emprego de concentrações no lugar de atividades deverá ser apresentado como aproximação válida sob determinadas condições, especialmente em soluções suficientemente diluídas.
+
+Essa distinção será retomada em:
+
+- cálculo de pH;
+- constantes de ionização;
+- produto de solubilidade;
+- constantes de formação;
+- equação de Nernst;
+- força iônica.
+
+### 17.6 Unidades e análise dimensional
+
+Os cálculos deverão apresentar as unidades em todas as etapas relevantes.
+
+A análise dimensional será utilizada para:
+
+- verificar a coerência das equações;
+- orientar conversões;
+- identificar resultados incompatíveis;
+- reduzir erros mecânicos;
+- reforçar o significado das grandezas.
+
+### 17.7 Algarismos significativos e incerteza
+
+Os resultados numéricos deverão considerar:
+
+- precisão dos dados fornecidos;
+- algarismos significativos;
+- arredondamento;
+- incerteza das medidas;
+- diferença entre valor calculado e valor experimental.
+
+O excesso de casas decimais não deverá ser confundido com maior exatidão.
+
+### 17.8 Aproximações e condições de validade
+
+Sempre que uma aproximação for utilizada, o texto deverá informar:
+
+- qual aproximação está sendo adotada;
+- por que ela é aceitável;
+- em quais condições pode falhar;
+- como verificar sua validade;
+- qual abordagem seria necessária em um tratamento mais rigoroso.
+
+### 17.9 Interpretação do resultado
+
+Todo exemplo resolvido deverá terminar com uma interpretação.
+
+A interpretação deverá responder:
+
+- o valor obtido é quimicamente plausível?
+- qual fenômeno ele representa?
+- o resultado confirma ou rejeita uma hipótese?
+- qual decisão analítica pode ser tomada?
+- qual é sua relevância farmacêutica?
+- quais limitações precisam ser consideradas?
+
+## 18. Exemplos, exercícios e estudos de caso
+
+Os exemplos, exercícios e estudos de caso serão utilizados para desenvolver diferentes níveis de aprendizagem, desde o reconhecimento de conceitos até a resolução integrada de problemas.
+
+### 18.1 Exemplos resolvidos
+
+Os exemplos resolvidos deverão apresentar:
+
+1. enunciado;
+2. identificação dos dados;
+3. definição do que deve ser determinado;
+4. seleção da estratégia;
+5. equações necessárias;
+6. substituição dos valores com unidades;
+7. desenvolvimento do cálculo;
+8. resultado;
+9. interpretação química;
+10. verificação da coerência.
+
+Sempre que possível, serão incluídos dois exemplos complementares:
+
+- um exemplo químico geral;
+- um exemplo analítico ou farmacêutico.
+
+### 18.2 Exercícios de aprendizagem
+
+Os exercícios serão distribuídos em quatro níveis.
+
+#### Nível 1 — Reconhecimento e compreensão
+
+Questões destinadas a:
+
+- definir conceitos;
+- identificar espécies;
+- reconhecer grandezas;
+- interpretar símbolos;
+- distinguir fenômenos;
+- explicar relações qualitativas.
+
+#### Nível 2 — Aplicação orientada
+
+Questões destinadas a:
+
+- utilizar equações;
+- realizar conversões;
+- calcular propriedades;
+- prever deslocamentos;
+- interpretar resultados diretos;
+- aplicar procedimentos conhecidos.
+
+#### Nível 3 — Análise e interpretação
+
+Questões destinadas a:
+
+- comparar situações;
+- interpretar gráficos e tabelas;
+- identificar interferências;
+- analisar erros;
+- selecionar condições experimentais;
+- justificar resultados.
+
+#### Nível 4 — Integração e decisão
+
+Questões destinadas a:
+
+- integrar diferentes equilíbrios;
+- resolver situações novas;
+- avaliar dados incompletos;
+- formular hipóteses;
+- escolher estratégias analíticas;
+- tomar decisões fundamentadas.
+
+### 18.3 Questões objetivas
+
+As questões objetivas deverão:
+
+- ser preferencialmente inéditas;
+- apresentar apenas uma alternativa correta;
+- evitar pistas gramaticais;
+- utilizar distratores plausíveis;
+- avaliar raciocínio, e não apenas memorização;
+- apresentar dados suficientes;
+- evitar ambiguidades;
+- possuir justificativa para o gabarito.
+
+Quando apropriado, poderão seguir o modelo contextualizado utilizado em avaliações do tipo ENADE.
+
+### 18.4 Questões discursivas
+
+As questões discursivas deverão permitir avaliar:
+
+- organização do raciocínio;
+- domínio conceitual;
+- desenvolvimento matemático;
+- interpretação de resultados;
+- argumentação científica;
+- capacidade de integração.
+
+Os critérios esperados para a resposta deverão ser registrados no Guia do Professor.
+
+### 18.5 Estudos de caso
+
+Cada unidade deverá apresentar pelo menos um estudo de caso integrador.
+
+O estudo de caso deverá conter:
+
+- contexto;
+- problema central;
+- dados relevantes;
+- informações que exijam seleção e interpretação;
+- perguntas orientadoras;
+- necessidade de decisão;
+- possibilidade de mais de uma etapa de raciocínio.
+
+Sempre que possível, o caso deverá partir de uma situação farmacêutica realista, sem utilizar informações confidenciais ou afirmar como real um caso fictício.
+
+### 18.6 Respostas e comentários
+
+O Livro Mestre deverá conter:
+
+- respostas dos exercícios objetivos;
+- resultados numéricos;
+- comentários sobre questões selecionadas;
+- justificativa das alternativas;
+- estratégias possíveis para questões discursivas;
+- alertas sobre erros frequentes.
+
+Na apostila do estudante, as respostas poderão ser apresentadas de forma resumida. O Guia do Professor conterá as resoluções completas e os critérios de correção.
+
+## 19. Figuras, tabelas e boxes editoriais
+
+Os recursos visuais deverão contribuir diretamente para a compreensão. Nenhuma figura, tabela ou box será incluído apenas como elemento decorativo.
+
+### 19.1 Padrão geral das figuras
+
+As figuras deverão apresentar:
+
+- fundo branco;
+- linhas limpas;
+- tipografia legível;
+- títulos e rótulos em português;
+- símbolos químicos corretos;
+- cores utilizadas com função definida;
+- contraste adequado;
+- composição visual simples;
+- identidade gráfica consistente.
+
+A informação não deverá depender exclusivamente da cor. Símbolos, rótulos, padrões ou formas deverão permitir a interpretação por leitores com dificuldade de percepção cromática.
+
+### 19.2 Código de cores
+
+Como orientação inicial, poderá ser adotado:
+
+- azul para fundamentos físico-químicos;
+- laranja para processos e aplicações analíticas;
+- verde para conexões farmacêuticas;
+- vermelho para riscos, alertas e situações críticas;
+- cinza para elementos secundários.
+
+A paleta definitiva será validada antes da produção sistemática das figuras.
+
+### 19.3 Tipos de figuras
+
+Poderão ser utilizadas:
+
+- diagramas conceituais;
+- representações moleculares;
+- esquemas de partículas;
+- gráficos;
+- curvas de titulação;
+- perfis energéticos;
+- fluxogramas;
+- esquemas de células eletroquímicas;
+- diagramas de separação;
+- representações de micelas, emulsões e suspensões;
+- esquemas de procedimentos laboratoriais.
+
+### 19.4 Numeração e legendas
+
+As figuras serão numeradas por unidade:
+
+- Figura 1.1;
+- Figura 1.2;
+- Figura 2.1;
+- Figura 2.2.
+
+Cada figura deverá apresentar:
+
+- número;
+- título;
+- legenda explicativa;
+- definição de símbolos e abreviações;
+- fonte ou indicação de elaboração própria;
+- texto alternativo para acessibilidade, quando aplicável.
+
+A legenda deverá permitir que a figura seja compreendida sem dependência integral do texto principal.
+
+### 19.5 Tabelas
+
+As tabelas serão utilizadas quando houver necessidade real de comparação, classificação ou consulta.
+
+As tabelas deverão:
+
+- apresentar título claro;
+- possuir cabeçalhos objetivos;
+- utilizar unidades;
+- evitar excesso de texto;
+- manter alinhamento coerente;
+- indicar abreviações;
+- apresentar fonte;
+- destacar somente os dados essenciais.
+
+Textos narrativos extensos não deverão ser colocados em tabelas.
+
+### 19.6 Boxes editoriais
+
+O Livro Mestre poderá utilizar os seguintes boxes:
+
+- **Grande ideia:** apresenta o conceito central da unidade;
+- **Conexão analítica:** relaciona o fundamento à análise qualitativa;
+- **Conexão farmacêutica:** mostra aplicação nas Ciências Farmacêuticas;
+- **Exemplo resolvido:** desenvolve uma aplicação passo a passo;
+- **Erro comum:** alerta para interpretações ou cálculos incorretos;
+- **Segurança no laboratório:** destaca riscos e medidas preventivas;
+- **Para pensar:** apresenta uma pergunta de reflexão;
+- **Interpretação do resultado:** discute o significado químico de um valor;
+- **Mensagem-chave:** sintetiza a aprendizagem essencial;
+- **Saiba mais:** indica aprofundamento opcional.
+
+Os boxes deverão ser utilizados com moderação. O excesso de caixas poderá fragmentar a leitura e reduzir sua função de destaque.
+
+### 19.7 Qualidade e originalidade
+
+Sempre que possível, as figuras serão produzidas especificamente para o projeto.
+
+Figuras adaptadas ou reproduzidas deverão:
+
+- respeitar direitos autorais;
+- apresentar a fonte;
+- indicar se houve adaptação;
+- manter fidelidade científica;
+- possuir qualidade suficiente para impressão e uso digital.
+
+## 20. Sistema de avaliação da aprendizagem
+
+A avaliação será entendida como parte do processo de aprendizagem e não apenas como mecanismo de atribuição de notas.
+
+O sistema deverá combinar avaliação diagnóstica, formativa e somativa.
+
+### 20.1 Avaliação diagnóstica
+
+A avaliação diagnóstica será utilizada para identificar conhecimentos prévios e dificuldades relacionadas a:
+
+- conceitos químicos fundamentais;
+- cálculos;
+- unidades;
+- estequiometria;
+- representação de reações;
+- interpretação de gráficos;
+- habilidades laboratoriais.
+
+Seus resultados deverão orientar retomadas e atividades de apoio.
+
+### 20.2 Avaliação formativa
+
+A avaliação formativa ocorrerá durante o desenvolvimento das unidades.
+
+Poderá incluir:
+
+- perguntas em aula;
+- exercícios;
+- atividades pré-laboratoriais;
+- resolução de problemas;
+- análise de dados;
+- mapas conceituais;
+- relatórios parciais;
+- discussão de resultados;
+- autoavaliação;
+- devolutivas individuais e coletivas.
+
+A devolutiva deverá indicar não somente que uma resposta está incorreta, mas qual raciocínio precisa ser reconstruído.
+
+### 20.3 Avaliação somativa
+
+A avaliação somativa poderá incluir:
+
+- provas teóricas;
+- provas práticas;
+- relatórios;
+- estudos de caso;
+- projetos;
+- análise de amostra desconhecida;
+- apresentações;
+- atividades integradoras.
+
+A distribuição de pesos deverá respeitar o plano de ensino e as normas institucionais.
+
+### 20.4 Avaliação das atividades práticas
+
+A avaliação prática deverá considerar:
+
+- preparação prévia;
+- cumprimento das normas de segurança;
+- organização da bancada;
+- execução dos procedimentos;
+- qualidade dos registros;
+- interpretação dos fenômenos;
+- tratamento dos dados;
+- descarte dos resíduos;
+- conclusão;
+- elaboração do relatório.
+
+A obtenção do resultado esperado não será o único critério. Um resultado divergente poderá demonstrar aprendizagem quando for corretamente analisado e justificado.
+
+### 20.5 Avaliação da amostra desconhecida
+
+A análise da amostra desconhecida deverá avaliar:
+
+- planejamento;
+- seleção dos testes;
+- uso racional dos reagentes;
+- controle das condições;
+- registro das evidências;
+- interpretação;
+- identificação de interferências;
+- conclusão;
+- justificativa físico-química;
+- comunicação técnica.
+
+### 20.6 Critérios de correção
+
+As avaliações discursivas, práticas e integradoras deverão utilizar critérios previamente definidos.
+
+As rubricas poderão considerar:
+
+- domínio conceitual;
+- estratégia de resolução;
+- correção matemática;
+- uso de unidades;
+- interpretação química;
+- argumentação;
+- clareza;
+- segurança;
+- integridade dos registros;
+- capacidade de integração.
+
+### 20.7 Coerência entre objetivos e avaliação
+
+Toda avaliação deverá estar alinhada aos objetivos e resultados de aprendizagem.
+
+Não deverão ser cobradas habilidades que não tenham sido desenvolvidas ou conteúdos que não estejam previstos no percurso formativo.
+
+A complexidade das avaliações deverá acompanhar a progressão:
+
+> **Reconhecer → compreender → aplicar → analisar → integrar**
+
+### 20.8 Integridade acadêmica
+
+O sistema de avaliação deverá valorizar:
+
+- autoria;
+- honestidade;
+- rastreabilidade dos dados;
+- citação das fontes;
+- transparência no uso de ferramentas digitais;
+- responsabilidade individual e coletiva.
+
+Fabricação, alteração ou omissão intencional de dados experimentais deverá ser tratada como violação da integridade científica.
+
+## 21. Critérios para referências e atualização científica
+
+O Livro Mestre deverá ser sustentado por referências confiáveis, relevantes e verificáveis.
+
+### 21.1 Hierarquia das fontes
+
+As fontes serão selecionadas considerando a seguinte hierarquia:
+
+1. documentos oficiais e compêndios reconhecidos;
+2. farmacopeias e normas técnicas;
+3. artigos científicos originais;
+4. revisões científicas de qualidade;
+5. livros-texto reconhecidos;
+6. bases de dados institucionais;
+7. documentos técnicos de organizações científicas e regulatórias.
+
+Materiais sem autoria identificada, páginas comerciais e conteúdos sem revisão não deverão fundamentar afirmações centrais.
+
+### 21.2 Adequação das referências
+
+Cada referência deverá:
+
+- sustentar diretamente a afirmação apresentada;
+- ser consultada no contexto original;
+- possuir autoria ou responsabilidade institucional identificável;
+- apresentar dados bibliográficos suficientes;
+- ser utilizada dentro de sua área de validade;
+- evitar generalizações além das evidências disponíveis.
+
+### 21.3 Atualidade das fontes
+
+Conteúdos fundamentais poderão utilizar obras clássicas, desde que permaneçam cientificamente válidas.
+
+Para temas sujeitos a mudanças, deverão ser utilizadas fontes atuais, especialmente em relação a:
+
+- normas;
+- regulamentações;
+- farmacopeias;
+- segurança química;
+- estabilidade de medicamentos;
+- métodos analíticos;
+- aplicações farmacêuticas;
+- terminologia científica.
+
+### 21.4 Referências normativas
+
+Sempre que forem citadas normas, regulamentações ou compêndios oficiais, deverão ser registrados:
+
+- instituição responsável;
+- título do documento;
+- edição ou versão;
+- ano;
+- seção aplicável;
+- data de consulta, quando pertinente.
+
+A validade da referência deverá ser confirmada antes da publicação ou utilização em aula.
+
+### 21.5 Artigos científicos
+
+Na seleção de artigos serão considerados:
+
+- pertinência;
+- qualidade metodológica;
+- atualidade;
+- relação com o conteúdo;
+- clareza dos dados;
+- possibilidade de aplicação didática;
+- existência de identificador persistente, quando disponível.
+
+As conclusões dos artigos não deverão ser apresentadas além dos limites dos dados publicados.
+
+### 21.6 Padronização bibliográfica
+
+As referências serão organizadas segundo um único padrão bibliográfico, definido para todo o projeto.
+
+Deverão ser mantidas:
+
+- consistência de autoria;
+- títulos completos;
+- dados da publicação;
+- edição;
+- paginação, quando necessária;
+- DOI ou endereço persistente;
+- data de acesso para conteúdos digitais, quando aplicável.
+
+### 21.7 Verificação das referências
+
+Antes da consolidação de cada unidade, deverá ser realizada uma auditoria para verificar:
+
+- existência da fonte;
+- correspondência entre citação e referência;
+- correção de autores, título e ano;
+- validade do DOI ou endereço;
+- atualização de documentos normativos;
+- presença das fontes de figuras e tabelas;
+- ausência de referências inventadas ou não consultadas.
+
+### 21.8 Processo de atualização
+
+O Livro Mestre será tratado como documento acadêmico vivo.
+
+A revisão deverá ocorrer:
+
+- antes de cada nova oferta da disciplina;
+- quando houver alteração normativa relevante;
+- quando forem identificados erros;
+- quando surgirem evidências científicas importantes;
+- quando a experiência em sala indicar necessidade de melhoria;
+- quando práticas ou reagentes precisarem ser substituídos por razões de segurança.
+
+Toda atualização relevante deverá ser registrada no histórico de versões do projeto.
