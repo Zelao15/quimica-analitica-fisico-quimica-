@@ -1091,3 +1091,556 @@ Sua posição definitiva na sequência dependerá da análise da Termodinâmica.
 | Práticas atuais | Exigem revisão de segurança |
 | Carga horária | Possivelmente insuficiente |
 | Recomendação | Preservar, aprofundar e reposicionar se necessário |
+### 8.3 Unidade atual 3 — Equilíbrios ácido-base
+
+#### 8.3.1 Função atual
+
+A Unidade atual 3 desenvolve os equilíbrios ácido-base necessários à compreensão do pH, da ionização de espécies químicas, das soluções tampão, das titulações e das separações controladas pelo meio reacional.
+
+Com 9 h/a teóricas e 5 h/a práticas, constitui uma das unidades centrais da disciplina. Seu conteúdo sustenta diretamente:
+
+- os equilíbrios de solubilidade;
+- a precipitação seletiva;
+- a formação de complexos;
+- as reações de identificação;
+- o comportamento de fármacos ionizáveis;
+- a escolha de tampões;
+- as titulações ácido-base;
+- a estabilidade de preparações farmacêuticas;
+- a interpretação de métodos farmacopeicos.
+
+A unidade também estabelece uma conexão concreta entre o equilíbrio químico geral e suas aplicações analíticas e farmacêuticas.
+
+#### 8.3.2 Pontos fortes
+
+A estrutura atual reúne os principais conteúdos introdutórios dos equilíbrios ácido-base:
+
+- teorias ácido-base;
+- autoionização da água;
+- pH e pOH;
+- ácidos e bases fracos;
+- constantes de ionização;
+- hidrólise salina;
+- soluções tampão;
+- titulações;
+- indicadores.
+
+As aplicações propostas são pertinentes à formação farmacêutica, especialmente o controle do pH, a ionização de fármacos, a seleção de tampões e as titulações farmacopeicas.
+
+As práticas sugeridas também apresentam boa correspondência com a fundamentação teórica, pois permitem observar experimentalmente o comportamento dos tampões, as curvas de titulação e a determinação de constantes de ionização.
+
+#### 8.3.3 Importância integradora
+
+Os equilíbrios ácido-base não devem ser tratados como um assunto isolado. O pH modifica a distribuição das espécies e pode determinar:
+
+- se uma substância permanece dissolvida;
+- se ocorre precipitação;
+- se um ligante está disponível para complexação;
+- se um fármaco se encontra ionizado;
+- se uma reação de identificação será seletiva;
+- se determinado indicador responderá adequadamente;
+- se uma formulação apresenta estabilidade química;
+- se uma preparação é compatível com a via de administração.
+
+A unidade deverá mostrar continuamente a seguinte relação:
+
+**equilíbrio ácido-base → distribuição das espécies → propriedade observável → aplicação analítica ou farmacêutica**
+
+#### 8.3.4 Conhecimentos prévios
+
+O desenvolvimento adequado da unidade pressupõe que o estudante compreenda:
+
+- concentração em quantidade de matéria;
+- diluição e preparo de soluções;
+- eletrólitos fortes e fracos;
+- atividade e concentração;
+- equilíbrio dinâmico;
+- constantes de equilíbrio;
+- quociente de reação;
+- estequiometria;
+- manipulação de potências e logaritmos.
+
+Esses conhecimentos deverão ser retomados de forma breve quando forem necessários, sem repetir integralmente as unidades anteriores.
+
+#### 8.3.5 Teorias ácido-base
+
+A abordagem atual inclui teorias ácido-base, mas o sumário não define a profundidade esperada.
+
+A nova estrutura deverá distinguir claramente:
+
+- teoria de Arrhenius;
+- teoria de Brønsted–Lowry;
+- pares ácido-base conjugados;
+- espécies anfipróticas;
+- teoria de Lewis;
+- limites e campos de aplicação de cada teoria.
+
+Arrhenius poderá funcionar como introdução histórica e operacional. Brønsted–Lowry deverá constituir a base principal para os equilíbrios em solução aquosa. Lewis deverá ser articulada com a unidade de complexação.
+
+As teorias não deverão ser apresentadas apenas como definições para memorização. Cada uma deverá ser relacionada aos fenômenos que consegue explicar.
+
+#### 8.3.6 Autoionização da água
+
+A autoionização da água deverá ser apresentada como um equilíbrio químico:
+
+\[
+2H_2O \rightleftharpoons H_3O^+ + OH^-
+\]
+
+O material deverá diferenciar:
+
+- constante termodinâmica do equilíbrio;
+- produto iônico da água;
+- uso de concentrações em cálculos introdutórios;
+- influência da temperatura sobre \(K_w\);
+- neutralidade química;
+- condição em que \([H_3O^+] = [OH^-]\).
+
+Deverá ser evitada a generalização de que uma solução neutra sempre possui pH 7. Esse valor corresponde à neutralidade em condições específicas, especialmente nas aproximações usuais a 25 °C.
+
+#### 8.3.7 pH, pOH e atividade
+
+O pH deverá ser definido rigorosamente em função da atividade do íon hidrogênio:
+
+\[
+pH=-\log a_{H^+}
+\]
+
+Nos exercícios introdutórios, poderá ser utilizada a aproximação baseada na concentração, desde que o material explicite sua natureza e seus limites.
+
+A unidade deverá relacionar pH, atividade e força iônica, retomando os fundamentos apresentados anteriormente. Essa conexão será especialmente importante em:
+
+- soluções concentradas;
+- meios com elevada força iônica;
+- sistemas farmacêuticos;
+- tampões;
+- métodos de medição potenciométrica.
+
+Também deverá ser discutida a diferença entre calcular o pH e medi-lo experimentalmente.
+
+#### 8.3.8 Ácidos e bases fortes
+
+Embora o sumário destaque ácidos e bases fracos, a nova unidade deverá estabelecer antes um tratamento sistemático dos eletrólitos fortes.
+
+Deverão ser desenvolvidos exemplos envolvendo:
+
+- ácidos fortes monopróticos;
+- bases fortes;
+- excesso de reagente após neutralização;
+- misturas de ácido forte e base forte;
+- diluições;
+- situações muito diluídas, nas quais a autoionização da água pode deixar de ser desprezível.
+
+O estudante deverá aprender a verificar se as aproximações usuais são coerentes com as condições do problema.
+
+#### 8.3.9 Ácidos e bases fracos
+
+O tratamento de ácidos e bases fracos deverá incluir:
+
+- definição de \(K_a\) e \(K_b\);
+- significado de \(pK_a\) e \(pK_b\);
+- relação entre força e constante de ionização;
+- pares conjugados;
+- relação entre \(K_a\), \(K_b\) e \(K_w\);
+- cálculo da composição no equilíbrio;
+- avaliação das aproximações matemáticas;
+- resolução por equação de segundo grau quando necessária.
+
+O material deverá evitar que o estudante aplique automaticamente expressões aproximadas sem verificar sua validade.
+
+#### 8.3.10 Lei da diluição de Ostwald
+
+A Lei da diluição de Ostwald pode ser preservada por seu valor histórico e didático na compreensão dos eletrólitos fracos.
+
+Entretanto, deverão ser apresentados seus limites:
+
+- aplicação a eletrólitos fracos;
+- dependência das aproximações empregadas;
+- inadequação para eletrólitos fortes;
+- influência das atividades em soluções não ideais.
+
+O grau de ionização deverá ser interpretado como consequência do equilíbrio e da concentração, não como uma propriedade absolutamente fixa da substância.
+
+#### 8.3.11 Balanços de massa, carga e prótons
+
+A unidade atual não explicita o uso de balanços para a resolução dos equilíbrios ácido-base.
+
+O novo material deverá introduzir progressivamente:
+
+- balanço de massa;
+- balanço de cargas;
+- condição de eletroneutralidade;
+- balanço de prótons, quando pedagogicamente conveniente.
+
+Essas ferramentas permitirão ao estudante compreender de onde surgem as equações utilizadas, reduzindo a dependência de fórmulas memorizadas.
+
+Nos casos mais simples, poderá ser utilizada uma abordagem tabular. Nos sistemas mais complexos, os balanços deverão mostrar a estrutura geral do problema, mesmo quando a resolução numérica for feita com auxílio tecnológico.
+
+#### 8.3.12 Hidrólise salina
+
+A hidrólise deverá ser reorganizada a partir da origem dos íons que compõem o sal.
+
+Deverão ser examinados:
+
+- sal de ácido forte e base forte;
+- sal de ácido fraco e base forte;
+- sal de ácido forte e base fraca;
+- sal de ácido fraco e base fraca;
+- sais contendo espécies anfipróticas;
+- relação entre hidrólise, \(K_a\), \(K_b\) e \(K_w\).
+
+O estudante deverá compreender que o comportamento do sal resulta dos equilíbrios de seus íons com a água.
+
+A expressão “sal neutro” deverá ser utilizada com cuidado, diferenciando composição formal e comportamento ácido-base da solução.
+
+#### 8.3.13 Sistemas polipróticos e espécies anfipróticas
+
+A ausência explícita dos sistemas polipróticos constitui uma lacuna importante.
+
+A nova unidade deverá incluir:
+
+- ácidos dipróticos e polipróticos;
+- bases com múltiplos sítios;
+- ionizações sucessivas;
+- comparação entre constantes sucessivas;
+- espécies intermediárias;
+- comportamento anfiprótico;
+- aproximações aplicáveis;
+- exemplos biologicamente e farmacêuticamente relevantes.
+
+Poderão ser utilizados como exemplos:
+
+- ácido carbônico e bicarbonato;
+- ácido fosfórico e fosfatos;
+- aminoácidos;
+- citratos;
+- espécies relacionadas a princípios ativos ionizáveis.
+
+#### 8.3.14 Distribuição das espécies
+
+O conteúdo deverá incluir frações de distribuição e diagramas de predominância.
+
+O estudante deverá compreender como o pH determina a proporção entre:
+
+- ácido e base conjugada;
+- diferentes estados de protonação;
+- forma ionizada e não ionizada de um fármaco;
+- espécies disponíveis para precipitação ou complexação.
+
+Os diagramas deverão ser interpretados qualitativamente antes da introdução das expressões matemáticas.
+
+Essa abordagem estabelecerá uma ponte direta com:
+
+- solubilidade dependente do pH;
+- complexação;
+- extração;
+- absorção de fármacos;
+- escolha do meio reacional;
+- seletividade analítica.
+
+#### 8.3.15 Soluções tampão
+
+O tratamento das soluções tampão deverá ultrapassar a aplicação automática da equação de Henderson–Hasselbalch.
+
+A unidade deverá desenvolver:
+
+- composição de um tampão;
+- mecanismo de resistência à variação do pH;
+- faixa útil de tamponamento;
+- escolha do par conjugado;
+- relação entre \(pH\) e \(pK_a\);
+- preparação direta;
+- preparação por neutralização parcial;
+- efeito de pequenas adições de ácido ou base;
+- efeito da diluição;
+- capacidade tamponante;
+- limites do modelo ideal.
+
+A equação de Henderson–Hasselbalch deverá ser deduzida a partir da expressão de equilíbrio e acompanhada das condições necessárias para sua aplicação.
+
+#### 8.3.16 Capacidade tamponante
+
+A capacidade tamponante não aparece explicitamente no sumário atual e deverá ser incorporada.
+
+O estudante deverá distinguir:
+
+- valor do pH;
+- faixa de tamponamento;
+- capacidade de resistir à adição de ácido ou base.
+
+Dois tampões podem possuir o mesmo pH e capacidades tamponantes diferentes. Essa distinção é essencial na formulação e no controle de sistemas farmacêuticos.
+
+A abordagem matemática poderá ser compatível com o nível da disciplina, priorizando interpretação química e comparação entre sistemas.
+
+#### 8.3.17 Titulações ácido-base
+
+A titulação ácido-base deverá ser mantida, mas sua função curricular precisará ser delimitada para evitar repetição excessiva com disciplinas de Química Analítica Quantitativa.
+
+Nesta disciplina, a titulação poderá ser empregada para integrar:
+
+- estequiometria;
+- equilíbrio;
+- variação do pH;
+- regiões da curva;
+- ponto de equivalência;
+- escolha de indicadores;
+- comportamento de ácidos e bases fracos;
+- determinação experimental de \(pK_a\);
+- métodos farmacopeicos selecionados.
+
+Deverão ser analisadas curvas de:
+
+- ácido forte com base forte;
+- ácido fraco com base forte;
+- base fraca com ácido forte;
+- sistemas polipróticos, quando compatível com a carga horária.
+
+O foco deverá estar na interpretação físico-química da curva, e não apenas na execução do cálculo volumétrico.
+
+#### 8.3.18 Indicadores ácido-base
+
+Os indicadores deverão ser apresentados como sistemas ácido-base fracos cujas formas conjugadas possuem propriedades ópticas diferentes.
+
+O conteúdo deverá incluir:
+
+- equilíbrio do indicador;
+- faixa de transição;
+- relação entre faixa de viragem e \(pK_a\);
+- escolha do indicador;
+- diferença entre ponto final e ponto de equivalência;
+- erro de indicador;
+- interferência da cor e turbidez da amostra;
+- limitações da observação visual.
+
+Essa abordagem permitirá integrar equilíbrio químico, percepção experimental e qualidade do resultado analítico.
+
+#### 8.3.19 Ionização de fármacos
+
+A ionização de fármacos deverá constituir uma conexão farmacêutica central da unidade.
+
+O estudante deverá relacionar \(pH\), \(pK_a\) e estado de ionização com:
+
+- solubilidade aquosa;
+- dissolução;
+- partição entre fases;
+- permeabilidade por membranas;
+- absorção;
+- distribuição;
+- escolha da forma salina;
+- compatibilidade da formulação;
+- métodos de separação e identificação.
+
+Deverá ser evitada uma interpretação excessivamente simplificada segundo a qual somente a forma não ionizada participa dos processos biológicos. O material deverá reconhecer que absorção e distribuição dependem de múltiplos fatores físico-químicos e biológicos.
+
+#### 8.3.20 pH, solubilidade e estabilidade farmacêutica
+
+A unidade deverá explicitar que o pH pode afetar simultaneamente a solubilidade e a estabilidade de um fármaco.
+
+A modificação do pH poderá:
+
+- aumentar a ionização e a solubilidade aparente;
+- favorecer ou impedir precipitação;
+- alterar a velocidade de hidrólise;
+- modificar processos oxidativos;
+- afetar excipientes;
+- alterar conforto e compatibilidade com a via de administração.
+
+Essa relação deverá ser apresentada como problema de otimização. O pH de uma formulação não é escolhido a partir de um único critério.
+
+#### 8.3.21 Aplicações à análise qualitativa
+
+A relação com a Química Analítica Qualitativa deverá ser ampliada.
+
+O controle ácido-base participa de:
+
+- precipitação seletiva de cátions;
+- dissolução de precipitados;
+- geração controlada de reagentes;
+- protonação de ligantes;
+- mascaramento e desmascaramento;
+- formação de complexos;
+- reações de oxirredução dependentes do pH;
+- identificação de ânions;
+- controle de interferentes;
+- confirmação de espécies químicas.
+
+Cada aplicação posterior deverá retomar os fundamentos desta unidade, evitando que o ajuste de pH seja apresentado como uma etapa meramente operacional.
+
+#### 8.3.22 Atividades práticas atuais
+
+As três práticas sugeridas são adequadas:
+
+- preparo e verificação de solução tampão;
+- construção de curva de titulação;
+- determinação experimental de \(pK_a\).
+
+Entretanto, elas deverão ser transformadas em roteiros completos, contendo:
+
+- objetivos;
+- fundamentos;
+- resultados de aprendizagem;
+- reagentes e materiais;
+- avaliação de riscos;
+- procedimento em microescala;
+- registro de dados;
+- cálculos;
+- tratamento gráfico;
+- descarte;
+- questões para discussão;
+- relação farmacêutica.
+
+Também deverá ser definida a diferença entre verificar o desempenho de um tampão e apenas medir seu pH inicial.
+
+#### 8.3.23 Possibilidades de práticas integradas
+
+Além das atividades atuais, poderão ser avaliadas práticas como:
+
+- comparação da capacidade de diferentes tampões;
+- efeito da diluição sobre pH e capacidade tamponante;
+- determinação do \(pK_a\) de um indicador;
+- construção potenciométrica de curva de titulação;
+- estudo da solubilidade de um ácido ou base fraca em diferentes valores de pH;
+- análise do efeito do pH sobre uma reação de identificação;
+- comparação entre medição com indicador e pHmetro;
+- estudo de formulações ou produtos farmacêuticos simulados.
+
+A seleção final deverá respeitar a carga horária, a disponibilidade de equipamentos e a segurança.
+
+#### 8.3.24 Medição do pH e qualidade experimental
+
+A unidade atual menciona pH, mas não explicita os fundamentos da medição.
+
+O novo sumário deverá prever:
+
+- princípio geral da medida potenciométrica;
+- calibração do pHmetro;
+- escolha e conservação dos eletrodos;
+- soluções de calibração;
+- influência da temperatura;
+- lavagem e condicionamento;
+- tempo de estabilização;
+- fontes de erro;
+- algarismos significativos e registro do resultado.
+
+Não será necessário antecipar toda a Eletroquímica instrumental, mas o estudante deverá compreender que o pHmetro não fornece uma leitura absoluta e independente das condições experimentais.
+
+#### 8.3.25 Segurança e responsabilidade ambiental
+
+As práticas ácido-base apresentam riscos geralmente controláveis, mas exigem planejamento.
+
+Deverão ser considerados:
+
+- corrosividade de ácidos e bases concentrados;
+- preparo seguro de soluções;
+- risco de aquecimento durante diluições;
+- incompatibilidades químicas;
+- uso de indicadores em solventes inflamáveis;
+- riscos relacionados aos padrões e amostras;
+- geração de resíduos;
+- neutralização somente quando prevista em protocolo institucional.
+
+As práticas deverão priorizar:
+
+- soluções diluídas;
+- microescala;
+- volumes reduzidos;
+- indicadores de menor risco;
+- substituição de reagentes perigosos;
+- segregação adequada dos resíduos.
+
+A orientação “adicionar ácido à água” deverá ser explicada no contexto do procedimento e acompanhada das medidas de proteção correspondentes.
+
+#### 8.3.26 Carga horária
+
+A carga atual de 9 h/a teóricas e 5 h/a práticas demonstra o reconhecimento da importância da unidade.
+
+Entretanto, o conteúdo necessário é extenso. A carga teórica deverá contemplar pelo menos:
+
+- fundamentos e teorias;
+- cálculos de pH;
+- ácidos e bases fracos;
+- hidrólise;
+- sistemas polipróticos;
+- distribuição de espécies;
+- tampões;
+- titulações e indicadores;
+- aplicações analíticas e farmacêuticas.
+
+As 5 h/a práticas podem ser insuficientes para três experiências completas, principalmente quando se incluem calibração, coleta de dados, construção de gráficos e discussão.
+
+A decisão final dependerá da redistribuição global das 60 h/a teóricas e 40 h/a práticas.
+
+#### 8.3.27 Repetições e conexões
+
+A unidade apresenta possíveis sobreposições com:
+
+- equilíbrio químico geral;
+- atividade e força iônica;
+- solubilidade;
+- complexação;
+- eletroquímica;
+- análise qualitativa sistemática;
+- conteúdos de Química Analítica Quantitativa.
+
+A reorganização deverá preservar as conexões sem repetir exposições completas.
+
+A Unidade 2 deverá fornecer a linguagem geral do equilíbrio. A Unidade 3 deverá aplicar essa linguagem aos sistemas ácido-base. As unidades posteriores deverão utilizar o pH como variável de controle, retomando apenas o necessário.
+
+#### 8.3.28 Lacunas principais
+
+As principais lacunas identificadas são:
+
+- ausência explícita de balanço de massa e de cargas;
+- ausência de sistemas polipróticos;
+- ausência de espécies anfipróticas;
+- ausência de diagramas de distribuição;
+- tratamento não explicitado da capacidade tamponante;
+- ausência dos limites da equação de Henderson–Hasselbalch;
+- relação insuficiente entre atividade e pH;
+- medição potenciométrica não indicada;
+- relação entre pH, solubilidade e estabilidade pouco desenvolvida;
+- práticas ainda apresentadas apenas como sugestões;
+- ausência de critérios explícitos de segurança e descarte.
+
+#### 8.3.29 Recomendação preliminar
+
+A unidade deverá ser preservada como um dos eixos centrais do Livro Mestre.
+
+Recomenda-se:
+
+- manter sua posição depois do equilíbrio químico geral;
+- aprofundar os cálculos de equilíbrio ácido-base;
+- incluir balanços de massa e cargas;
+- incorporar sistemas polipróticos e espécies anfipróticas;
+- desenvolver diagramas de distribuição;
+- ampliar o tratamento de tampões e capacidade tamponante;
+- delimitar o papel das titulações;
+- fortalecer as aplicações farmacêuticas;
+- integrar pH, solubilidade, estabilidade e análise qualitativa;
+- transformar as práticas em atividades completas e seguras.
+
+Não se recomenda dividir imediatamente o conteúdo em duas unidades. A necessidade de desmembramento deverá ser reavaliada após a análise global da carga horária e das demais unidades.
+
+#### 8.3.30 Conclusão diagnóstica
+
+| Critério | Diagnóstico |
+|---|---|
+| Relevância | Essencial |
+| Integração curricular | Muito alta |
+| Teorias ácido-base | Adequadas, mas precisam de delimitação |
+| pH e pOH | Necessitam maior rigor conceitual |
+| Atividade | Precisa ser articulada ao pH |
+| Ácidos e bases fracos | Devem receber desenvolvimento matemático sistemático |
+| Hidrólise | Adequada, com necessidade de ampliação |
+| Sistemas polipróticos | Ausentes |
+| Distribuição de espécies | Ausente |
+| Tampões | Relevantes, mas precisam incluir capacidade e limitações |
+| Titulações | Devem ser preservadas com foco físico-químico |
+| Indicadores | Necessitam integração com equilíbrio e erro experimental |
+| Aplicação analítica | Muito importante e deve ser ampliada |
+| Aplicação farmacêutica | Central para a unidade |
+| Medição de pH | Precisa ser incorporada |
+| Práticas | Pertinentes, mas ainda incompletas |
+| Segurança | Riscos controláveis com microescala e planejamento |
+| Carga horária | Expressiva, porém potencialmente insuficiente |
+| Recomendação | Preservar, aprofundar e integrar |
