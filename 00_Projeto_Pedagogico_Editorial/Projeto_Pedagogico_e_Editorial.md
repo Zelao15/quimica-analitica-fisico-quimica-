@@ -307,3 +307,402 @@ Ao final da disciplina, o estudante deverá ser capaz de:
 - trabalhar de forma colaborativa;
 - respeitar normas de segurança e proteção ambiental;
 - compreender as consequências acadêmicas, profissionais e sociais de resultados analíticos incorretos.
+
+## 11. Concepção curricular integrada
+
+A disciplina será desenvolvida segundo uma concepção curricular integrada, na qual a Físico-Química fornece os princípios necessários para compreender os fenômenos utilizados pela Química Analítica Qualitativa.
+
+Essa integração não será realizada apenas pela aproximação de conteúdos pertencentes às duas áreas. Ela deverá ocorrer pela construção explícita de relações conceituais, experimentais e farmacêuticas.
+
+A pergunta orientadora será:
+
+> **Qual princípio físico-químico explica este fenômeno e como ele pode ser utilizado em uma análise química ou em uma situação farmacêutica?**
+
+A organização curricular buscará superar duas formas tradicionais de fragmentação:
+
+- a apresentação da Físico-Química como um conjunto de equações desvinculadas de situações concretas;
+- o ensino da análise qualitativa como uma sequência de reagentes e procedimentos que precisam ser memorizados.
+
+O estudante deverá compreender que uma separação analítica não ocorre simplesmente porque determinado reagente foi adicionado. Ela ocorre porque foram criadas condições de concentração, pH, atividade, temperatura e potencial químico que favorecem um processo específico.
+
+Da mesma forma, precipitação, dissolução, complexação, mudança de cor, liberação de gás e transferência de elétrons não serão tratados como fenômenos isolados. Cada observação experimental deverá ser interpretada com base nos equilíbrios e nas transformações que a produziram.
+
+A integração curricular será orientada por cinco eixos:
+
+1. **Matéria, energia e transformação.**
+   Compreensão das propriedades da matéria, das transferências de energia e das condições que determinam a ocorrência dos processos químicos.
+
+2. **Soluções e comportamento das espécies químicas.**
+   Estudo da concentração, atividade, força iônica, ionização, propriedades coligativas e interações entre soluto e solvente.
+
+3. **Equilíbrios e seletividade analítica.**
+   Aplicação dos equilíbrios ácido-base, de solubilidade, complexação e oxirredução à separação e identificação de espécies.
+
+4. **Velocidade, estabilidade e desempenho.**
+   Relação entre cinética química, degradação, conservação, prazo de validade e desempenho de medicamentos.
+
+5. **Integração experimental e farmacêutica.**
+   Mobilização dos fundamentos anteriores na análise qualitativa, no controle de qualidade e na interpretação de sistemas farmacêuticos.
+
+Esses eixos serão retomados em diferentes níveis de profundidade ao longo do material. A aprendizagem terá caráter cumulativo: conceitos introduzidos nas unidades iniciais serão utilizados como ferramentas nas unidades posteriores.
+
+## 12. Organização e progressão dos conteúdos
+
+Os conteúdos serão organizados segundo uma progressão que parte dos fundamentos da matéria e das soluções, avança para a compreensão dos equilíbrios e das transformações químicas e culmina na análise sistemática de amostras.
+
+Essa progressão será simultaneamente conceitual, matemática e experimental.
+
+### 12.1 Fundamentos da matéria e das soluções
+
+O primeiro núcleo estabelecerá o vocabulário necessário para toda a disciplina:
+
+- estados físicos da matéria;
+- comportamento dos gases;
+- natureza das soluções;
+- unidades de concentração;
+- eletrólitos;
+- atividade;
+- coeficiente de atividade;
+- força iônica;
+- propriedades coligativas;
+- osmose;
+- osmolaridade;
+- isotonicidade.
+
+Esses conteúdos fornecerão a base quantitativa para os cálculos e a base conceitual para compreender o comportamento das espécies em solução.
+
+### 12.2 Equilíbrios químicos em solução
+
+O segundo núcleo desenvolverá o conceito de equilíbrio químico e suas principais aplicações:
+
+- reversibilidade;
+- equilíbrio dinâmico;
+- constante de equilíbrio;
+- quociente de reação;
+- princípio de Le Chatelier;
+- equilíbrios ácido-base;
+- soluções tampão;
+- equilíbrio de solubilidade;
+- precipitação seletiva;
+- formação de complexos;
+- mascaramento de interferentes.
+
+Nesse núcleo, o estudante passará da descrição dos fenômenos para a previsão de seu comportamento.
+
+### 12.3 Energia, espontaneidade e velocidade
+
+O terceiro núcleo abordará as condições energéticas e cinéticas das transformações:
+
+- primeira e segunda leis da Termodinâmica;
+- entalpia;
+- entropia;
+- energia livre de Gibbs;
+- espontaneidade;
+- relação entre energia livre e equilíbrio;
+- velocidade de reação;
+- leis de velocidade;
+- ordem de reação;
+- energia de ativação;
+- equação de Arrhenius;
+- meia-vida;
+- cinética de degradação.
+
+A distinção entre possibilidade termodinâmica e velocidade de ocorrência será constantemente reforçada.
+
+### 12.4 Oxirredução e eletroquímica
+
+O quarto núcleo aplicará os princípios de transferência de elétrons aos sistemas químicos:
+
+- número de oxidação;
+- balanceamento de reações redox;
+- agentes oxidantes e redutores;
+- potenciais de redução;
+- espontaneidade de reações redox;
+- pilhas e células eletroquímicas;
+- equação de Nernst;
+- aplicações analíticas;
+- processos oxidativos relacionados à estabilidade de medicamentos.
+
+### 12.5 Interfaces e sistemas dispersos
+
+O quinto núcleo apresentará os fundamentos necessários para compreender:
+
+- tensão superficial;
+- tensão interfacial;
+- molhabilidade;
+- tensoativos;
+- concentração micelar crítica;
+- coloides;
+- suspensões;
+- emulsões;
+- estabilidade de sistemas dispersos.
+
+Esses conteúdos serão relacionados à formulação e ao desempenho de sistemas farmacêuticos.
+
+### 12.6 Integração analítica
+
+O núcleo final mobilizará os conteúdos anteriores na resolução de problemas de análise qualitativa:
+
+- ensaios preliminares;
+- separação de cátions;
+- identificação de cátions;
+- identificação de ânions;
+- precipitação seletiva;
+- controle de pH;
+- complexação e mascaramento;
+- reações redox de confirmação;
+- interferências;
+- análise de amostra desconhecida;
+- elaboração de relatório técnico.
+
+A análise da amostra desconhecida representará a síntese experimental do percurso formativo.
+
+### 12.7 Progressão do nível de aprendizagem
+
+Em cada núcleo, a aprendizagem avançará por cinco níveis:
+
+1. **Reconhecer:** identificar conceitos, grandezas, espécies e fenômenos.
+2. **Compreender:** explicar por que o fenômeno ocorre.
+3. **Aplicar:** utilizar relações e procedimentos em situações conhecidas.
+4. **Analisar:** interpretar dados, interferências, erros e resultados inesperados.
+5. **Integrar:** mobilizar diferentes conceitos para resolver problemas novos.
+
+Essa progressão será considerada na elaboração dos exemplos, exercícios, práticas, estudos de caso e avaliações.
+
+## 13. Metodologia de ensino e aprendizagem
+
+A metodologia será centrada na participação ativa do estudante e na construção progressiva do raciocínio físico-químico e analítico.
+
+A exposição teórica continuará tendo papel importante, especialmente na organização dos conceitos e no desenvolvimento matemático. Entretanto, ela será combinada com problemas, discussões, experimentos, representações visuais e aplicações farmacêuticas.
+
+### 13.1 Sequência didática
+
+Sempre que possível, os conteúdos seguirão a sequência:
+
+> **Situação-problema → observação do fenômeno → explicação conceitual → desenvolvimento matemático → aplicação analítica → conexão farmacêutica → exercício de consolidação**
+
+Essa sequência permitirá que a equação surja como uma ferramenta para compreender e prever o fenômeno, e não como um ponto de partida desprovido de significado químico.
+
+### 13.2 Estratégias de ensino
+
+Poderão ser utilizadas:
+
+- aulas expositivas dialogadas;
+- perguntas orientadoras;
+- resolução comentada de problemas;
+- exemplos resolvidos passo a passo;
+- atividades individuais e colaborativas;
+- análise de gráficos, tabelas e dados experimentais;
+- demonstrações experimentais;
+- aulas práticas investigativas;
+- estudos de caso farmacêuticos;
+- mapas conceituais;
+- simulações e recursos digitais;
+- discussão de erros conceituais frequentes;
+- elaboração de relatórios técnicos;
+- análise de amostras desconhecidas.
+
+### 13.3 Desenvolvimento matemático
+
+O tratamento matemático será progressivo e acompanhado de interpretação química.
+
+Cada equação deverá ser apresentada considerando:
+
+- o fenômeno que ela representa;
+- o significado de cada variável;
+- as unidades envolvidas;
+- as condições de validade;
+- as aproximações utilizadas;
+- o procedimento de cálculo;
+- a interpretação do resultado;
+- a coerência química da resposta.
+
+Os exemplos resolvidos não se limitarão à substituição de valores. Eles deverão explicitar o raciocínio utilizado para selecionar a equação e avaliar o resultado.
+
+### 13.4 Representações dos fenômenos
+
+O material procurará articular três níveis de representação:
+
+- **macroscópico:** aquilo que pode ser observado, como mudança de cor, formação de precipitado, liberação de gás ou variação de temperatura;
+- **microscópico:** partículas, íons, moléculas, interações e transferências de energia ou elétrons;
+- **simbólico:** fórmulas, equações químicas, expressões matemáticas, tabelas e gráficos.
+
+A transição entre esses níveis será explicitada para evitar que o estudante memorize símbolos sem compreender os fenômenos representados.
+
+### 13.5 Avaliação formativa
+
+A aprendizagem será acompanhada durante todo o percurso por meio de:
+
+- questões diagnósticas;
+- perguntas durante as aulas;
+- exercícios de aplicação;
+- atividades pré-laboratoriais;
+- registros no caderno de laboratório;
+- análise de resultados;
+- relatórios;
+- estudos de caso;
+- devolutivas comentadas;
+- autoavaliação;
+- avaliações teóricas e práticas.
+
+O erro será utilizado como indicador de aprendizagem e oportunidade de reconstrução conceitual, desde que não envolva negligência relacionada à segurança ou à integridade científica.
+
+## 14. Articulação entre teoria e prática
+
+A disciplina possui 60 h/a teóricas e 40 h/a práticas. Essa distribuição não será tratada como dois percursos independentes.
+
+As atividades práticas deverão ser planejadas em conexão direta com os conteúdos teóricos desenvolvidos na mesma etapa do curso.
+
+Cada ciclo teórico-prático será organizado em três momentos:
+
+### 14.1 Preparação para a prática
+
+Antes da aula prática, o estudante deverá:
+
+- compreender o objetivo do experimento;
+- reconhecer o princípio físico-químico envolvido;
+- identificar os riscos dos reagentes e procedimentos;
+- conhecer os equipamentos e materiais utilizados;
+- prever resultados possíveis;
+- realizar, quando necessário, cálculos prévios;
+- registrar hipóteses e expectativas.
+
+### 14.2 Execução experimental
+
+Durante a prática, o estudante deverá:
+
+- seguir as normas de segurança;
+- organizar a bancada;
+- executar os procedimentos de forma consciente;
+- observar cuidadosamente os fenômenos;
+- registrar dados e ocorrências no momento em que forem obtidos;
+- comparar o observado com o previsto;
+- comunicar imediatamente situações de risco ou resultados inesperados;
+- segregar corretamente os resíduos.
+
+A prática não deverá ser reduzida ao cumprimento mecânico de uma sequência. O estudante deverá compreender a finalidade de cada etapa e de cada reagente utilizado.
+
+### 14.3 Interpretação pós-prática
+
+Após a atividade, o estudante deverá:
+
+- organizar os dados;
+- realizar os cálculos necessários;
+- interpretar as observações;
+- relacionar os resultados aos princípios estudados;
+- identificar possíveis interferências e fontes de erro;
+- avaliar se as evidências sustentam a conclusão;
+- propor explicações para resultados divergentes;
+- comunicar os resultados em linguagem científica.
+
+### 14.4 Caráter investigativo das práticas
+
+Sempre que possível, as práticas serão organizadas de modo que o estudante precise tomar decisões, comparar hipóteses e interpretar evidências.
+
+Os roteiros poderão apresentar diferentes graus de abertura:
+
+- **prática demonstrativa:** destinada à visualização de um fenômeno;
+- **prática orientada:** procedimento definido com interpretação obrigatória;
+- **prática investigativa:** problema apresentado com decisões experimentais parcialmente abertas;
+- **amostra desconhecida:** planejamento e integração de testes para identificação.
+
+A progressão entre esses formatos permitirá desenvolver autonomia experimental sem comprometer a segurança.
+
+### 14.5 Segurança e sustentabilidade
+
+As práticas serão planejadas segundo os princípios de:
+
+- prevenção de acidentes;
+- uso adequado de equipamentos de proteção;
+- consulta às informações de segurança dos reagentes;
+- redução de escala;
+- substituição de reagentes de maior risco, quando possível;
+- redução da geração de resíduos;
+- segregação por compatibilidade química;
+- armazenamento temporário adequado;
+- descarte conforme normas institucionais;
+- proibição de contato, inalação ou descarte indevido de substâncias.
+
+Nenhuma observação experimental justificará a exposição desnecessária do estudante a agentes tóxicos, corrosivos, carcinogênicos ou ambientalmente persistentes.
+
+## 15. Contextualização farmacêutica
+
+A contextualização farmacêutica será um eixo transversal do Livro Mestre e não apenas uma seção complementar ao final das unidades.
+
+Sempre que houver relação cientificamente pertinente, o conteúdo será conectado a situações envolvendo:
+
+- matérias-primas farmacêuticas;
+- princípios ativos;
+- excipientes;
+- soluções farmacêuticas;
+- preparações parenterais e oftálmicas;
+- suspensões e emulsões;
+- estabilidade de medicamentos;
+- incompatibilidades;
+- processos de degradação;
+- controle de qualidade;
+- conservação de produtos;
+- desempenho de formas farmacêuticas.
+
+### 15.1 Critério para escolha das aplicações
+
+As aplicações farmacêuticas deverão:
+
+- possuir relação direta com o conceito estudado;
+- contribuir para a compreensão do fenômeno;
+- evitar analogias artificiais;
+- apresentar rigor científico;
+- utilizar exemplos compatíveis com a formação do estudante;
+- demonstrar a relevância profissional do conteúdo.
+
+A contextualização não será utilizada apenas para tornar o texto mais atraente. Ela deverá mostrar como o domínio dos fundamentos químicos contribui para decisões relacionadas à qualidade, segurança, eficácia e estabilidade dos medicamentos.
+
+### 15.2 Pergunta orientadora
+
+Ao longo do Livro Mestre, será retomada a pergunta:
+
+> **Qual é a importância deste conteúdo para a formação e a atuação do farmacêutico?**
+
+A resposta poderá envolver diferentes dimensões:
+
+- preparo de soluções;
+- seleção de condições de pH;
+- prevenção de precipitações;
+- compatibilidade entre componentes;
+- estabilidade química;
+- controle de processos oxidativos;
+- interpretação de velocidade de degradação;
+- escolha de sistemas dispersos;
+- identificação de substâncias;
+- avaliação da qualidade de matérias-primas e produtos.
+
+### 15.3 Estudos de caso farmacêuticos
+
+Os estudos de caso poderão abordar situações como:
+
+- precipitação causada por incompatibilidade;
+- escolha de tampão para uma formulação;
+- cálculo de isotonicidade;
+- degradação dependente de pH;
+- oxidação de princípio ativo;
+- influência da temperatura no prazo de validade;
+- complexação entre fármaco e íons metálicos;
+- instabilidade de suspensão ou emulsão;
+- identificação de contaminante inorgânico;
+- investigação de uma matéria-prima desconhecida.
+
+Esses casos deverão exigir integração conceitual, interpretação de dados e tomada de decisão fundamentada.
+
+### 15.4 Referências farmacêuticas
+
+As aplicações serão sustentadas por fontes confiáveis, incluindo:
+
+- livros-texto reconhecidos;
+- artigos científicos;
+- farmacopeias;
+- compêndios oficiais;
+- documentos técnicos;
+- guias de estabilidade;
+- normas e regulamentações aplicáveis.
+
+Sempre que uma exigência normativa for mencionada, deverão ser identificados o documento, a edição ou versão e o contexto de aplicação.
