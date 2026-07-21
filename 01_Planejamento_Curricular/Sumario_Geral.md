@@ -9850,3 +9850,752 @@ Valores numéricos utilizados em ajustes farmacêuticos deverão possuir fonte i
 #### 12.3.16 Status
 
 **SUMÁRIO DETALHADO DA UNIDADE 3 — APROVADO**
+### 12.4 Unidade 4 — Termodinâmica química
+
+**Carga horária:** 6 h/a teóricas e 3 h/a práticas.
+
+#### 12.4.1 Grande ideia
+
+As transformações químicas e físicas envolvem transferências e redistribuições de energia.
+
+A Termodinâmica permite comparar estados, calcular variações de propriedades e avaliar a direção termodinamicamente favorecida de um processo, mas não determina a velocidade com que ele ocorrerá.
+
+#### 12.4.2 Função curricular
+
+A Unidade 4 deverá fornecer os fundamentos para compreender:
+
+- conservação da energia;
+- calor;
+- trabalho;
+- energia interna;
+- entalpia;
+- entropia;
+- energia livre de Gibbs;
+- espontaneidade;
+- equilíbrio;
+- influência da temperatura;
+- potencial químico;
+- estabilidade de fases;
+- relação entre energia livre e constante de equilíbrio;
+- relação entre energia livre e potencial eletroquímico.
+
+Sua posição antes do equilíbrio químico corrigirá o principal problema de sequência identificado no currículo original.
+
+#### 12.4.3 Objetivos de aprendizagem
+
+Ao final da unidade, o estudante deverá ser capaz de:
+
+1. definir sistema, vizinhança e fronteira;
+2. distinguir sistemas abertos, fechados e isolados;
+3. diferenciar propriedades intensivas e extensivas;
+4. distinguir funções de estado de grandezas dependentes do caminho;
+5. aplicar a Primeira Lei da Termodinâmica;
+6. utilizar consistentemente a convenção de sinais;
+7. diferenciar calor, temperatura, trabalho e energia interna;
+8. calcular trabalho de expansão em situações simples;
+9. interpretar entalpia e variações de entalpia;
+10. aplicar a Lei de Hess;
+11. utilizar entalpias padrão de formação;
+12. interpretar resultados calorimétricos;
+13. explicar a Segunda Lei em termos de entropia e irreversibilidade;
+14. evitar a redução de entropia ao termo “desordem”;
+15. calcular variações padrão de entropia;
+16. interpretar a energia livre de Gibbs;
+17. relacionar \(\Delta G\), espontaneidade e equilíbrio;
+18. diferenciar \(\Delta G\) de \(\Delta G^\circ\);
+19. relacionar energia livre, quociente de reação e constante de equilíbrio;
+20. interpretar a influência da temperatura sobre a espontaneidade e o equilíbrio;
+21. distinguir possibilidade termodinâmica de velocidade;
+22. reconhecer aplicações analíticas e farmacêuticas.
+
+#### 12.4.4 Pré-requisitos
+
+A unidade pressupõe conhecimentos sobre:
+
+- estados físicos;
+- gases;
+- líquidos;
+- mudanças de fase;
+- temperatura absoluta;
+- pressão;
+- volume;
+- quantidade de matéria;
+- soluções;
+- concentração;
+- atividade;
+- propriedades coligativas;
+- funções matemáticas;
+- logaritmos;
+- interpretação de gráficos;
+- estequiometria.
+
+#### 12.4.5 Conteúdos conceituais
+
+##### 12.4.5.1 Sistema, vizinhança e fronteira
+
+- definição do sistema;
+- vizinhança;
+- fronteira;
+- sistema aberto;
+- sistema fechado;
+- sistema isolado;
+- troca de matéria;
+- troca de energia;
+- descrição do estado;
+- processo termodinâmico.
+
+##### 12.4.5.2 Estado e equilíbrio termodinâmico
+
+- variáveis de estado;
+- estado inicial;
+- estado final;
+- processo;
+- equilíbrio térmico;
+- equilíbrio mecânico;
+- equilíbrio químico em nível introdutório;
+- estado de equilíbrio;
+- perturbação do sistema.
+
+##### 12.4.5.3 Propriedades intensivas e extensivas
+
+- temperatura;
+- pressão;
+- densidade;
+- volume;
+- massa;
+- quantidade de matéria;
+- energia interna;
+- entalpia;
+- entropia;
+- energia livre;
+- propriedades molares.
+
+##### 12.4.5.4 Funções de estado e funções de caminho
+
+Deverão ser diferenciadas:
+
+- energia interna;
+- entalpia;
+- entropia;
+- energia livre;
+- calor;
+- trabalho.
+
+O estudante deverá compreender que a variação de uma função de estado depende apenas dos estados inicial e final, enquanto calor e trabalho dependem do processo.
+
+##### 12.4.5.5 Energia interna
+
+A energia interna deverá ser apresentada como função de estado associada às contribuições microscópicas do sistema.
+
+Deverão ser considerados:
+
+- movimento molecular;
+- interações;
+- composição;
+- temperatura;
+- estado físico;
+- impossibilidade de medir diretamente o valor absoluto em situações usuais;
+- importância das variações de energia interna.
+
+##### 12.4.5.6 Calor e temperatura
+
+Deverão ser diferenciados:
+
+- temperatura como propriedade do estado;
+- calor como energia em trânsito devido a diferença de temperatura;
+- equilíbrio térmico;
+- processo exotérmico;
+- processo endotérmico;
+- capacidade térmica;
+- calor específico;
+- dependência das propriedades com as condições.
+
+O material deverá evitar expressões como “o sistema possui calor”.
+
+##### 12.4.5.7 Trabalho
+
+O trabalho deverá ser apresentado como transferência organizada de energia.
+
+O principal exemplo será o trabalho pressão-volume.
+
+Poderão ser mencionados outros tipos de trabalho, como:
+
+- elétrico;
+- superficial;
+- mecânico;
+
+sem desenvolvimento matemático completo nesta etapa.
+
+##### 12.4.5.8 Convenção de sinais
+
+O Livro Mestre adotará explicitamente a convenção:
+
+\[
+\Delta U=q+w
+\]
+
+em que:
+
+- \(q>0\) quando o sistema recebe calor;
+- \(q<0\) quando o sistema libera calor;
+- \(w>0\) quando trabalho é realizado sobre o sistema;
+- \(w<0\) quando o sistema realiza trabalho sobre a vizinhança.
+
+A convenção deverá ser mantida em todas as unidades.
+
+##### 12.4.5.9 Primeira Lei da Termodinâmica
+
+A Primeira Lei deverá ser apresentada como princípio de conservação da energia:
+
+\[
+\Delta U=q+w
+\]
+
+Deverão ser analisados processos envolvendo:
+
+- troca de calor;
+- expansão;
+- compressão;
+- sistemas isolados;
+- volume constante;
+- pressão constante;
+- transformações físicas e químicas.
+
+##### 12.4.5.10 Trabalho de expansão
+
+Para pressão externa constante:
+
+\[
+w=-P_{\text{ext}}\Delta V
+\]
+
+O estudante deverá interpretar:
+
+- expansão;
+- compressão;
+- sinal;
+- unidade;
+- pressão externa;
+- diferença entre processo reversível e irreversível em nível introdutório;
+- conversão entre unidades de pressão-volume e energia.
+
+##### 12.4.5.11 Entalpia
+
+A entalpia deverá ser definida por:
+
+\[
+H=U+PV
+\]
+
+Para processos a pressão constante e apenas trabalho pressão-volume, a variação de entalpia poderá ser relacionada ao calor:
+
+\[
+\Delta H=q_p
+\]
+
+Deverão ser discutidos:
+
+- entalpia de reação;
+- processos endotérmicos;
+- processos exotérmicos;
+- mudanças de fase;
+- dissolução;
+- neutralização;
+- condições da relação.
+
+##### 12.4.5.12 Equações termoquímicas
+
+Uma equação termoquímica deverá indicar:
+
+- espécies;
+- coeficientes;
+- estados físicos;
+- condições;
+- variação de entalpia;
+- direção do processo.
+
+O estudante deverá compreender que inverter ou multiplicar uma reação modifica correspondentemente o valor de \(\Delta H\).
+
+##### 12.4.5.13 Lei de Hess
+
+A Lei de Hess deverá ser apresentada como consequência de a entalpia ser função de estado.
+
+O estudante deverá aprender a:
+
+- inverter equações;
+- multiplicar equações;
+- somar etapas;
+- cancelar espécies;
+- calcular a entalpia global;
+- verificar estados físicos;
+- interpretar o resultado.
+
+##### 12.4.5.14 Entalpias padrão de formação
+
+Deverão ser desenvolvidos:
+
+- estado padrão;
+- entalpia padrão de formação;
+- elementos em estados de referência;
+- uso de valores tabelados;
+- cálculo de entalpia padrão de reação:
+
+\[
+\Delta_rH^\circ=
+\sum\nu\Delta_fH^\circ_{\text{produtos}}
+-
+\sum\nu\Delta_fH^\circ_{\text{reagentes}}
+\]
+
+##### 12.4.5.15 Entalpias de mudança de fase e dissolução
+
+Poderão ser considerados:
+
+- fusão;
+- vaporização;
+- sublimação;
+- dissolução;
+- hidratação;
+- mistura;
+- contribuição das interações intermoleculares;
+- conexão com processos farmacêuticos.
+
+##### 12.4.5.16 Calorimetria
+
+A calorimetria deverá integrar:
+
+- sistema;
+- conservação da energia;
+- capacidade térmica;
+- calor específico;
+- constante do calorímetro;
+- balanço térmico;
+- calibração;
+- perdas de calor;
+- interpretação experimental.
+
+A expressão:
+
+\[
+q=mc\Delta T
+\]
+
+deverá ser apresentada com suas condições e limitações.
+
+##### 12.4.5.17 Limitações da Primeira Lei
+
+A conservação da energia não determina, sozinha, a direção espontânea do processo.
+
+A Primeira Lei permite contabilizar energia, mas não explica por que:
+
+- o calor flui espontaneamente do quente para o frio;
+- gases se expandem;
+- substâncias se misturam;
+- determinadas reações são favorecidas.
+
+Essa limitação introduzirá a Segunda Lei.
+
+##### 12.4.5.18 Segunda Lei da Termodinâmica
+
+A Segunda Lei deverá ser apresentada como fundamento da direção dos processos e da irreversibilidade.
+
+Para um processo espontâneo:
+
+\[
+\Delta S_{\text{universo}}>0
+\]
+
+No equilíbrio:
+
+\[
+\Delta S_{\text{universo}}=0
+\]
+
+A interpretação deverá considerar sistema e vizinhança.
+
+##### 12.4.5.19 Entropia
+
+A entropia deverá ser apresentada como função de estado relacionada à dispersão da energia e ao número de estados microscópicos acessíveis.
+
+Para processo reversível:
+
+\[
+dS=\frac{\delta q_{\text{rev}}}{T}
+\]
+
+Deverão ser analisadas tendências em:
+
+- aquecimento;
+- expansão;
+- mistura;
+- mudança de fase;
+- dissolução;
+- reação química.
+
+##### 12.4.5.20 Entropia e linguagem de “desordem”
+
+O termo “desordem” não deverá constituir a definição principal de entropia.
+
+Quando utilizado como analogia introdutória, deverá ser acompanhado de suas limitações.
+
+A explicação deverá privilegiar:
+
+- dispersão de energia;
+- multiplicidade;
+- distribuição de partículas e energia;
+- número de estados acessíveis.
+
+##### 12.4.5.21 Terceira Lei da Termodinâmica
+
+A Terceira Lei deverá ser apresentada brevemente para fundamentar:
+
+- referência da entropia;
+- cristal perfeito;
+- temperatura de zero kelvin;
+- entropias molares padrão;
+- cálculo de variações de entropia.
+
+Não será necessário aprofundamento estatístico.
+
+##### 12.4.5.22 Entropia padrão de reação
+
+A variação padrão de entropia deverá ser calculada por:
+
+\[
+\Delta_rS^\circ=
+\sum\nu S^\circ_{\text{produtos}}
+-
+\sum\nu S^\circ_{\text{reagentes}}
+\]
+
+O resultado deverá ser interpretado considerando estados físicos, quantidade de partículas e organização do sistema.
+
+##### 12.4.5.23 Energia livre de Gibbs
+
+A energia livre de Gibbs deverá ser definida por:
+
+\[
+G=H-TS
+\]
+
+A temperatura e pressão constantes:
+
+\[
+\Delta G=\Delta H-T\Delta S
+\]
+
+quando a forma utilizada for aplicável.
+
+Deverão ser interpretadas as condições:
+
+- \(\Delta G<0\);
+- \(\Delta G=0\);
+- \(\Delta G>0\).
+
+##### 12.4.5.24 Espontaneidade e temperatura
+
+A unidade deverá analisar as combinações de sinais de \(\Delta H\) e \(\Delta S\):
+
+- favorecimento em todas as temperaturas;
+- não favorecimento em todas as temperaturas;
+- favorecimento em temperaturas altas;
+- favorecimento em temperaturas baixas.
+
+A análise deverá considerar as hipóteses de constância aproximada de \(\Delta H\) e \(\Delta S\).
+
+##### 12.4.5.25 Energia livre padrão e energia livre nas condições reais
+
+Deverão ser diferenciadas:
+
+- \(\Delta_rG^\circ\);
+- \(\Delta_rG\);
+- estado padrão;
+- composição real;
+- direção da mudança;
+- condições do sistema.
+
+A energia livre padrão não determina isoladamente a direção em qualquer composição.
+
+##### 12.4.5.26 Quociente de reação e energia livre
+
+A relação central deverá ser:
+
+\[
+\Delta_rG=\Delta_rG^\circ+RT\ln Q
+\]
+
+Deverão ser discutidos:
+
+- atividades;
+- quociente de reação;
+- composição instantânea;
+- direção termodinamicamente favorecida;
+- aproximações baseadas em concentrações ou pressões.
+
+##### 12.4.5.27 Energia livre e equilíbrio
+
+No equilíbrio:
+
+\[
+\Delta_rG=0
+\]
+
+e:
+
+\[
+Q=K
+\]
+
+resultando em:
+
+\[
+\Delta_rG^\circ=-RT\ln K
+\]
+
+Essa relação deverá preparar diretamente a Unidade 5.
+
+##### 12.4.5.28 Dependência da constante com a temperatura
+
+A relação de van ’t Hoff poderá ser apresentada:
+
+\[
+\frac{d\ln K}{dT}=\frac{\Delta_rH^\circ}{RT^2}
+\]
+
+e em forma integrada sob as aproximações correspondentes.
+
+O objetivo será explicar termodinamicamente a influência da temperatura sobre o equilíbrio.
+
+##### 12.4.5.29 Potencial químico
+
+O potencial químico deverá ser introduzido como contribuição de uma espécie para a energia livre do sistema.
+
+Poderá ser apresentada a relação:
+
+\[
+\mu_i=\mu_i^\circ+RT\ln a_i
+\]
+
+Deverão ser relacionadas:
+
+- atividade;
+- composição;
+- equilíbrio;
+- transferência entre fases;
+- dissolução;
+- osmose;
+- reação química.
+
+O aprofundamento matemático deverá permanecer compatível com a carga horária.
+
+##### 12.4.5.30 Estabilidade termodinâmica de fases
+
+A unidade deverá introduzir a ideia de que, sob condições definidas, a fase termodinamicamente estável possui menor energia livre apropriada.
+
+Poderão ser relacionados:
+
+- mudanças de fase;
+- formas cristalinas;
+- formas metaestáveis;
+- transições;
+- dissolução;
+- armazenamento de substâncias farmacêuticas.
+
+A velocidade de transformação será tratada na Unidade 10.
+
+##### 12.4.5.31 Termodinâmica e velocidade
+
+A unidade deverá reforçar:
+
+- \(\Delta G\) não fornece a velocidade;
+- espontaneidade não significa rapidez;
+- equilíbrio não significa ausência de processos microscópicos;
+- catalisadores não alteram \(\Delta G^\circ\) nem \(K\);
+- barreiras cinéticas podem preservar estados metaestáveis.
+
+#### 12.4.6 Desenvolvimento matemático
+
+A unidade deverá desenvolver cálculos envolvendo:
+
+- calor sensível;
+- capacidade térmica;
+- balanço calorimétrico;
+- Primeira Lei;
+- trabalho pressão-volume;
+- variação de entalpia;
+- Lei de Hess;
+- entalpias padrão de formação;
+- entropias padrão;
+- energia livre;
+- dependência com a temperatura;
+- \(\Delta_rG^\circ\);
+- \(Q\);
+- \(K\);
+- relação entre energia livre e equilíbrio;
+- equação integrada de van ’t Hoff em exemplos selecionados.
+
+Cada cálculo deverá incluir:
+
+- sistema definido;
+- convenção de sinais;
+- unidade;
+- condição de aplicação;
+- interpretação física;
+- plausibilidade;
+- algarismos significativos.
+
+#### 12.4.7 Exemplos resolvidos previstos
+
+A unidade deverá incluir exemplos sobre:
+
+1. classificação de sistemas;
+2. aplicação da Primeira Lei;
+3. trabalho de expansão;
+4. calorimetria;
+5. entalpia de reação;
+6. Lei de Hess;
+7. entalpia padrão de formação;
+8. entropia padrão de reação;
+9. cálculo de energia livre;
+10. influência da temperatura;
+11. comparação entre \(\Delta G\) e \(\Delta G^\circ\);
+12. cálculo de \(\Delta G\) a partir de \(Q\);
+13. cálculo de \(K\) a partir de \(\Delta G^\circ\);
+14. estimativa da mudança de \(K\) com a temperatura;
+15. interpretação de fase estável e metaestável.
+
+#### 12.4.8 Conexão com a análise qualitativa
+
+A Termodinâmica deverá fundamentar:
+
+- direção das reações;
+- extensão dos equilíbrios;
+- precipitação;
+- dissolução;
+- complexação;
+- transferência de elétrons;
+- efeito da temperatura;
+- formação de gases;
+- estabilidade de espécies;
+- limites da previsão termodinâmica.
+
+A unidade deverá mostrar que uma reação favorável pode não produzir resposta analítica no tempo disponível.
+
+#### 12.4.9 Conexão farmacêutica
+
+Poderão ser desenvolvidas aplicações relacionadas a:
+
+- dissolução;
+- hidratação;
+- mudanças de fase;
+- formas cristalinas e amorfas;
+- estabilidade termodinâmica;
+- estados metaestáveis;
+- armazenamento;
+- mistura;
+- liofilização em nível conceitual;
+- solubilidade;
+- interação entre componentes;
+- influência da temperatura.
+
+A estabilidade termodinâmica deverá ser diferenciada da estabilidade cinética e do prazo de validade.
+
+#### 12.4.10 Atividades práticas correspondentes
+
+##### 12.4.10.1 Prática A — Calorimetria
+
+A atividade poderá envolver:
+
+- calibração ou avaliação do calorímetro;
+- neutralização;
+- dissolução;
+- registro da temperatura;
+- balanço de energia;
+- cálculo de \(\Delta H\);
+- comparação com referência;
+- análise de perdas.
+
+##### 12.4.10.2 Prática B — Energia livre e equilíbrio por análise de dados
+
+A atividade poderá utilizar dados experimentais ou simulados para:
+
+- calcular \(\Delta G^\circ\);
+- estimar \(K\);
+- comparar temperaturas;
+- interpretar espontaneidade;
+- distinguir previsão termodinâmica e observação cinética.
+
+As atividades deverão ser organizadas nas 3 h/a práticas disponíveis.
+
+#### 12.4.11 Estudo de caso previsto
+
+**Forma farmacêutica metaestável com desempenho inicial favorável**
+
+O estudante deverá analisar:
+
+- forma sólida;
+- diferença de energia livre;
+- solubilidade aparente;
+- possibilidade de transformação;
+- influência da temperatura;
+- estabilidade termodinâmica;
+- barreira cinética;
+- consequências para armazenamento e desempenho.
+
+#### 12.4.12 Integração com as unidades posteriores
+
+A Unidade 4 fornecerá fundamentos para:
+
+- Unidade 5 — \(Q\), \(K\) e energia livre;
+- Unidade 6 — equilíbrio ácido-base;
+- Unidade 7 — dissolução e precipitação;
+- Unidade 8 — estabilidade de complexos;
+- Unidade 9 — potencial eletroquímico e energia livre;
+- Unidade 10 — distinção entre possibilidade e velocidade;
+- Unidade 11 — energia interfacial;
+- Unidade 12 — avaliação da tendência das reações analíticas.
+
+#### 12.4.13 Delimitações
+
+Nesta unidade não serão desenvolvidos integralmente:
+
+- cálculo multivariável avançado;
+- mecânica estatística;
+- equações de estado avançadas;
+- equilíbrio químico específico;
+- Eletroquímica;
+- cinética;
+- diagramas de fases multicomponentes;
+- tecnologia completa de sólidos farmacêuticos;
+- protocolos regulatórios de estabilidade.
+
+#### 12.4.14 Distribuição da carga horária
+
+| Componente | Carga |
+|---|---:|
+| Sistema, energia, calor, trabalho e Primeira Lei | 1,5 h/a teórica |
+| Entalpia, Lei de Hess e calorimetria | 1,5 h/a teórica |
+| Segunda Lei, entropia e energia livre | 1,5 h/a teórica |
+| Energia livre, equilíbrio, temperatura e potencial químico | 1,5 h/a teórica |
+| Práticas integradas | 3 h/a práticas |
+| **Total** | **6 h/a teóricas + 3 h/a práticas** |
+
+A distribuição poderá ser ajustada no calendário, mantendo o total aprovado.
+
+#### 12.4.15 Referências estruturantes
+
+A redação deverá utilizar:
+
+- livros reconhecidos de Termodinâmica e Físico-Química;
+- textos universitários de Química Geral;
+- literatura de Físico-Química farmacêutica;
+- fontes confiáveis de dados termodinâmicos;
+- literatura científica para aplicações farmacêuticas;
+- documentos institucionais de segurança;
+- referências verificadas para valores utilizados nos experimentos.
+
+Todas as convenções e símbolos deverão ser consistentes com as referências adotadas.
+
+#### 12.4.16 Status
+
+**SUMÁRIO DETALHADO DA UNIDADE 4 — RASCUNHO PRESERVADO**
