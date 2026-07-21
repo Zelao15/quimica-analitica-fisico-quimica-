@@ -9230,3 +9230,623 @@ As referências completas serão verificadas durante a redação do Livro Mestre
 #### 12.2.16 Status
 
 **SUMÁRIO DETALHADO DA UNIDADE 2 — APROVADO**
+### 12.3 Unidade 3 — Propriedades coligativas, osmose e isotonicidade
+
+**Carga horária:** 5 h/a teóricas e 3 h/a práticas.
+
+#### 12.3.1 Grande ideia
+
+Em soluções suficientemente diluídas e próximas do comportamento ideal, certas propriedades dependem principalmente do número efetivo de partículas dissolvidas, e não diretamente de sua identidade química.
+
+Esse princípio permite compreender pressão de vapor, temperaturas de mudança de fase, osmose e aspectos físico-químicos essenciais de soluções farmacêuticas.
+
+#### 12.3.2 Função curricular
+
+A Unidade 3 deverá integrar:
+
+- composição das soluções;
+- idealidade e não idealidade;
+- propriedades do solvente;
+- número de partículas;
+- dissociação de eletrólitos;
+- fator de van ’t Hoff;
+- pressão osmótica;
+- osmolaridade;
+- osmolalidade;
+- tonicidade;
+- isotonicidade.
+
+Ela deverá estabelecer uma conexão direta entre fundamentos físico-químicos e preparação, avaliação e uso de soluções farmacêuticas.
+
+#### 12.3.3 Objetivos de aprendizagem
+
+Ao final da unidade, o estudante deverá ser capaz de:
+
+1. definir propriedade coligativa;
+2. explicar por que o número de partículas influencia as propriedades do solvente;
+3. interpretar a Lei de Raoult em soluções ideais;
+4. calcular o abaixamento relativo da pressão de vapor;
+5. explicar a elevação do ponto de ebulição;
+6. explicar o abaixamento do ponto de congelamento;
+7. utilizar constantes ebuliométricas e crioscópicas;
+8. calcular pressão osmótica em sistemas ideais;
+9. interpretar o fator de van ’t Hoff;
+10. relacionar dissociação e associação ao número efetivo de partículas;
+11. distinguir osmose de difusão;
+12. distinguir osmolaridade de osmolalidade;
+13. distinguir iso-osmoticidade de isotonicidade;
+14. explicar a influência da permeabilidade da membrana;
+15. classificar comparativamente soluções como hipotônicas, isotônicas ou hipertônicas em relação a um sistema definido;
+16. realizar cálculos introdutórios de ajuste de isotonicidade;
+17. reconhecer os limites dos modelos ideais;
+18. interpretar aplicações farmacêuticas com rigor e segurança.
+
+#### 12.3.4 Pré-requisitos
+
+A unidade pressupõe conhecimentos sobre:
+
+- estados físicos;
+- pressão de vapor;
+- mudanças de fase;
+- quantidade de matéria;
+- concentração molar;
+- molalidade;
+- fração molar;
+- eletrólitos;
+- dissociação;
+- atividade;
+- força iônica;
+- conversões de unidades;
+- densidade;
+- temperatura absoluta.
+
+Os conteúdos das Unidades 1 e 2 constituem pré-requisitos diretos.
+
+#### 12.3.5 Conteúdos conceituais
+
+##### 12.3.5.1 Natureza das propriedades coligativas
+
+- propriedades do solvente modificadas pelo soluto;
+- dependência do número efetivo de partículas;
+- soluções diluídas;
+- soluto não volátil;
+- solução ideal;
+- limitações das aproximações;
+- eletrólitos e não eletrólitos;
+- associação e dissociação.
+
+##### 12.3.5.2 Potencial químico do solvente em nível conceitual
+
+A adição de soluto modifica a tendência de escape e o potencial químico do solvente.
+
+O conceito deverá ser introduzido qualitativamente para explicar a origem comum das propriedades coligativas.
+
+O tratamento termodinâmico formal será retomado na Unidade 4.
+
+##### 12.3.5.3 Lei de Raoult
+
+Para uma solução ideal contendo soluto não volátil:
+
+\[
+P_1=x_1P_1^\circ
+\]
+
+Deverão ser definidos:
+
+- pressão de vapor da solução;
+- pressão de vapor do solvente puro;
+- fração molar do solvente;
+- condições de aplicação;
+- significado molecular;
+- limitações.
+
+##### 12.3.5.4 Abaixamento da pressão de vapor
+
+A unidade deverá desenvolver:
+
+\[
+\Delta P=P_1^\circ-P_1
+\]
+
+e, para o modelo ideal:
+
+\[
+\frac{\Delta P}{P_1^\circ}=x_2
+\]
+
+quando as condições e aproximações correspondentes forem satisfeitas.
+
+O estudante deverá relacionar o fenômeno à redução da fração molar e da atividade do solvente.
+
+##### 12.3.5.5 Solutos voláteis e desvios da idealidade
+
+A formulação simples da Lei de Raoult não deverá ser aplicada automaticamente a qualquer solução.
+
+Deverão ser reconhecidos:
+
+- solutos voláteis;
+- contribuição de mais de um componente à fase vapor;
+- desvios positivos;
+- desvios negativos;
+- diferenças entre interações intermoleculares;
+- comportamento de misturas reais.
+
+O aprofundamento em equilíbrio líquido–vapor poderá ser limitado pela carga horária.
+
+##### 12.3.5.6 Elevação do ponto de ebulição
+
+O soluto não volátil reduz a pressão de vapor do solvente e pode elevar a temperatura necessária para que a pressão de vapor iguale a pressão externa.
+
+Para soluções diluídas:
+
+\[
+\Delta T_b=iK_bm
+\]
+
+Deverão ser definidos:
+
+- elevação ebuliométrica;
+- constante ebuliométrica;
+- molalidade;
+- fator de van ’t Hoff;
+- condições de aplicação.
+
+##### 12.3.5.7 Abaixamento do ponto de congelamento
+
+A presença do soluto pode reduzir a temperatura de equilíbrio entre as fases líquida e sólida do solvente.
+
+Para soluções diluídas:
+
+\[
+\Delta T_f=iK_fm
+\]
+
+Deverão ser discutidos:
+
+- abaixamento crioscópico;
+- constante crioscópica;
+- molalidade;
+- fator de van ’t Hoff;
+- diagrama de fases em nível qualitativo;
+- aplicações farmacêuticas.
+
+##### 12.3.5.8 Determinação de massa molar
+
+As propriedades coligativas poderão ser utilizadas para estimar massa molar.
+
+O estudante deverá compreender:
+
+- grandeza medida;
+- quantidade de solvente;
+- quantidade de partículas;
+- influência de associação ou dissociação;
+- sensibilidade do método;
+- limitações experimentais;
+- propagação dos erros em nível introdutório.
+
+##### 12.3.5.9 Fator de van ’t Hoff
+
+O fator de van ’t Hoff deverá representar a relação entre o efeito coligativo observado e o esperado para uma solução ideal de partículas não associadas.
+
+Deverão ser considerados:
+
+- não eletrólitos;
+- eletrólitos;
+- dissociação incompleta;
+- associação;
+- interações iônicas;
+- concentração;
+- diferença entre valor estequiométrico ideal e valor experimental.
+
+O fator não deverá ser tratado sempre como número inteiro fixo.
+
+##### 12.3.5.10 Grau de dissociação e número de partículas
+
+Em modelos introdutórios, o fator de van ’t Hoff poderá ser relacionado ao grau de dissociação.
+
+A unidade deverá esclarecer as hipóteses da relação e seus limites.
+
+Em soluções reais, o efeito observado também poderá refletir:
+
+- interações entre íons;
+- formação de pares iônicos;
+- atividade;
+- concentração;
+- natureza do solvente;
+- temperatura.
+
+##### 12.3.5.11 Membranas semipermeáveis
+
+A unidade deverá definir membrana semipermeável como barreira que apresenta permeabilidade diferente para componentes do sistema.
+
+Deverão ser considerados:
+
+- solvente;
+- soluto;
+- tamanho;
+- carga;
+- polaridade;
+- estrutura da membrana;
+- seletividade;
+- diferença entre membrana ideal e membrana real.
+
+##### 12.3.5.12 Osmose
+
+A osmose deverá ser apresentada como movimento líquido do solvente associado a uma diferença de potencial químico através de uma membrana com permeabilidade seletiva.
+
+Deverão ser diferenciados:
+
+- osmose;
+- difusão;
+- fluxo do solvente;
+- fluxo do soluto;
+- equilíbrio osmótico;
+- efeito da pressão aplicada;
+- condições do sistema.
+
+##### 12.3.5.13 Pressão osmótica
+
+A pressão osmótica deverá ser definida como a pressão necessária para impedir o fluxo osmótico líquido sob condições especificadas.
+
+Para soluções diluídas ideais:
+
+\[
+\Pi=iMRT
+\]
+
+Deverão ser discutidos:
+
+- concentração;
+- temperatura absoluta;
+- fator de van ’t Hoff;
+- unidades;
+- semelhança formal com a equação dos gases;
+- limitações da expressão.
+
+##### 12.3.5.14 Osmose reversa
+
+A aplicação de pressão superior à pressão osmótica pode produzir fluxo do solvente no sentido oposto ao fluxo osmótico espontâneo.
+
+A osmose reversa poderá ser apresentada como aplicação em:
+
+- purificação de água;
+- separação;
+- processos farmacêuticos;
+- tratamento de água.
+
+O desenvolvimento tecnológico detalhado não pertence ao escopo desta unidade.
+
+##### 12.3.5.15 Osmolaridade
+
+A osmolaridade deverá ser apresentada como concentração osmótica expressa em osmoles de partículas por volume de solução.
+
+Poderão ser utilizadas:
+
+- Osm/L;
+- mOsm/L.
+
+Deverão ser discutidos:
+
+- dependência do volume;
+- temperatura;
+- dissociação;
+- fator de van ’t Hoff;
+- caráter calculado ou experimental;
+- limitações em soluções não ideais.
+
+##### 12.3.5.16 Osmolalidade
+
+A osmolalidade deverá ser apresentada como quantidade osmótica por massa de solvente.
+
+Poderão ser utilizadas:
+
+- Osm/kg;
+- mOsm/kg.
+
+Deverão ser discutidos:
+
+- diferença em relação à osmolaridade;
+- independência direta em relação ao volume;
+- relação com medidas experimentais;
+- influência da densidade;
+- impossibilidade de tratar as duas grandezas como sempre numericamente idênticas.
+
+##### 12.3.5.17 Osmometria
+
+A unidade poderá introduzir princípios de medida baseados em:
+
+- abaixamento do ponto de congelamento;
+- pressão de vapor;
+- pressão osmótica;
+- propriedades relacionadas ao número de partículas.
+
+Deverão ser diferenciados:
+
+- valor calculado;
+- valor medido;
+- idealidade;
+- calibração;
+- interferências;
+- interpretação do resultado.
+
+##### 12.3.5.18 Tonicidade
+
+A tonicidade deverá ser definida como efeito de uma solução sobre o volume celular ou de outro compartimento delimitado por membrana biologicamente relevante.
+
+Ela depende principalmente:
+
+- das partículas osmoticamente efetivas;
+- da permeabilidade da membrana;
+- do tempo;
+- do sistema biológico;
+- da concentração;
+- do comportamento dos solutos.
+
+Tonicidade não deverá ser apresentada como sinônimo de osmolaridade.
+
+##### 12.3.5.19 Isotonicidade
+
+Uma solução isotônica deverá ser definida em relação a um sistema biológico ou de referência específico.
+
+A unidade deverá distinguir:
+
+- isotônico;
+- hipotônico;
+- hipertônico;
+- iso-osmótico;
+- hipo-osmótico;
+- hiperosmótico.
+
+Uma solução pode ser iso-osmótica e não ser isotônica quando contém solutos que atravessam a membrana relevante.
+
+##### 12.3.5.20 Resposta celular em nível conceitual
+
+Poderão ser analisadas qualitativamente:
+
+- manutenção do volume;
+- entrada de água;
+- saída de água;
+- aumento do volume;
+- redução do volume;
+- lise;
+- crenação ou alterações equivalentes, conforme o modelo utilizado.
+
+A resposta dependerá da membrana, do soluto, da concentração e do tempo.
+
+O conteúdo não deverá ser convertido em recomendação clínica isolada.
+
+##### 12.3.5.21 Métodos de ajuste de isotonicidade
+
+A unidade deverá introduzir métodos de cálculo como:
+
+- método baseado no equivalente de cloreto de sódio;
+- método baseado no abaixamento crioscópico;
+- métodos de volume isotônico, quando pertinentes;
+- ajuste com agente apropriado;
+- correção do volume final.
+
+Os métodos deverão ser acompanhados das hipóteses e limitações.
+
+##### 12.3.5.22 Equivalente de cloreto de sódio
+
+O equivalente de cloreto de sódio deverá ser definido como a quantidade de cloreto de sódio osmoticamente equivalente a determinada quantidade de substância sob condições especificadas.
+
+O estudante deverá aprender a:
+
+- interpretar o valor;
+- calcular a contribuição dos componentes;
+- determinar a quantidade adicional do agente de ajuste;
+- reconhecer limites da aproximação;
+- evitar resultados fisicamente impossíveis.
+
+##### 12.3.5.23 Método crioscópico
+
+O ajuste baseado no abaixamento do ponto de congelamento deverá considerar:
+
+- contribuição de cada componente;
+- valor de referência;
+- aditividade aproximada;
+- quantidade do agente de ajuste;
+- condições da solução;
+- limitações experimentais.
+
+Os valores utilizados deverão provir de referências verificadas.
+
+##### 12.3.5.24 Não idealidade e coeficiente osmótico
+
+Soluções reais podem apresentar desvios do comportamento previsto pelo número estequiométrico de partículas.
+
+O coeficiente osmótico poderá ser introduzido qualitativamente para explicar diferenças entre:
+
+- osmolaridade ideal calculada;
+- osmolalidade efetiva;
+- propriedade medida;
+- comportamento de eletrólitos concentrados.
+
+Não será exigido tratamento avançado de modelos para soluções concentradas.
+
+#### 12.3.6 Desenvolvimento matemático
+
+A unidade deverá desenvolver cálculos envolvendo:
+
+- fração molar;
+- Lei de Raoult;
+- abaixamento relativo da pressão de vapor;
+- elevação do ponto de ebulição;
+- abaixamento do ponto de congelamento;
+- massa molar;
+- fator de van ’t Hoff;
+- grau de dissociação em modelos simples;
+- pressão osmótica;
+- osmolaridade;
+- osmolalidade;
+- conversões com densidade;
+- equivalente de cloreto de sódio;
+- ajuste crioscópico;
+- contribuição de múltiplos componentes.
+
+Cada cálculo deverá incluir:
+
+- definição do sistema;
+- unidade;
+- condição de validade;
+- interpretação;
+- verificação do resultado;
+- distinção entre valor ideal, calculado e experimental.
+
+#### 12.3.7 Exemplos resolvidos previstos
+
+A unidade deverá incluir exemplos sobre:
+
+1. pressão de vapor de solução ideal;
+2. abaixamento relativo da pressão de vapor;
+3. elevação do ponto de ebulição;
+4. abaixamento do ponto de congelamento;
+5. determinação de massa molar;
+6. fator de van ’t Hoff;
+7. eletrólito com dissociação parcial;
+8. pressão osmótica;
+9. cálculo de osmolaridade;
+10. cálculo de osmolalidade;
+11. comparação entre osmolaridade e osmolalidade;
+12. análise de solução iso-osmótica, mas não isotônica;
+13. ajuste pelo equivalente de cloreto de sódio;
+14. ajuste pelo método crioscópico;
+15. solução contendo mais de um componente osmoticamente ativo.
+
+#### 12.3.8 Conexão com a análise qualitativa
+
+As propriedades coligativas possuem aplicação direta mais limitada na marcha qualitativa, mas contribuem para compreender:
+
+- composição total das soluções;
+- número efetivo de partículas;
+- dissociação;
+- não idealidade;
+- concentração de reagentes;
+- influência de eletrólitos;
+- separações por membranas;
+- purificação de água;
+- diferença entre propriedade calculada e medida.
+
+A unidade reforçará o raciocínio quantitativo necessário às etapas posteriores.
+
+#### 12.3.9 Conexão farmacêutica
+
+A contextualização farmacêutica deverá incluir:
+
+- soluções de uso parenteral como contexto físico-químico;
+- soluções oftálmicas;
+- soluções nasais;
+- sistemas de irrigação;
+- preparações aquosas;
+- ajuste de isotonicidade;
+- água para processos farmacêuticos;
+- osmometria;
+- membranas biológicas;
+- estabilidade física;
+- conforto e compatibilidade em nível conceitual.
+
+A isotonicidade não deverá ser tratada como único critério de segurança, adequação ou qualidade de uma preparação.
+
+#### 12.3.10 Atividades práticas correspondentes
+
+##### 12.3.10.1 Prática A — Osmose em sistema-modelo
+
+A atividade poderá utilizar uma membrana semipermeável didática para avaliar:
+
+- diferença de concentração;
+- mudança de massa ou volume;
+- direção do fluxo;
+- influência do soluto;
+- limitações do modelo;
+- diferença entre membrana didática e biológica.
+
+##### 12.3.10.2 Prática B — Propriedade coligativa ou osmometria didática
+
+Conforme a infraestrutura, poderá envolver:
+
+- comparação de pontos de congelamento;
+- estimativa crioscópica;
+- análise de dados fornecidos;
+- cálculo de osmolalidade;
+- comparação entre valor calculado e medido.
+
+##### 12.3.10.3 Atividade integrada de isotonicidade
+
+O estudante deverá resolver e discutir um problema de ajuste de isotonicidade, preparar uma solução-modelo segura quando pertinente e avaliar criticamente as aproximações empregadas.
+
+As atividades deverão ser organizadas nas 3 h/a práticas disponíveis.
+
+#### 12.3.11 Estudo de caso previsto
+
+**Solução iso-osmótica que não apresenta comportamento isotônico**
+
+O estudante deverá analisar:
+
+- partículas presentes;
+- osmolaridade calculada;
+- permeabilidade do soluto;
+- movimento de água;
+- resposta prevista;
+- diferença entre iso-osmoticidade e isotonicidade;
+- limitações do modelo;
+- consequências farmacêuticas conceituais.
+
+#### 12.3.12 Integração com as unidades posteriores
+
+A Unidade 3 fornecerá fundamentos para:
+
+- Unidade 4 — potencial químico e espontaneidade;
+- Unidade 5 — atividade, composição e equilíbrio;
+- Unidade 6 — eletrólitos e atividade em sistemas ácido-base;
+- Unidade 7 — efeitos de concentração e dissolução;
+- Unidade 9 — atividades na equação de Nernst;
+- Unidade 10 — influência da concentração sobre processos;
+- Unidade 11 — membranas, tensoativos e sistemas dispersos;
+- aplicações farmacêuticas ao longo do Livro Mestre.
+
+#### 12.3.13 Delimitações
+
+Nesta unidade não serão desenvolvidos integralmente:
+
+- Termodinâmica do potencial químico;
+- modelos avançados de soluções eletrolíticas;
+- fisiologia celular;
+- farmacologia de soluções parenterais;
+- tecnologia industrial de osmose reversa;
+- validação regulatória de formulações;
+- métodos avançados de osmometria;
+- recomendações clínicas.
+
+Esses temas serão mencionados apenas quando necessários à interpretação físico-química.
+
+#### 12.3.14 Distribuição da carga horária
+
+| Componente | Carga |
+|---|---:|
+| Pressão de vapor, ebulição e congelamento | 1,5 h/a teórica |
+| Fator de van ’t Hoff e pressão osmótica | 1,5 h/a teórica |
+| Osmolaridade, osmolalidade e tonicidade | 1 h/a teórica |
+| Métodos de ajuste de isotonicidade | 1 h/a teórica |
+| Práticas integradas | 3 h/a práticas |
+| **Total** | **5 h/a teóricas + 3 h/a práticas** |
+
+A distribuição poderá ser ajustada no calendário, mantendo o total aprovado.
+
+#### 12.3.15 Referências estruturantes
+
+A redação deverá utilizar:
+
+- livros reconhecidos de Físico-Química;
+- textos de Físico-Química farmacêutica;
+- livros de Farmácia Física;
+- compêndios farmacêuticos vigentes;
+- referências verificadas para equivalentes e dados crioscópicos;
+- literatura científica sobre osmolaridade, osmolalidade e tonicidade;
+- documentos institucionais de segurança.
+
+Valores numéricos utilizados em ajustes farmacêuticos deverão possuir fonte identificada e verificada.
+
+#### 12.3.16 Status
+
+**SUMÁRIO DETALHADO DA UNIDADE 3 — APROVADO**
