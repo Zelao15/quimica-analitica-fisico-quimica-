@@ -4754,3 +4754,847 @@ Essa recomendação deverá orientar diretamente a elaboração do novo sumário
 | Carga horária | Claramente insuficiente |
 | Sequência curricular | Inadequada |
 | Recomendação | Desmembrar, ampliar e reposicionar |
+### 8.8 Unidade atual 8 — Interfaces e sistemas dispersos
+
+#### 8.8.1 Função atual
+
+A Unidade atual 8 introduz os fundamentos físico-químicos das interfaces, dos tensoativos e dos sistemas coloidais necessários à compreensão de sistemas farmacêuticos dispersos.
+
+Com 4 h/a teóricas e 2 h/a práticas, pretende relacionar:
+
+- tensão superficial e interfacial;
+- adsorção;
+- tensoativos;
+- micelização;
+- balanço hidrófilo-lipófilo;
+- partículas coloidais;
+- cargas superficiais;
+- estabilidade de dispersões;
+- suspensões;
+- emulsões;
+- géis;
+- espumas;
+- umectação;
+- dissolução.
+
+A unidade representa a principal conexão entre fundamentos de superfície e comportamento físico de formulações farmacêuticas.
+
+#### 8.8.2 Pontos fortes
+
+A estrutura atual inclui conteúdos de elevada relevância:
+
+- tensão superficial e interfacial;
+- tensoativos;
+- concentração micelar crítica;
+- balanço hidrófilo-lipófilo;
+- sistemas coloidais;
+- estabilidade;
+- efeito Tyndall;
+- cargas de superfície.
+
+As aplicações farmacêuticas propostas são adequadas:
+
+- suspensões;
+- emulsões;
+- géis;
+- espumas;
+- umectação;
+- dissolução;
+- estabilidade de sistemas dispersos.
+
+As práticas sugeridas permitem relacionar observações macroscópicas com propriedades interfaciais.
+
+#### 8.8.3 Importância integradora
+
+A unidade articula conhecimentos de:
+
+- Termodinâmica;
+- forças intermoleculares;
+- propriedades dos líquidos;
+- solubilidade;
+- cinética;
+- complexação;
+- precipitação;
+- tamanho de partícula;
+- transporte;
+- estabilidade farmacêutica.
+
+A relação integradora deverá ser:
+
+**propriedades da interface → interação entre fases ou partículas → organização do sistema → estabilidade e desempenho**
+
+A unidade também contribuirá para compreender precipitados coloidais e dificuldades experimentais da análise qualitativa.
+
+#### 8.8.4 Conhecimentos prévios
+
+O desenvolvimento adequado pressupõe conhecimentos sobre:
+
+- estados físicos;
+- propriedades dos líquidos;
+- forças intermoleculares;
+- soluções;
+- polaridade;
+- concentração;
+- Termodinâmica;
+- solubilidade;
+- equilíbrio;
+- cinética;
+- cargas elétricas;
+- íons e eletrólitos.
+
+A ausência atual de uma abordagem adequada das propriedades dos líquidos na Unidade 1 afeta diretamente esta unidade.
+
+#### 8.8.5 Interface e superfície
+
+A unidade deverá diferenciar:
+
+- superfície;
+- interface;
+- fase;
+- interface líquido–gás;
+- líquido–líquido;
+- sólido–líquido;
+- sólido–gás.
+
+O estudante deverá compreender que moléculas localizadas em uma interface experimentam um ambiente diferente daquele existente no interior da fase.
+
+Essa diferença produz propriedades e fenômenos específicos.
+
+#### 8.8.6 Energia livre de superfície
+
+A formação ou ampliação de uma interface exige trabalho.
+
+A energia livre de superfície deverá ser apresentada como fundamento termodinâmico para a tendência de reduzir a área interfacial.
+
+Essa tendência ajuda a explicar:
+
+- formação de gotas;
+- coalescência;
+- crescimento de partículas;
+- adsorção;
+- ação dos tensoativos;
+- dificuldade de manter dispersões.
+
+O aprofundamento matemático deverá ser compatível com a carga horária.
+
+#### 8.8.7 Tensão superficial
+
+A tensão superficial deverá ser definida como força por unidade de comprimento ou energia por unidade de área, conforme o contexto.
+
+A unidade deverá relacioná-la a:
+
+- forças intermoleculares;
+- temperatura;
+- composição;
+- presença de solutos;
+- curvatura;
+- formação de gotas;
+- umectação;
+- capilaridade.
+
+Deverá ser evitada a explicação de que existe uma “película” material independente na superfície do líquido.
+
+#### 8.8.8 Tensão interfacial
+
+A tensão interfacial deverá ser diferenciada da tensão superficial.
+
+Ela deverá ser relacionada à natureza das duas fases e às interações entre suas moléculas.
+
+Sua redução é relevante para:
+
+- emulsificação;
+- dispersão;
+- extração;
+- umectação;
+- incorporação de líquidos;
+- estabilidade cinética de sistemas multifásicos.
+
+Tensão interfacial baixa, isoladamente, não garante estabilidade permanente.
+
+#### 8.8.9 Pressão de Laplace e curvatura
+
+A relação entre curvatura e diferença de pressão poderá ser introduzida qualitativamente ou por meio da equação de Young–Laplace.
+
+O estudante deverá compreender que gotas e bolhas menores podem apresentar diferenças de pressão maiores.
+
+Essa relação contribui para interpretar:
+
+- estabilidade de emulsões;
+- espumas;
+- crescimento de partículas;
+- amadurecimento de Ostwald;
+- formação de aerossóis.
+
+#### 8.8.10 Capilaridade
+
+A capilaridade deverá ser relacionada a:
+
+- adesão;
+- coesão;
+- tensão superficial;
+- ângulo de contato;
+- geometria do capilar;
+- densidade;
+- gravidade.
+
+Poderão ser exploradas aplicações em:
+
+- líquidos em tubos estreitos;
+- papel e materiais porosos;
+- sistemas cromatográficos;
+- absorção por pós;
+- dispositivos farmacêuticos.
+
+#### 8.8.11 Molhabilidade e ângulo de contato
+
+A molhabilidade deverá ser tratada como propriedade da interação entre sólido, líquido e meio circundante.
+
+O ângulo de contato poderá ser utilizado para interpretar:
+
+- espalhamento;
+- umectação de pós;
+- incorporação de partículas em líquidos;
+- dissolução;
+- revestimentos;
+- desempenho de formas farmacêuticas.
+
+A molhabilidade não deverá ser confundida com solubilidade.
+
+#### 8.8.12 Adsorção
+
+A adsorção deverá ser introduzida como acúmulo de espécies em uma interface.
+
+Deverão ser diferenciadas:
+
+- adsorção;
+- absorção;
+- adsorção física;
+- adsorção química;
+- adsorvente;
+- adsorvato.
+
+As aplicações poderão incluir:
+
+- ação de tensoativos;
+- estabilização de dispersões;
+- carvão ativado;
+- superfícies de recipientes;
+- perda de fármacos por adsorção;
+- reações em precipitados.
+
+#### 8.8.13 Isotermas de adsorção
+
+Modelos como Langmuir e Freundlich poderão ser introduzidos qualitativamente ou em exemplos selecionados.
+
+O objetivo será mostrar que:
+
+- superfícies possuem capacidade limitada ou heterogênea;
+- a quantidade adsorvida depende da concentração;
+- modelos representam hipóteses;
+- dados experimentais precisam ser avaliados criticamente.
+
+O aprofundamento matemático deverá ser definido após a redistribuição da carga horária.
+
+#### 8.8.14 Tensoativos
+
+Os tensoativos deverão ser apresentados como moléculas ou íons anfifílicos capazes de se adsorver em interfaces e modificar propriedades do sistema.
+
+A unidade deverá relacionar estrutura e função:
+
+- região hidrofílica;
+- região hidrofóbica;
+- adsorção;
+- redução de tensão superficial ou interfacial;
+- orientação molecular;
+- formação de agregados;
+- solubilização.
+
+Não se deverá afirmar que todo tensoativo atua de modo idêntico em qualquer meio.
+
+#### 8.8.15 Classificação dos tensoativos
+
+Deverão ser diferenciados:
+
+- aniônicos;
+- catiônicos;
+- não iônicos;
+- anfóteros ou zwitteriônicos.
+
+A comparação deverá considerar:
+
+- carga;
+- sensibilidade ao pH;
+- interação com eletrólitos;
+- compatibilidade;
+- toxicidade;
+- irritação;
+- função farmacêutica;
+- possibilidade de interação com fármacos ou conservantes.
+
+#### 8.8.16 Concentração micelar crítica
+
+A concentração micelar crítica deverá ser apresentada como faixa de concentração na qual a formação de agregados se torna significativa sob condições definidas.
+
+Deverão ser discutidos:
+
+- monômeros e micelas;
+- propriedades que mudam próximas à CMC;
+- dependência da temperatura;
+- influência de eletrólitos;
+- estrutura do tensoativo;
+- natureza do solvente;
+- método de determinação.
+
+A CMC não deverá ser tratada como valor absolutamente invariável.
+
+#### 8.8.17 Micelas e outros agregados
+
+As micelas deverão ser apresentadas como estruturas dinâmicas.
+
+Poderão ser introduzidos:
+
+- micelas esféricas;
+- micelas alongadas;
+- bicamadas;
+- vesículas;
+- micelas reversas, quando pertinente.
+
+O aprofundamento deverá ser limitado ao necessário para compreender solubilização, detergência e sistemas farmacêuticos.
+
+#### 8.8.18 Solubilização micelar
+
+A solubilização micelar deverá ser diferenciada da dissolução molecular simples.
+
+O material deverá explicar como substâncias pouco solúveis podem se distribuir em diferentes regiões do agregado.
+
+Deverão ser consideradas:
+
+- estrutura do solubilizado;
+- natureza do tensoativo;
+- concentração acima da CMC;
+- temperatura;
+- pH;
+- eletrólitos;
+- limitações de capacidade;
+- influência sobre a atividade do fármaco.
+
+#### 8.8.19 Temperatura de Krafft e ponto de turvação
+
+A unidade poderá introduzir, quando aplicável:
+
+- temperatura de Krafft para determinados tensoativos iônicos;
+- ponto de turvação para certos tensoativos não iônicos.
+
+Esses fenômenos são relevantes porque a temperatura pode alterar:
+
+- solubilidade do tensoativo;
+- micelização;
+- aparência;
+- estabilidade;
+- desempenho da formulação.
+
+Os conceitos deverão ser relacionados às condições reais de armazenamento e uso.
+
+#### 8.8.20 Balanço hidrófilo-lipófilo
+
+O sistema de balanço hidrófilo-lipófilo deverá ser apresentado como ferramenta empírica de seleção de tensoativos, especialmente para emulsões.
+
+O material deverá discutir:
+
+- significado operacional;
+- faixas de aplicação;
+- mistura de tensoativos;
+- HLB requerido da fase oleosa;
+- limitações do sistema;
+- dependência da temperatura e da composição.
+
+O valor de HLB não deverá ser apresentado como garantia isolada de estabilidade.
+
+#### 8.8.21 Sistemas dispersos
+
+A unidade deverá definir sistema disperso a partir de:
+
+- fase dispersa;
+- meio de dispersão;
+- tamanho característico das entidades;
+- natureza das fases;
+- interação interfacial.
+
+Deverão ser diferenciadas dispersões:
+
+- moleculares;
+- coloidais;
+- grosseiras.
+
+Os limites de tamanho deverão ser apresentados como faixas aproximadas, pois diferentes fontes podem utilizar convenções distintas.
+
+#### 8.8.22 Classificação dos coloides
+
+Os sistemas coloidais poderão ser classificados segundo:
+
+- estado físico da fase dispersa;
+- estado físico do meio;
+- afinidade entre as fases;
+- mecanismo de estabilização;
+- origem ou forma de preparação.
+
+Poderão ser discutidos:
+
+- sóis;
+- emulsões;
+- espumas;
+- aerossóis;
+- géis.
+
+Termos históricos como liofílico e liofóbico poderão ser utilizados com definição e contextualização adequadas.
+
+#### 8.8.23 Movimento browniano e difusão
+
+O movimento browniano deverá ser relacionado às colisões com moléculas do meio e à escala das partículas.
+
+Sua importância poderá ser associada a:
+
+- permanência das partículas em dispersão;
+- difusão;
+- competição com sedimentação;
+- comportamento microscópico dos coloides.
+
+Não deverá ser apresentado como mecanismo suficiente para garantir estabilidade em todos os sistemas.
+
+#### 8.8.24 Efeito Tyndall e espalhamento de luz
+
+O efeito Tyndall deverá ser explicado como espalhamento da luz por partículas ou estruturas dispersas.
+
+A observação pode auxiliar na distinção entre soluções moleculares e dispersões coloidais, mas apresenta limitações.
+
+A intensidade depende de fatores como:
+
+- tamanho;
+- concentração;
+- diferença de índice de refração;
+- comprimento de onda;
+- geometria de observação.
+
+O efeito Tyndall não deverá ser utilizado como único critério de classificação.
+
+#### 8.8.25 Carga superficial
+
+A origem das cargas superficiais deverá ser desenvolvida qualitativamente.
+
+Elas podem resultar de:
+
+- ionização de grupos superficiais;
+- adsorção seletiva de íons;
+- imperfeições estruturais;
+- interação com tensoativos;
+- dissociação de grupos químicos.
+
+A carga depende do pH, da força iônica e da composição do meio.
+
+#### 8.8.26 Dupla camada elétrica e potencial zeta
+
+A dupla camada elétrica deverá ser apresentada como organização de cargas e contraíons próximo à superfície.
+
+O potencial zeta poderá ser introduzido como indicador relacionado ao comportamento eletrocinético e à estabilidade de determinadas dispersões.
+
+Deverá ser esclarecido que:
+
+- não corresponde diretamente ao potencial da superfície;
+- depende do meio e do método;
+- valores elevados em módulo podem favorecer repulsão;
+- não constitui critério universal e isolado de estabilidade.
+
+#### 8.8.27 Forças atrativas e repulsivas
+
+A estabilidade coloidal deverá ser relacionada à competição entre:
+
+- atração de van der Waals;
+- repulsão eletrostática;
+- efeitos estéricos;
+- hidratação;
+- interações específicas;
+- forças de depleção, quando pertinente.
+
+A teoria DLVO poderá ser introduzida qualitativamente, sem exigir desenvolvimento matemático excessivo.
+
+#### 8.8.28 Influência dos eletrólitos
+
+A adição de eletrólitos pode comprimir a dupla camada elétrica e modificar a estabilidade.
+
+A unidade deverá relacionar:
+
+- concentração;
+- valência dos íons;
+- força iônica;
+- neutralização de cargas;
+- floculação;
+- coagulação;
+- incompatibilidades.
+
+A aplicação deverá ser conectada a suspensões farmacêuticas e precipitados analíticos.
+
+#### 8.8.29 Estabilização estérica
+
+Polímeros e tensoativos não iônicos podem formar camadas adsorvidas capazes de dificultar a aproximação das partículas.
+
+A unidade deverá introduzir:
+
+- cobertura superficial;
+- espessura da camada;
+- compatibilidade com o meio;
+- concentração adequada;
+- possível formação de pontes;
+- estabilização eletroestérica.
+
+O excesso ou a quantidade insuficiente de estabilizante pode produzir comportamentos distintos.
+
+#### 8.8.30 Floculação, coagulação e agregação
+
+Os termos deverão ser definidos com consistência.
+
+A unidade deverá diferenciar, dentro da convenção adotada:
+
+- agregação;
+- floculação reversível;
+- coagulação mais difícil de reverter;
+- aglomeração;
+- formação de sedimento compactado.
+
+A terminologia varia entre áreas, e o Livro Mestre deverá declarar o uso escolhido.
+
+#### 8.8.31 Sedimentação e Lei de Stokes
+
+A sedimentação deverá ser relacionada a:
+
+- tamanho da partícula;
+- diferença de densidade;
+- viscosidade;
+- gravidade;
+- formato;
+- interação entre partículas.
+
+A Lei de Stokes poderá ser apresentada para partículas esféricas em regime apropriado, acompanhada de suas limitações.
+
+Essa abordagem será especialmente relevante para suspensões.
+
+#### 8.8.32 Suspensões farmacêuticas
+
+As suspensões deverão ser analisadas quanto a:
+
+- tamanho de partícula;
+- molhabilidade;
+- sedimentação;
+- floculação;
+- redispersibilidade;
+- viscosidade;
+- crescimento cristalino;
+- homogeneidade de dose;
+- estabilidade física.
+
+O foco deverá permanecer nos fundamentos físico-químicos, evitando duplicar integralmente a Tecnologia Farmacêutica.
+
+#### 8.8.33 Emulsões
+
+As emulsões deverão ser apresentadas como dispersões de líquidos imiscíveis.
+
+Deverão ser diferenciadas:
+
+- óleo em água;
+- água em óleo;
+- emulsões múltiplas, apenas quando pertinente;
+- fase interna;
+- fase externa;
+- agente emulsificante.
+
+A formação da emulsão requer energia, e sua estabilidade é predominantemente cinética.
+
+#### 8.8.34 Instabilidades de emulsões
+
+A unidade deverá diferenciar:
+
+- cremeação;
+- sedimentação;
+- floculação;
+- coalescência;
+- ruptura;
+- inversão de fases;
+- amadurecimento de Ostwald.
+
+Cada fenômeno deverá ser relacionado aos fatores que o favorecem e à possibilidade de reversão.
+
+A simples ausência de separação visível em curto prazo não comprova estabilidade adequada.
+
+#### 8.8.35 Géis
+
+Os géis poderão ser introduzidos como sistemas nos quais uma rede tridimensional restringe o movimento da fase líquida.
+
+Deverão ser relacionados a:
+
+- polímeros;
+- concentração;
+- pH;
+- eletrólitos;
+- temperatura;
+- reticulação;
+- sinérese;
+- propriedades reológicas.
+
+O aprofundamento dependerá da carga horária e da articulação com Tecnologia Farmacêutica.
+
+#### 8.8.36 Espumas
+
+As espumas deverão ser apresentadas como dispersões de gás em líquido ou sólido.
+
+A estabilidade poderá depender de:
+
+- tensoativos;
+- viscosidade;
+- elasticidade do filme;
+- drenagem;
+- coalescência;
+- desproporcionamento.
+
+As aplicações farmacêuticas e de higiene poderão ser utilizadas como exemplos contextualizadores.
+
+#### 8.8.37 Reologia como conexão necessária
+
+Embora não apareça no sumário atual, a reologia influencia suspensões, emulsões e géis.
+
+Poderão ser introduzidos qualitativamente:
+
+- viscosidade;
+- comportamento newtoniano;
+- comportamento não newtoniano;
+- pseudoplasticidade;
+- plasticidade;
+- tixotropia.
+
+A inclusão detalhada dependerá da carga horária e do currículo de Tecnologia Farmacêutica.
+
+#### 8.8.38 Interfaces e dissolução
+
+A dissolução deverá ser relacionada a:
+
+- área superficial;
+- tamanho de partícula;
+- molhabilidade;
+- difusão;
+- agitação;
+- camada limite;
+- solubilidade de equilíbrio;
+- tensoativos.
+
+Deverá ser retomada a distinção entre solubilidade e velocidade de dissolução.
+
+Tensoativos podem melhorar a molhabilidade ou promover solubilização, mas também podem produzir interações que alteram a atividade do soluto.
+
+#### 8.8.39 Aplicações à análise qualitativa
+
+Os fenômenos interfaciais também afetam a análise qualitativa.
+
+Poderão interferir em:
+
+- formação de precipitados;
+- tamanho das partículas;
+- filtração;
+- adsorção de íons;
+- coprecipitação;
+- lavagem;
+- redispersão;
+- turbidez;
+- observação de cor;
+- estabilidade de reagentes.
+
+A unidade deverá relacionar coloides aos processos reais de precipitação estudados anteriormente.
+
+#### 8.8.40 Delimitação com Tecnologia Farmacêutica
+
+Suspensões, emulsões, géis e espumas são também conteúdos próprios de Tecnologia Farmacêutica.
+
+Nesta disciplina, o foco deverá ser:
+
+- fundamento molecular e termodinâmico;
+- propriedades interfaciais;
+- mecanismos de estabilização e instabilidade;
+- relação entre composição e comportamento.
+
+Procedimentos completos de formulação, produção industrial, controle tecnológico e desenvolvimento de produto poderão permanecer nas disciplinas específicas.
+
+#### 8.8.41 Atividades práticas atuais
+
+As práticas sugeridas são pertinentes:
+
+- medida simples de tensão superficial;
+- preparo de emulsão;
+- observação da estabilidade com e sem tensoativo.
+
+Entretanto, deverão ser definidos:
+
+- método de medida;
+- calibração;
+- temperatura;
+- composição;
+- controles;
+- concentração do tensoativo;
+- energia de emulsificação;
+- tempo de observação;
+- critério de estabilidade;
+- segurança;
+- descarte.
+
+Uma medida simples de tensão superficial deverá ser apresentada como estimativa didática, quando o método não possuir precisão instrumental.
+
+#### 8.8.42 Possibilidades de práticas integradas
+
+Poderão ser avaliadas atividades como:
+
+- comparação da tensão superficial por método didático;
+- efeito da concentração do tensoativo;
+- determinação aproximada da CMC;
+- comparação de molhabilidade;
+- preparo de emulsões com diferentes emulsificantes;
+- avaliação de cremeação e coalescência;
+- efeito de eletrólitos sobre dispersão coloidal;
+- floculação controlada;
+- sedimentação de partículas;
+- observação do efeito Tyndall;
+- comparação de viscosidade ou escoamento;
+- uso de simulação para dupla camada e estabilidade.
+
+A escolha deverá considerar o tempo necessário para que as instabilidades se tornem observáveis.
+
+#### 8.8.43 Segurança e responsabilidade ambiental
+
+As práticas deverão avaliar:
+
+- irritação provocada por tensoativos;
+- solventes inflamáveis;
+- óleos e resíduos emulsificados;
+- conservantes;
+- corantes;
+- polímeros;
+- pós inaláveis;
+- superfícies escorregadias;
+- equipamentos de agitação;
+- aquecimento;
+- possível formação de aerossóis.
+
+Os sistemas deverão ser preparados em pequena escala.
+
+Resíduos contendo tensoativos, óleos ou solventes não deverão ser descartados indiscriminadamente na pia, pois podem apresentar persistência, toxicidade aquática ou dificuldade de tratamento.
+
+#### 8.8.44 Carga horária
+
+A carga atual de 4 h/a teóricas e 2 h/a práticas é insuficiente para desenvolver:
+
+- energia superficial;
+- tensão superficial e interfacial;
+- capilaridade;
+- molhabilidade;
+- adsorção;
+- tensoativos;
+- CMC;
+- HLB;
+- sistemas coloidais;
+- cargas de superfície;
+- estabilidade;
+- suspensões;
+- emulsões;
+- géis;
+- espumas;
+- dissolução.
+
+A unidade necessita ampliação ou seleção rigorosa de conteúdos.
+
+Uma alternativa é concentrar a disciplina nos fundamentos interfaciais e coloidais, utilizando suspensões, emulsões e géis como aplicações, sem tentar esgotar sua tecnologia.
+
+#### 8.8.45 Repetições e conexões
+
+A unidade apresenta conexões com:
+
+- propriedades dos líquidos;
+- soluções;
+- Termodinâmica;
+- solubilidade;
+- cinética;
+- precipitação;
+- estabilidade farmacêutica;
+- análise qualitativa;
+- Tecnologia Farmacêutica.
+
+A nova estrutura deverá evitar repetir conteúdos tecnológicos completos.
+
+Os fundamentos deverão ser construídos aqui e aplicados posteriormente em disciplinas profissionalizantes.
+
+#### 8.8.46 Lacunas principais
+
+As principais lacunas identificadas são:
+
+- energia livre de superfície não explicitada;
+- capilaridade ausente;
+- molhabilidade e ângulo de contato ausentes;
+- adsorção não indicada;
+- classificação dos tensoativos não explicitada;
+- fatores que afetam a CMC ausentes;
+- temperatura de Krafft e ponto de turvação ausentes;
+- limitações do HLB não indicadas;
+- movimento browniano não explicitado;
+- dupla camada e potencial zeta pouco desenvolvidos;
+- forças atrativas, repulsivas e estéricas não indicadas;
+- sedimentação não explicitada;
+- instabilidades de emulsões não discriminadas;
+- conexão com reologia ausente;
+- delimitação com Tecnologia Farmacêutica não estabelecida;
+- carga horária severamente insuficiente.
+
+#### 8.8.47 Recomendação preliminar
+
+A unidade deverá ser preservada e ampliada, com delimitação clara de seu escopo.
+
+Recomenda-se:
+
+- fundamentar energia, tensão e adsorção nas interfaces;
+- incluir molhabilidade e capilaridade;
+- aprofundar tensoativos, CMC e solubilização;
+- apresentar HLB com suas limitações;
+- desenvolver cargas superficiais e mecanismos de estabilização;
+- diferenciar floculação, sedimentação e coagulação;
+- analisar suspensões e emulsões como aplicações;
+- introduzir géis, espumas e reologia apenas no nível necessário;
+- conectar interfaces à dissolução e à análise qualitativa;
+- ampliar a carga horária;
+- transformar as práticas em investigações integradas;
+- revisar riscos e descarte.
+
+Não se recomenda desmembrar imediatamente a unidade. Sua abrangência deverá ser controlada pela definição dos objetivos e pela articulação com Tecnologia Farmacêutica.
+
+#### 8.8.48 Conclusão diagnóstica
+
+| Critério | Diagnóstico |
+|---|---|
+| Relevância | Muito alta |
+| Integração farmacêutica | Muito alta |
+| Energia superficial | Ausente |
+| Tensão superficial e interfacial | Adequadas, mas precisam de aprofundamento |
+| Capilaridade | Ausente |
+| Molhabilidade | Ausente |
+| Adsorção | Ausente |
+| Tensoativos | Relevantes e precisam de classificação |
+| CMC | Deve ser preservada e contextualizada |
+| HLB | Útil, mas necessita limitações |
+| Sistemas coloidais | Muito relevantes |
+| Efeito Tyndall | Adequado como observação, mas insuficiente isoladamente |
+| Cargas superficiais | Precisam de fundamentação |
+| Potencial zeta | Deve ser incorporado |
+| Estabilização estérica | Ausente |
+| Sedimentação | Ausente |
+| Suspensões | Relevantes como aplicação |
+| Emulsões | Relevantes como aplicação |
+| Géis e espumas | Devem receber tratamento delimitado |
+| Reologia | Conexão necessária, atualmente ausente |
+| Aplicação analítica | Precisa ser ampliada |
+| Práticas | Pertinentes, mas precisam de critérios |
+| Segurança | Riscos controláveis com microescala |
+| Carga horária | Severamente insuficiente |
+| Delimitação curricular | Necessária em relação à Tecnologia Farmacêutica |
+| Recomendação | Preservar, ampliar e delimitar |
