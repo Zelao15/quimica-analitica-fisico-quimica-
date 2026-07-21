@@ -2913,3 +2913,808 @@ A unidade poderá permanecer autônoma, mas necessitará de articulação estrei
 | Segurança | Exige seleção rigorosa de metais e ligantes |
 | Carga horária | Provavelmente insuficiente sem integração |
 | Recomendação | Preservar, aprofundar e articular |
+### 8.6 Unidade atual 6 — Oxirredução e eletroquímica
+
+#### 8.6.1 Função atual
+
+A Unidade atual 6 desenvolve os fundamentos das reações de transferência de elétrons e os aplica à previsão da tendência de ocorrência, às células eletroquímicas, às reações de identificação e a fenômenos de interesse farmacêutico.
+
+Com 7 h/a teóricas e 4 h/a práticas, a unidade deverá integrar:
+
+- estados de oxidação;
+- balanceamento de reações;
+- potenciais de eletrodo;
+- espontaneidade;
+- composição do meio;
+- equação de Nernst;
+- células galvânicas;
+- medições eletroquímicas;
+- reações analíticas;
+- estabilidade oxidativa;
+- corrosão.
+
+Sua função curricular é mostrar como a transferência de elétrons pode ser prevista, controlada, observada e utilizada analiticamente.
+
+#### 8.6.2 Pontos fortes
+
+A estrutura atual contempla os fundamentos essenciais:
+
+- número de oxidação;
+- balanceamento redox;
+- potenciais de redução;
+- espontaneidade;
+- equação de Nernst;
+- pilhas;
+- série de reatividade;
+- tabelas de potenciais.
+
+As aplicações propostas são relevantes para a integração curricular:
+
+- reações redox de identificação;
+- agentes oxidantes e redutores;
+- corrosão;
+- antioxidantes;
+- estabilidade oxidativa;
+- eletrodos;
+- medições eletroquímicas.
+
+As práticas sugeridas também apresentam boa relação com a teoria, especialmente a construção de pilhas e o estudo da influência da concentração sobre o potencial.
+
+#### 8.6.3 Importância integradora
+
+Os processos redox estão relacionados a:
+
+- equilíbrio químico;
+- Termodinâmica;
+- cinética;
+- atividade;
+- pH;
+- complexação;
+- solubilidade;
+- análise qualitativa;
+- estabilidade de medicamentos;
+- corrosão de materiais;
+- métodos eletroanalíticos.
+
+A relação integradora deverá ser:
+
+**estado químico e composição do meio → potencial do sistema → tendência de transferência de elétrons → resposta analítica ou farmacêutica**
+
+A unidade deverá evitar que as reações redox sejam apresentadas apenas como exercícios de balanceamento.
+
+#### 8.6.4 Conhecimentos prévios
+
+O desenvolvimento adequado pressupõe conhecimentos sobre:
+
+- estrutura atômica e distribuição eletrônica;
+- carga de íons;
+- estequiometria;
+- concentração;
+- atividade;
+- equilíbrio químico;
+- quociente de reação;
+- logaritmos;
+- pH;
+- complexação;
+- solubilidade;
+- energia e espontaneidade em nível introdutório.
+
+A dependência em relação à Termodinâmica deverá ser revista durante a reorganização curricular.
+
+#### 8.6.5 Oxidação, redução e transferência de elétrons
+
+A unidade deverá definir claramente:
+
+- oxidação;
+- redução;
+- agente oxidante;
+- agente redutor;
+- espécie oxidada;
+- espécie reduzida;
+- par redox;
+- semirreação.
+
+Deverá ser enfatizado que oxidação e redução ocorrem simultaneamente em uma reação global.
+
+Os termos deverão ser empregados de forma consistente, evitando confusão entre o agente oxidante e a espécie que sofre oxidação.
+
+#### 8.6.6 Número de oxidação
+
+O número de oxidação deverá ser apresentado como ferramenta formal para acompanhar a redistribuição de elétrons.
+
+A unidade deverá incluir:
+
+- regras de atribuição;
+- aplicação a íons monoatômicos;
+- moléculas;
+- íons poliatômicos;
+- peróxidos;
+- hidretos;
+- compostos com estados de oxidação distintos;
+- identificação das espécies oxidadas e reduzidas.
+
+Também deverá ser esclarecido que número de oxidação é uma atribuição formal e não corresponde necessariamente à carga real de um átomo em uma molécula.
+
+#### 8.6.7 Balanceamento por semirreações
+
+O método das semirreações deverá constituir o procedimento principal de balanceamento.
+
+O estudante deverá aprender a:
+
+- separar oxidação e redução;
+- balancear os átomos diferentes de hidrogênio e oxigênio;
+- balancear oxigênio com água;
+- balancear hidrogênio com \(H^+\) em meio ácido;
+- balancear cargas com elétrons;
+- igualar o número de elétrons;
+- somar e simplificar as semirreações;
+- verificar massa e carga.
+
+O procedimento deverá ser acompanhado da interpretação química de cada etapa.
+
+#### 8.6.8 Balanceamento em meio básico
+
+O balanceamento em meio básico deverá ser explicitado.
+
+Poderá ser desenvolvido por:
+
+- balanceamento inicial em meio ácido;
+- adição de \(OH^-\) aos dois lados;
+- formação e simplificação de água;
+- verificação final da massa e da carga.
+
+O estudante deverá compreender que a equação final precisa ser compatível com o meio reacional.
+
+Também deverão ser considerados casos em que o pH modifica as espécies químicas participantes.
+
+#### 8.6.9 Estequiometria das reações redox
+
+Depois do balanceamento, a unidade deverá explorar as relações estequiométricas.
+
+Deverão ser incluídos exemplos envolvendo:
+
+- quantidade de elétrons transferidos;
+- proporção entre oxidante e redutor;
+- reagente limitante;
+- excesso de reagente;
+- concentração após reação;
+- preparação das condições para uma medida eletroquímica;
+- aplicação a reações de identificação.
+
+Essa etapa evitará que o balanceamento permaneça desconectado dos cálculos químicos.
+
+#### 8.6.10 Células eletroquímicas
+
+A unidade deverá apresentar os componentes de uma célula eletroquímica:
+
+- ânodo;
+- cátodo;
+- semicélulas;
+- eletrólitos;
+- circuito externo;
+- ponte salina ou junção líquida;
+- fluxo de elétrons;
+- migração de íons;
+- diferença de potencial.
+
+A convenção fundamental deverá ser preservada:
+
+- oxidação ocorre no ânodo;
+- redução ocorre no cátodo.
+
+Os sinais dos eletrodos deverão ser relacionados ao tipo de célula, evitando sua memorização sem contexto.
+
+#### 8.6.11 Células galvânicas e eletrolíticas
+
+Deverão ser diferenciadas:
+
+- células galvânicas ou voltaicas;
+- células eletrolíticas.
+
+A comparação deverá considerar:
+
+- espontaneidade;
+- conversão de energia;
+- necessidade de fonte externa;
+- sinais dos eletrodos;
+- direção do fluxo de elétrons;
+- aplicações.
+
+A profundidade dedicada às células eletrolíticas dependerá da carga horária e dos objetivos farmacêuticos e analíticos.
+
+#### 8.6.12 Representação da célula
+
+A notação convencional das células deverá ser introduzida e interpretada.
+
+O estudante deverá reconhecer:
+
+- fronteiras de fase;
+- separação entre semicélulas;
+- espécies dissolvidas;
+- eletrodos inertes;
+- ordem convencional;
+- relação entre notação e reação global.
+
+A representação não deverá ser ensinada como código isolado, mas como descrição compacta do sistema experimental.
+
+#### 8.6.13 Potencial de eletrodo
+
+O potencial de um eletrodo deverá ser apresentado como grandeza relacionada à tendência de redução de um par redox em comparação com um eletrodo de referência.
+
+A unidade deverá esclarecer que:
+
+- não se mede diretamente o potencial absoluto de uma única semicélula;
+- mede-se uma diferença de potencial;
+- os potenciais tabelados são definidos em relação a uma referência;
+- a composição do meio influencia o potencial;
+- o potencial não representa sozinho a quantidade de carga ou a velocidade da reação.
+
+#### 8.6.14 Eletrodo padrão de hidrogênio
+
+O eletrodo padrão de hidrogênio deverá ser apresentado como referência convencional para os potenciais padrão.
+
+Deverão ser discutidos:
+
+- constituição conceitual;
+- condições padrão;
+- atribuição convencional de potencial;
+- importância metrológica;
+- limitações práticas;
+- uso de outros eletrodos de referência em laboratório.
+
+Não será necessário construí-lo em aula prática para compreender sua função na escala de potenciais.
+
+#### 8.6.15 Potenciais padrão de redução
+
+A tabela de potenciais padrão deverá ser interpretada corretamente.
+
+O estudante deverá compreender que:
+
+- as semirreações geralmente são tabeladas como reduções;
+- valores mais positivos indicam maior tendência termodinâmica à redução nas condições especificadas;
+- a semirreação escolhida como oxidação deve ser invertida;
+- o sinal do potencial é invertido quando a semirreação é invertida;
+- o potencial não é multiplicado pelos coeficientes estequiométricos.
+
+A última regra deverá ser explicada a partir da natureza intensiva do potencial.
+
+#### 8.6.16 Potencial da célula
+
+Para uma célula escrita de modo consistente, deverá ser utilizada a relação:
+
+\[
+E_{\text{célula}}=E_{\text{cátodo}}-E_{\text{ânodo}}
+\]
+
+O estudante deverá aprender a:
+
+- identificar a redução e a oxidação;
+- selecionar os potenciais adequados;
+- calcular o potencial;
+- escrever a reação global;
+- verificar o número de elétrons;
+- interpretar o sinal do resultado.
+
+A unidade deverá evitar regras mnemônicas que ocultem o significado físico da operação.
+
+#### 8.6.17 Espontaneidade e energia livre
+
+A relação entre potencial e energia livre deverá ser desenvolvida:
+
+\[
+\Delta_rG=-nFE_{\text{célula}}
+\]
+
+Em condições padrão:
+
+\[
+\Delta_rG^\circ=-nFE^\circ_{\text{célula}}
+\]
+
+O estudante deverá compreender que:
+
+- \(E_{\text{célula}}>0\) corresponde a \(\Delta_rG<0\) para a reação escrita;
+- \(E_{\text{célula}}=0\) corresponde ao equilíbrio;
+- \(E_{\text{célula}}<0\) indica que a reação inversa é termodinamicamente favorecida.
+
+A apresentação rigorosa dessa relação depende de fundamentos termodinâmicos que atualmente aparecem somente na Unidade 7.
+
+#### 8.6.18 Potencial e constante de equilíbrio
+
+A unidade deverá estabelecer a conexão:
+
+\[
+\Delta_rG^\circ=-RT\ln K
+\]
+
+e, consequentemente:
+
+\[
+nFE^\circ_{\text{célula}}=RT\ln K
+\]
+
+Essa relação permite estimar a extensão termodinâmica de uma reação redox.
+
+O estudante deverá compreender que um potencial padrão positivo indica favorecimento da reação escrita, mas a avaliação quantitativa depende de:
+
+- número de elétrons;
+- temperatura;
+- condições padrão;
+- constante de equilíbrio resultante.
+
+#### 8.6.19 Equação de Nernst
+
+A equação de Nernst deverá ser deduzida a partir da relação entre energia livre, quociente de reação e potencial:
+
+\[
+E=E^\circ-\frac{RT}{nF}\ln Q
+\]
+
+A forma em logaritmo decimal deverá ser apresentada com as condições correspondentes, evitando que o fator numérico seja utilizado sem referência à temperatura.
+
+O estudante deverá identificar corretamente:
+
+- o número de elétrons;
+- o quociente da reação;
+- as atividades;
+- as espécies que não entram em \(Q\);
+- a reação à qual o potencial se refere.
+
+#### 8.6.20 Influência da concentração e da atividade
+
+A atividade deverá ser retomada no contexto eletroquímico.
+
+A unidade deverá mostrar que o potencial depende da composição efetiva do sistema e não apenas das concentrações nominais.
+
+Nos cálculos introdutórios, poderão ser utilizadas concentrações como aproximação, desde que sejam discutidos:
+
+- força iônica;
+- coeficientes de atividade;
+- soluções concentradas;
+- eletrólitos de suporte;
+- limitações da aproximação ideal.
+
+Essa conexão reforçará a função transversal do conceito de atividade no Livro Mestre.
+
+#### 8.6.21 Influência do pH
+
+Muitas semirreações incluem \(H^+\), \(OH^-\) ou espécies cuja protonação depende do pH.
+
+A unidade deverá desenvolver:
+
+- efeito do pH sobre o potencial;
+- alteração da espécie predominante;
+- mudanças na tendência redox;
+- relação entre pH e estabilidade;
+- influência nas reações de identificação;
+- possibilidade de precipitação ou complexação simultânea.
+
+Diagramas potencial–pH poderão ser introduzidos qualitativamente, caso contribuam para integrar equilíbrio ácido-base e oxirredução.
+
+#### 8.6.22 Influência da complexação e da precipitação
+
+A complexação ou a precipitação pode reduzir a atividade de uma espécie livre e alterar o potencial observado.
+
+A unidade deverá incluir situações nas quais:
+
+- um metal é estabilizado por ligante;
+- uma forma oxidada ou reduzida precipita;
+- a reação redox é deslocada;
+- a seletividade analítica é modificada;
+- o potencial formal difere do potencial padrão.
+
+Esses exemplos deverão retomar diretamente as unidades de solubilidade e complexação.
+
+#### 8.6.23 Potenciais formais e condicionais
+
+O potencial formal ou condicional poderá ser introduzido como potencial válido sob condições específicas do meio.
+
+Poderão influenciá-lo:
+
+- pH;
+- força iônica;
+- complexação;
+- solvente;
+- eletrólito de suporte;
+- reações paralelas.
+
+O conceito será especialmente útil para explicar por que valores experimentais podem diferir dos potenciais padrão tabelados.
+
+A profundidade matemática deverá ser compatível com a carga horária.
+
+#### 8.6.24 Série de reatividade
+
+A série de reatividade deverá ser relacionada aos potenciais padrão, mas suas limitações precisam ser explicitadas.
+
+Ela poderá auxiliar na previsão de:
+
+- deslocamento de metais;
+- reação entre metais e íons;
+- comportamento qualitativo em condições simples.
+
+Entretanto, não contempla automaticamente:
+
+- concentrações reais;
+- pH;
+- complexação;
+- passivação;
+- sobrepotencial;
+- velocidade;
+- condições não aquosas.
+
+A série não deverá substituir uma análise química completa.
+
+#### 8.6.25 Termodinâmica e cinética redox
+
+A unidade deverá distinguir tendência termodinâmica e velocidade.
+
+Uma reação pode ser termodinamicamente favorecida e ocorrer lentamente devido a:
+
+- elevada energia de ativação;
+- mecanismo complexo;
+- transferência lenta de elétrons;
+- passivação;
+- limitações de transporte;
+- ausência de catalisador.
+
+Essa distinção será importante para compreender:
+
+- estabilidade aparente;
+- corrosão;
+- ação de antioxidantes;
+- comportamento de eletrodos;
+- resultados de testes qualitativos.
+
+#### 8.6.26 Reações redox de identificação
+
+As reações de identificação deverão ser explicadas com base em:
+
+- espécie oxidada;
+- espécie reduzida;
+- agente empregado;
+- condições do meio;
+- mudança observável;
+- seletividade;
+- possíveis interferentes;
+- velocidade;
+- estabilidade dos produtos.
+
+A observação poderá envolver:
+
+- mudança de cor;
+- formação ou dissolução de sólido;
+- desprendimento de gás;
+- formação de espécie complexada;
+- alteração do potencial.
+
+A simples memorização da aparência final não será suficiente.
+
+#### 8.6.27 Seletividade analítica
+
+A seleção de um reagente redox deverá considerar:
+
+- diferença entre potenciais;
+- composição do meio;
+- pH;
+- complexação;
+- precipitação;
+- excesso de reagente;
+- velocidade da reação;
+- interferentes;
+- estabilidade dos produtos.
+
+Um valor favorável de potencial não garante, isoladamente, seletividade analítica ou resposta observável adequada.
+
+#### 8.6.28 Eletrodos de referência e indicadores
+
+A unidade deverá diferenciar:
+
+- eletrodo de referência;
+- eletrodo indicador;
+- eletrodo metálico;
+- eletrodo inerte;
+- eletrodo seletivo, em nível introdutório.
+
+Poderão ser apresentados exemplos como:
+
+- eletrodos de prata/cloreto de prata;
+- eletrodos de calomelano apenas em contexto histórico e crítico;
+- platina como eletrodo inerte;
+- eletrodo de vidro para pH.
+
+A escolha dos exemplos deverá considerar uso atual, segurança e conexão com as práticas disponíveis.
+
+#### 8.6.29 Medições eletroquímicas
+
+O conteúdo deverá incluir princípios básicos da medição de diferença de potencial.
+
+Deverão ser discutidos:
+
+- circuito de alta impedância;
+- conexão correta dos eletrodos;
+- eletrodo de referência;
+- estabilidade da leitura;
+- calibração;
+- temperatura;
+- contaminação;
+- junção líquida;
+- conservação dos eletrodos;
+- fontes de erro.
+
+A medição não deverá ser apresentada como leitura automática independente das condições experimentais.
+
+#### 8.6.30 Corrosão
+
+A corrosão deverá ser relacionada à formação de células eletroquímicas locais.
+
+Poderão ser desenvolvidos:
+
+- oxidação do metal;
+- reação catódica correspondente;
+- influência de água, oxigênio e eletrólitos;
+- diferença de aeração;
+- contato entre metais;
+- passivação;
+- proteção contra corrosão.
+
+As aplicações farmacêuticas poderão incluir materiais de equipamentos, embalagens, utensílios e superfícies em contato com produtos.
+
+#### 8.6.31 Oxidação de substâncias farmacêuticas
+
+A estabilidade oxidativa deverá constituir uma aplicação farmacêutica central.
+
+A oxidação pode ser influenciada por:
+
+- oxigênio;
+- luz;
+- temperatura;
+- pH;
+- traços de metais;
+- peróxidos presentes em excipientes;
+- composição da embalagem;
+- concentração;
+- exposição durante armazenamento e preparo.
+
+Os exemplos deverão mostrar que a tendência termodinâmica não determina sozinha a velocidade ou a vida útil do produto.
+
+#### 8.6.32 Antioxidantes
+
+Os antioxidantes deverão ser classificados segundo sua função, evitando tratar todos como simples agentes redutores.
+
+Poderão atuar por:
+
+- reação preferencial com oxidantes;
+- interrupção de processos radicalares;
+- redução de espécies oxidadas;
+- quelação de metais catalíticos;
+- remoção ou controle de oxigênio;
+- ação sinérgica com outros componentes.
+
+A escolha de um antioxidante deverá considerar:
+
+- fase em que atua;
+- pH;
+- solubilidade;
+- compatibilidade;
+- estabilidade;
+- concentração;
+- requisitos regulatórios.
+
+#### 8.6.33 Aplicações eletroquímicas farmacêuticas
+
+A unidade poderá introduzir aplicações como:
+
+- medição de pH;
+- determinação potenciométrica;
+- sensores eletroquímicos;
+- acompanhamento de processos redox;
+- controle de qualidade;
+- monitoramento de espécies eletroativas;
+- estudos de estabilidade;
+- avaliação de corrosão.
+
+A finalidade será apresentar conexões profissionais, sem antecipar integralmente disciplinas instrumentais posteriores.
+
+#### 8.6.34 Atividades práticas atuais
+
+As quatro atividades sugeridas são conceitualmente adequadas:
+
+- construção de pilha;
+- determinação de potencial;
+- reação redox de identificação;
+- influência da concentração sobre o potencial.
+
+Entretanto, deverão ser especificados:
+
+- sistemas químicos;
+- eletrodos;
+- concentrações;
+- equações;
+- condições experimentais;
+- instrumentos;
+- controles;
+- análise dos dados;
+- fontes de erro;
+- segurança;
+- descarte.
+
+A construção da pilha e a determinação do potencial poderão integrar uma única prática, liberando tempo para interpretação e comparação com o valor calculado.
+
+#### 8.6.35 Possibilidades de práticas integradas
+
+Poderão ser avaliadas atividades como:
+
+- montagem de célula galvânica em microescala;
+- comparação entre potencial calculado e medido;
+- influência da concentração sobre o potencial;
+- influência do pH em sistema redox;
+- deslocamento entre metais e íons;
+- estudo de uma reação redox colorida;
+- comparação entre oxidantes;
+- avaliação de corrosão em diferentes meios;
+- medição potenciométrica;
+- simulação da equação de Nernst;
+- investigação de antioxidante em sistema-modelo seguro.
+
+A escolha deverá considerar a disponibilidade de voltímetro, eletrodos e materiais adequados.
+
+#### 8.6.36 Segurança e responsabilidade ambiental
+
+As práticas redox podem envolver oxidantes fortes, redutores reativos, metais tóxicos e geração de gases.
+
+Deverão ser avaliados especialmente:
+
+- dicromatos e outros compostos de cromo hexavalente;
+- permanganato em condições concentradas;
+- peróxidos;
+- hipocloritos;
+- iodatos e bromatos;
+- sais de metais pesados;
+- ácidos concentrados;
+- bases concentradas;
+- metais reativos;
+- possíveis gases tóxicos;
+- mistura indevida de oxidantes e substâncias orgânicas.
+
+As práticas deverão priorizar:
+
+- microescala;
+- oxidantes e redutores de menor risco;
+- soluções diluídas;
+- substituição de compostos de cromo hexavalente;
+- controle de incompatibilidades;
+- segregação de resíduos metálicos;
+- procedimentos específicos para resíduos oxidantes;
+- ausência de descarte indiscriminado na pia.
+
+Pilhas e eletrodos também deverão ser avaliados quanto aos metais e eletrólitos utilizados.
+
+#### 8.6.37 Carga horária
+
+A carga atual de 7 h/a teóricas e 4 h/a práticas pode ser insuficiente para desenvolver com rigor:
+
+- balanceamento;
+- estequiometria;
+- células eletroquímicas;
+- potenciais padrão;
+- energia livre;
+- constante de equilíbrio;
+- equação de Nernst;
+- influência do pH;
+- potenciais condicionais;
+- aplicações analíticas;
+- corrosão;
+- estabilidade farmacêutica.
+
+Será necessário decidir se parte dos fundamentos energéticos ficará na Termodinâmica e será aplicada posteriormente à Eletroquímica.
+
+As 4 h/a práticas exigirão atividades integradas, provavelmente duas experiências completas em vez de quatro práticas independentes.
+
+#### 8.6.38 Problema de sequência curricular
+
+A principal dificuldade estrutural é a posição da Termodinâmica depois da Eletroquímica.
+
+A interpretação rigorosa de:
+
+\[
+\Delta_rG=-nFE
+\]
+
+e:
+
+\[
+\Delta_rG^\circ=-RT\ln K
+\]
+
+depende de conceitos termodinâmicos.
+
+Existem duas alternativas preliminares:
+
+1. antecipar os fundamentos de Termodinâmica para antes da Eletroquímica;
+2. apresentar inicialmente os potenciais de modo operacional e retomar sua fundamentação depois.
+
+A primeira alternativa tende a produzir maior coerência conceitual e deverá ser avaliada após o diagnóstico da Unidade 7.
+
+#### 8.6.39 Repetições e conexões
+
+A unidade apresenta conexões com:
+
+- equilíbrio químico;
+- ácido-base;
+- solubilidade;
+- complexação;
+- Termodinâmica;
+- cinética;
+- análise qualitativa;
+- química farmacêutica;
+- métodos instrumentais.
+
+A nova estrutura deverá evitar repetir integralmente os fundamentos de equilíbrio.
+
+A Eletroquímica deverá utilizar esses conhecimentos para interpretar transferências de elétrons em sistemas reais.
+
+#### 8.6.40 Lacunas principais
+
+As principais lacunas identificadas são:
+
+- ausência da diferenciação entre células galvânicas e eletrolíticas;
+- eletrodos de referência não explicitados;
+- definição de potencial possivelmente operacional demais;
+- relação com energia livre e constante de equilíbrio não indicada;
+- atividades não explicitadas na equação de Nernst;
+- influência do pH pouco desenvolvida;
+- complexação e precipitação não integradas ao potencial;
+- potenciais formais ou condicionais ausentes;
+- termodinâmica e cinética redox não diferenciadas;
+- seletividade analítica pouco explicitada;
+- práticas ainda não constituem roteiros completos;
+- riscos de oxidantes e metais não estão registrados.
+
+#### 8.6.41 Recomendação preliminar
+
+A unidade deverá ser preservada, mas sua posição curricular precisa ser reavaliada.
+
+Recomenda-se:
+
+- manter número de oxidação e balanceamento;
+- desenvolver células e convenções eletroquímicas;
+- aprofundar potenciais padrão;
+- relacionar potencial, energia livre e equilíbrio;
+- deduzir e interpretar a equação de Nernst;
+- retomar atividade e força iônica;
+- incorporar influência de pH, complexação e precipitação;
+- introduzir potenciais condicionais;
+- distinguir tendência termodinâmica e velocidade;
+- fortalecer aplicações analíticas e farmacêuticas;
+- revisar rigorosamente as práticas e os reagentes;
+- avaliar a antecipação da Termodinâmica.
+
+A decisão definitiva dependerá diretamente do diagnóstico da Unidade 7.
+
+#### 8.6.42 Conclusão diagnóstica
+
+| Critério | Diagnóstico |
+|---|---|
+| Relevância | Essencial |
+| Integração curricular | Muito alta |
+| Oxidação e redução | Adequadas |
+| Número de oxidação | Deve ser preservado |
+| Balanceamento | Necessita abordagem sistemática em meios ácido e básico |
+| Células eletroquímicas | Precisam de maior desenvolvimento |
+| Potenciais padrão | Relevantes, com necessidade de rigor conceitual |
+| Equação de Nernst | Central e deve ser deduzida e aplicada |
+| Atividade | Precisa ser incorporada |
+| Relação com energia livre | Necessária |
+| Relação com equilíbrio | Necessária |
+| Influência do pH | Deve ser ampliada |
+| Complexação e precipitação | Precisam ser integradas |
+| Potenciais condicionais | Ausentes |
+| Termodinâmica e cinética | Precisam ser diferenciadas |
+| Aplicações analíticas | Muito relevantes |
+| Aplicações farmacêuticas | Relevantes e ampliáveis |
+| Medições eletroquímicas | Precisam de fundamentos experimentais |
+| Práticas | Pertinentes, mas precisam ser integradas |
+| Segurança | Exige revisão rigorosa |
+| Carga horária | Provavelmente insuficiente |
+| Sequência curricular | Problemática devido à posição da Termodinâmica |
+| Recomendação | Preservar, aprofundar e possivelmente reposicionar |
