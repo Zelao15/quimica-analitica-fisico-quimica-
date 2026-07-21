@@ -3718,3 +3718,1039 @@ A decisão definitiva dependerá diretamente do diagnóstico da Unidade 7.
 | Carga horária | Provavelmente insuficiente |
 | Sequência curricular | Problemática devido à posição da Termodinâmica |
 | Recomendação | Preservar, aprofundar e possivelmente reposicionar |
+### 8.7 Unidade atual 7 — Termodinâmica e cinética
+
+#### 8.7.1 Função atual
+
+A Unidade atual 7 reúne dois grandes campos da Físico-Química:
+
+- Termodinâmica química;
+- cinética química.
+
+Sua finalidade é relacionar energia, espontaneidade, equilíbrio e velocidade às transformações químicas e à estabilidade de medicamentos.
+
+Com 7 h/a teóricas e 2 h/a práticas, a unidade pretende contemplar:
+
+- primeira e segunda leis da Termodinâmica;
+- entalpia;
+- entropia;
+- energia livre de Gibbs;
+- relação entre energia livre e equilíbrio;
+- velocidade;
+- leis de velocidade;
+- ordem de reação;
+- equação de Arrhenius;
+- cinética de degradação;
+- meia-vida;
+- prazo de validade.
+
+A amplitude é excessiva para a carga horária disponível.
+
+#### 8.7.2 Pontos fortes
+
+A unidade reconhece corretamente que possibilidade termodinâmica e velocidade são dimensões diferentes de uma transformação química.
+
+Os conteúdos selecionados são relevantes para:
+
+- fundamentar o equilíbrio;
+- interpretar a Eletroquímica;
+- compreender a influência da temperatura;
+- estudar degradação;
+- avaliar estabilidade;
+- interpretar meia-vida;
+- discutir prazo de validade;
+- relacionar fenômenos químicos a medicamentos.
+
+As aplicações farmacêuticas são particularmente pertinentes ao curso de Farmácia.
+
+#### 8.7.3 Problema central de agrupamento
+
+Termodinâmica e cinética são áreas relacionadas, mas possuem objetos e linguagens próprios.
+
+A Termodinâmica responde principalmente:
+
+- qual é a variação de energia do processo;
+- se uma transformação é termodinamicamente favorecida;
+- qual é a posição do equilíbrio;
+- como o equilíbrio responde às condições.
+
+A cinética responde:
+
+- com que velocidade a transformação ocorre;
+- qual é sua lei de velocidade;
+- quais fatores modificam a rapidez;
+- qual mecanismo é compatível com os dados;
+- quanto tempo será necessário para determinada alteração.
+
+A reunião dos dois campos em uma única unidade curta favorece tratamento superficial e possível confusão entre espontaneidade e rapidez.
+
+#### 8.7.4 Distinção entre possibilidade e velocidade
+
+A unidade deverá estabelecer explicitamente:
+
+- uma reação espontânea pode ser lenta;
+- uma reação rápida não é necessariamente espontânea no sentido inverso;
+- a Termodinâmica compara estados;
+- a cinética investiga o caminho e a velocidade;
+- catalisadores modificam a velocidade, mas não a constante de equilíbrio;
+- energia de ativação não determina a posição do equilíbrio.
+
+Essa distinção deverá ser retomada em estabilidade farmacêutica, corrosão, oxirredução e análise qualitativa.
+
+#### 8.7.5 Conhecimentos prévios
+
+O desenvolvimento adequado pressupõe conhecimentos sobre:
+
+- matéria e energia;
+- estados físicos;
+- gases e líquidos;
+- temperatura e pressão;
+- quantidade de matéria;
+- concentração;
+- funções matemáticas;
+- logaritmos;
+- interpretação de gráficos;
+- derivada como taxa de variação, em nível introdutório;
+- ajuste de reta;
+- estequiometria.
+
+Para a relação com equilíbrio, também serão utilizados:
+
+- quociente de reação;
+- constante de equilíbrio;
+- atividade;
+- estado padrão.
+
+A sequência curricular deverá decidir quais desses conceitos serão construídos antes e quais serão formalizados nesta unidade.
+
+#### 8.7.6 Sistemas, fronteiras e vizinhança
+
+A Termodinâmica deverá começar pela definição de:
+
+- sistema;
+- vizinhança;
+- fronteira;
+- sistema aberto;
+- sistema fechado;
+- sistema isolado;
+- estado do sistema;
+- processo.
+
+Esses conceitos são necessários para interpretar corretamente trocas de matéria, calor e trabalho.
+
+Exemplos farmacêuticos poderão envolver:
+
+- frasco fechado;
+- sistema aberto durante preparo;
+- calorímetro;
+- reator;
+- embalagem;
+- solução em contato com o ambiente.
+
+#### 8.7.7 Propriedades de estado
+
+A unidade deverá diferenciar:
+
+- propriedades intensivas;
+- propriedades extensivas;
+- funções de estado;
+- grandezas dependentes do caminho.
+
+Deverão ser apresentados exemplos como:
+
+- temperatura;
+- pressão;
+- volume;
+- energia interna;
+- entalpia;
+- entropia;
+- energia livre;
+- calor;
+- trabalho.
+
+O estudante deverá compreender por que calor e trabalho não são propriedades armazenadas no sistema.
+
+#### 8.7.8 Primeira Lei da Termodinâmica
+
+A Primeira Lei deverá ser apresentada como princípio de conservação da energia.
+
+A convenção de sinais escolhida deverá ser declarada e mantida em todo o Livro Mestre.
+
+Poderá ser utilizada:
+
+\[
+\Delta U=q+w
+\]
+
+quando \(w\) representar o trabalho realizado sobre o sistema.
+
+O material deverá explicar:
+
+- energia interna;
+- calor;
+- trabalho;
+- processos endotérmicos e exotérmicos;
+- diferença entre transferência de energia e temperatura;
+- dependência do trabalho em relação ao caminho.
+
+#### 8.7.9 Trabalho de expansão
+
+O trabalho pressão-volume deverá ser introduzido em nível compatível com a disciplina.
+
+Para pressão externa constante:
+
+\[
+w=-P_{\text{ext}}\Delta V
+\]
+
+considerando a convenção adotada.
+
+O conteúdo deverá relacionar:
+
+- expansão;
+- compressão;
+- pressão externa;
+- reversibilidade em nível introdutório;
+- processos com gases;
+- interpretação do sinal.
+
+O desenvolvimento matemático mais avançado poderá ser limitado para preservar a carga horária.
+
+#### 8.7.10 Entalpia
+
+A entalpia deverá ser apresentada como função de estado:
+
+\[
+H=U+PV
+\]
+
+Em condições apropriadas de pressão constante, a variação de entalpia poderá ser relacionada ao calor trocado.
+
+Deverão ser abordados:
+
+- processos endotérmicos e exotérmicos;
+- entalpia de reação;
+- entalpia padrão;
+- entalpia de formação;
+- mudança de fase;
+- dissolução;
+- neutralização;
+- interpretação de diagramas energéticos.
+
+#### 8.7.11 Lei de Hess
+
+A Lei de Hess deverá ser incluída como consequência do caráter de função de estado da entalpia.
+
+O estudante deverá aprender a:
+
+- inverter equações termoquímicas;
+- multiplicar equações e entalpias;
+- somar etapas;
+- calcular entalpia global;
+- utilizar entalpias padrão de formação;
+- interpretar o resultado.
+
+Sua função pedagógica será mostrar que a variação global independe do caminho, mesmo quando o mecanismo não é conhecido.
+
+#### 8.7.12 Calorimetria
+
+A unidade atual não explicita calorimetria, embora ela forneça conexão experimental importante para a Primeira Lei.
+
+Poderão ser incluídos:
+
+- capacidade térmica;
+- calor específico;
+- balanço de energia;
+- calorímetro;
+- calibração;
+- perdas de calor;
+- limitações experimentais.
+
+Uma prática simples de calorimetria poderá oferecer melhor correspondência experimental à Termodinâmica do que uma abordagem apenas expositiva.
+
+#### 8.7.13 Segunda Lei da Termodinâmica
+
+A Segunda Lei deverá ser apresentada como fundamento da direção dos processos e da irreversibilidade.
+
+O material deverá desenvolver:
+
+- processos espontâneos;
+- irreversibilidade;
+- dispersão de energia;
+- multiplicidade em nível conceitual;
+- entropia;
+- universo termodinâmico.
+
+A expressão:
+
+\[
+\Delta S_{\text{universo}}>0
+\]
+
+deverá ser interpretada para processos espontâneos, com discussão das condições e do significado das grandezas envolvidas.
+
+#### 8.7.14 Entropia
+
+A entropia deverá ser tratada como função de estado, evitando defini-la apenas como “desordem”.
+
+A linguagem de desordem poderá gerar interpretações inadequadas e deverá ser substituída ou complementada por conceitos como:
+
+- dispersão de energia;
+- número de estados microscópicos;
+- distribuição das partículas e da energia;
+- direção dos processos.
+
+Poderão ser analisadas qualitativamente mudanças de entropia em:
+
+- aquecimento;
+- expansão;
+- mistura;
+- mudança de fase;
+- dissolução;
+- reações químicas.
+
+#### 8.7.15 Terceira Lei e entropias absolutas
+
+A Terceira Lei poderá ser apresentada brevemente para fundamentar o uso de entropias molares padrão.
+
+O nível de aprofundamento deverá ser compatível com a carga horária.
+
+A unidade poderá mostrar como valores tabelados permitem calcular:
+
+\[
+\Delta_rS^\circ
+\]
+
+a partir das entropias padrão de produtos e reagentes.
+
+#### 8.7.16 Energia livre de Gibbs
+
+A energia livre de Gibbs deverá ser introduzida como função adequada para avaliar processos a temperatura e pressão constantes:
+
+\[
+G=H-TS
+\]
+
+e:
+
+\[
+\Delta G=\Delta H-T\Delta S
+\]
+
+quando as condições permitirem essa forma.
+
+O estudante deverá interpretar:
+
+- \(\Delta G<0\): processo termodinamicamente favorecido;
+- \(\Delta G=0\): equilíbrio;
+- \(\Delta G>0\): processo não favorecido no sentido escrito.
+
+Deverá ser evitado o uso da expressão “a reação acontece” quando apenas a tendência termodinâmica tiver sido estabelecida.
+
+#### 8.7.17 Dependência da espontaneidade com a temperatura
+
+A relação entre entalpia, entropia e temperatura deverá ser explorada qualitativamente.
+
+Deverão ser examinadas as combinações de sinais de:
+
+- \(\Delta H\);
+- \(\Delta S\);
+- \(\Delta G\).
+
+O estudante deverá compreender por que a temperatura pode alterar a tendência termodinâmica de um processo.
+
+Essa análise contribuirá para interpretar:
+
+- dissolução;
+- mudança de fase;
+- estabilidade;
+- deslocamento de equilíbrios;
+- processos farmacêuticos.
+
+#### 8.7.18 Estado padrão e grandezas padrão
+
+A unidade deverá definir cuidadosamente:
+
+- estado padrão;
+- grandezas padrão;
+- símbolo de grau;
+- diferença entre condição padrão e condições experimentais;
+- dependência com a temperatura.
+
+Também deverá evitar confundir estado padrão termodinâmico com condições normais de temperatura e pressão ou com uma única temperatura obrigatória.
+
+#### 8.7.19 Energia livre e quociente de reação
+
+A relação fundamental deverá ser desenvolvida:
+
+\[
+\Delta_rG=\Delta_rG^\circ+RT\ln Q
+\]
+
+Essa expressão permitirá integrar:
+
+- composição do sistema;
+- direção termodinâmica;
+- estado padrão;
+- quociente de reação;
+- equilíbrio.
+
+O estudante deverá compreender que \(\Delta_rG\) depende da composição instantânea, enquanto \(\Delta_rG^\circ\) corresponde às condições padrão definidas.
+
+#### 8.7.20 Energia livre e equilíbrio
+
+No equilíbrio:
+
+\[
+\Delta_rG=0
+\]
+
+e \(Q=K\), resultando em:
+
+\[
+\Delta_rG^\circ=-RT\ln K
+\]
+
+Essa relação deverá fundamentar:
+
+- magnitude das constantes;
+- favorecimento de produtos ou reagentes;
+- influência da temperatura;
+- conexão entre Termodinâmica e equilíbrio químico.
+
+Ela atualmente aparece de forma implícita depois da Unidade 2, o que confirma o problema de sequência curricular.
+
+#### 8.7.21 Dependência da constante de equilíbrio com a temperatura
+
+A relação de van ’t Hoff poderá ser incorporada em nível compatível com a disciplina:
+
+\[
+\frac{d\ln K}{dT}=\frac{\Delta_rH^\circ}{RT^2}
+\]
+
+Sua forma integrada poderá ser utilizada sob as aproximações correspondentes.
+
+O objetivo será substituir interpretações exclusivamente qualitativas de Le Chatelier por uma fundamentação termodinâmica da influência da temperatura sobre o equilíbrio.
+
+#### 8.7.22 Termodinâmica e Eletroquímica
+
+A Termodinâmica deverá fornecer a base para:
+
+\[
+\Delta_rG=-nFE
+\]
+
+e:
+
+\[
+\Delta_rG^\circ=-nFE^\circ
+\]
+
+Combinadas com a relação entre energia livre e equilíbrio, essas expressões explicam:
+
+- potencial da célula;
+- espontaneidade;
+- constante de equilíbrio redox;
+- equação de Nernst.
+
+Esse vínculo sustenta a recomendação de posicionar Termodinâmica antes da Eletroquímica.
+
+#### 8.7.23 Limites da Termodinâmica
+
+A unidade deverá deixar explícito que a Termodinâmica não informa:
+
+- a velocidade;
+- o mecanismo;
+- o tempo necessário;
+- a energia de ativação;
+- a vida útil de um produto sem dados cinéticos.
+
+Ela informa relações entre estados e tendências sob condições definidas.
+
+Essa delimitação deverá preparar a transição para cinética química.
+
+#### 8.7.24 Velocidade de reação
+
+A cinética deverá começar pela definição de velocidade como variação de concentração por unidade de tempo.
+
+Para uma reação geral, a expressão deverá considerar os coeficientes estequiométricos, permitindo uma definição única da velocidade da reação.
+
+Deverão ser diferenciadas:
+
+- velocidade média;
+- velocidade instantânea;
+- velocidade de consumo;
+- velocidade de formação;
+- sinal das variações;
+- unidade da velocidade.
+
+Gráficos de concentração em função do tempo deverão acompanhar a explicação.
+
+#### 8.7.25 Lei de velocidade
+
+A lei de velocidade deverá ser apresentada como relação determinada experimentalmente:
+
+\[
+v=k[A]^m[B]^n
+\]
+
+O estudante deverá compreender que:
+
+- os expoentes não são obtidos automaticamente da equação global;
+- a ordem depende do mecanismo;
+- a constante de velocidade depende da temperatura e do meio;
+- diferentes reações possuem leis distintas;
+- a lei deverá ser inferida a partir de dados.
+
+#### 8.7.26 Ordem de reação
+
+Deverão ser definidos:
+
+- ordem em relação a cada reagente;
+- ordem global;
+- reação de ordem zero;
+- primeira ordem;
+- segunda ordem;
+- ordens não inteiras;
+- pseudo-ordem.
+
+A unidade deverá enfatizar que ordem de reação é uma característica empírica da lei de velocidade e não um simples coeficiente estequiométrico.
+
+#### 8.7.27 Unidades da constante de velocidade
+
+As unidades de \(k\) deverão ser derivadas a partir da lei de velocidade.
+
+O estudante deverá reconhecer que elas variam com a ordem global.
+
+Essa abordagem ajudará a:
+
+- verificar coerência dimensional;
+- identificar erros de cálculo;
+- interpretar resultados experimentais;
+- comparar modelos corretamente.
+
+#### 8.7.28 Leis integradas de velocidade
+
+As leis integradas deverão ser desenvolvidas para os modelos mais importantes:
+
+- ordem zero;
+- primeira ordem;
+- segunda ordem em casos selecionados.
+
+Deverão ser relacionados:
+
+- equação integrada;
+- gráfico linearizado;
+- inclinação;
+- intercepto;
+- unidade de \(k\);
+- comportamento da concentração;
+- meia-vida.
+
+O uso de linearizações deverá ser acompanhado da discussão de suas limitações.
+
+#### 8.7.29 Determinação da ordem de reação
+
+A determinação da ordem poderá utilizar:
+
+- método das velocidades iniciais;
+- comparação de meias-vidas;
+- formas integradas;
+- inspeção gráfica;
+- ajuste por regressão;
+- análise de resíduos, em nível introdutório.
+
+Não se deverá escolher automaticamente o modelo apenas pelo maior valor de \(R^2\). A coerência química e a distribuição dos resíduos também deverão ser consideradas.
+
+#### 8.7.30 Meia-vida
+
+A meia-vida deverá ser definida como o tempo necessário para que a concentração ou quantidade alcance metade do valor inicial dentro do modelo adotado.
+
+O estudante deverá compreender que sua expressão depende da ordem:
+
+- na primeira ordem, independe da concentração inicial;
+- na ordem zero, depende da concentração inicial;
+- na segunda ordem, apresenta outra dependência.
+
+A expressão de primeira ordem não deverá ser aplicada indiscriminadamente.
+
+#### 8.7.31 Prazo de validade e \(t_{90}\)
+
+Meia-vida e prazo de validade não são sinônimos.
+
+Em muitos estudos farmacêuticos, utiliza-se \(t_{90}\), o tempo estimado para que permaneçam 90% da concentração inicial, quando esse critério é aplicável.
+
+A unidade deverá diferenciar:
+
+- \(t_{1/2}\);
+- \(t_{90}\);
+- especificação de teor;
+- prazo de validade;
+- período de uso;
+- estabilidade química;
+- estabilidade física;
+- estabilidade microbiológica.
+
+O prazo de validade real não deverá ser reduzido a um cálculo cinético isolado.
+
+#### 8.7.32 Fatores que afetam a velocidade
+
+A unidade deverá desenvolver:
+
+- concentração;
+- temperatura;
+- natureza dos reagentes;
+- solvente;
+- pH;
+- força iônica;
+- luz;
+- catalisadores;
+- área superficial;
+- oxigênio;
+- metais;
+- umidade;
+- estado físico.
+
+Cada fator deverá ser relacionado ao mecanismo e às condições do sistema, evitando listas sem explicação.
+
+#### 8.7.33 Energia de ativação
+
+A energia de ativação deverá ser apresentada como barreira energética associada ao caminho da reação.
+
+O conteúdo deverá diferenciar:
+
+- energia de ativação;
+- variação de entalpia;
+- energia livre;
+- estabilidade termodinâmica;
+- velocidade.
+
+Diagramas de energia deverão mostrar que catalisadores alteram o caminho e a barreira, mas não a diferença de energia entre os estados inicial e final.
+
+#### 8.7.34 Equação de Arrhenius
+
+A equação de Arrhenius deverá ser desenvolvida:
+
+\[
+k=Ae^{-E_a/(RT)}
+\]
+
+e em forma linear:
+
+\[
+\ln k=\ln A-\frac{E_a}{RT}
+\]
+
+O estudante deverá interpretar:
+
+- constante de velocidade;
+- fator pré-exponencial;
+- energia de ativação;
+- temperatura absoluta;
+- inclinação do gráfico de \(\ln k\) em função de \(1/T\).
+
+Também deverão ser discutidas as hipóteses e limitações da extrapolação.
+
+#### 8.7.35 Catalisadores
+
+A unidade deverá explicar que catalisadores:
+
+- oferecem caminho alternativo;
+- modificam a velocidade;
+- não são consumidos globalmente;
+- aceleram os sentidos direto e inverso;
+- não alteram a constante de equilíbrio;
+- não modificam \(\Delta G^\circ\).
+
+Poderão ser relacionados a:
+
+- catálise ácida e básica;
+- catálise por metais;
+- enzimas;
+- degradação farmacêutica;
+- controle de impurezas.
+
+#### 8.7.36 Mecanismos de reação
+
+Os mecanismos poderão ser introduzidos em nível qualitativo.
+
+Deverão ser abordados:
+
+- etapas elementares;
+- intermediários;
+- etapa determinante da velocidade;
+- molecularidade;
+- diferença entre mecanismo e equação global;
+- compatibilidade entre mecanismo e lei de velocidade.
+
+O aprofundamento deverá ser limitado pela carga horária e pela finalidade da disciplina.
+
+#### 8.7.37 Reações de pseudo-ordem
+
+As condições de pseudo-ordem são importantes para sistemas farmacêuticos.
+
+Quando um reagente está em grande excesso, sua concentração pode permanecer aproximadamente constante e ser incorporada à constante observada.
+
+Essa abordagem é especialmente relevante para:
+
+- hidrólise em meio aquoso;
+- reações com solvente;
+- degradações conduzidas sob condições controladas;
+- interpretação de dados experimentais.
+
+#### 8.7.38 Reações complexas e modelos empíricos
+
+A degradação de medicamentos nem sempre segue uma única reação elementar.
+
+Poderão ocorrer:
+
+- reações paralelas;
+- reações consecutivas;
+- processos reversíveis;
+- múltiplos mecanismos;
+- alterações físicas simultâneas;
+- mudança de mecanismo com temperatura ou pH.
+
+Os modelos de ordem zero, primeira e segunda ordem deverão ser apresentados como modelos úteis, mas não universais.
+
+#### 8.7.39 Estabilidade farmacêutica
+
+A estabilidade de medicamentos deverá ser tratada de forma multidimensional.
+
+Deverão ser diferenciadas:
+
+- estabilidade química;
+- estabilidade física;
+- estabilidade microbiológica;
+- estabilidade terapêutica;
+- estabilidade toxicológica;
+- integridade da embalagem.
+
+A cinética química é fundamental, mas não esgota a avaliação da estabilidade de um produto.
+
+#### 8.7.40 Vias de degradação
+
+Poderão ser utilizados exemplos de:
+
+- hidrólise;
+- oxidação;
+- fotodegradação;
+- isomerização;
+- racemização;
+- polimerização;
+- reações entre componentes;
+- degradação catalisada por pH;
+- degradação catalisada por metais.
+
+Os exemplos deverão ser selecionados pela relevância farmacêutica e pela possibilidade de integração com outras unidades.
+
+#### 8.7.41 Estudos de estabilidade acelerada
+
+Os estudos acelerados deverão ser apresentados com rigor.
+
+A elevação da temperatura pode aumentar a velocidade e permitir estimativas, mas a extrapolação pressupõe que:
+
+- o mecanismo relevante permaneça compatível;
+- o modelo cinético seja adequado;
+- não ocorra mudança de fase;
+- a embalagem e o meio permaneçam representativos;
+- outros fatores não se tornem dominantes.
+
+A equação de Arrhenius não deverá ser utilizada como justificativa automática de prazo de validade.
+
+#### 8.7.42 Estabilidade e regulamentação
+
+Quando o material abordar prazo de validade e estudos de estabilidade, deverá recorrer às normas sanitárias e guias vigentes no momento da redação da unidade.
+
+Deverão ser diferenciados:
+
+- exemplo didático;
+- estimativa matemática;
+- estudo regulatório;
+- especificação de produto;
+- decisão formal sobre prazo de validade.
+
+Nenhum exemplo simplificado deverá ser apresentado como substituto de um protocolo regulatório completo.
+
+#### 8.7.43 Tratamento de dados cinéticos
+
+A unidade deverá incorporar princípios básicos de qualidade dos dados:
+
+- registro do tempo;
+- replicatas;
+- branco;
+- calibração;
+- incerteza;
+- algarismos significativos;
+- gráfico;
+- ajuste do modelo;
+- análise de resíduos;
+- identificação de pontos discrepantes;
+- justificativa para exclusões.
+
+O uso de planilhas deverá apoiar a interpretação, não substituir o raciocínio químico.
+
+#### 8.7.44 Aplicações à análise qualitativa
+
+A cinética também interfere na análise qualitativa.
+
+Uma reação de identificação pode falhar ou produzir resultado ambíguo quando:
+
+- é muito lenta;
+- depende de aquecimento;
+- exige tempo de indução;
+- forma intermediários;
+- sofre reação paralela;
+- apresenta precipitação lenta;
+- depende da ordem de adição;
+- é limitada por mistura ou transferência de massa.
+
+A unidade deverá mostrar que uma reação termodinamicamente favorável pode não gerar resposta útil no tempo da análise.
+
+#### 8.7.45 Atividades práticas atuais
+
+As práticas sugeridas são coerentes com a cinética:
+
+- acompanhamento da degradação de composto-modelo;
+- determinação da ordem;
+- cálculo de meia-vida;
+- estimativa de prazo de validade.
+
+Entretanto, essas atividades constituem etapas de uma mesma investigação e poderão ser organizadas como prática integrada.
+
+O roteiro deverá definir:
+
+- composto-modelo;
+- método de acompanhamento;
+- intervalo de amostragem;
+- condições de temperatura e pH;
+- tratamento dos dados;
+- critérios de escolha do modelo;
+- limitações da estimativa;
+- segurança;
+- descarte.
+
+#### 8.7.46 Ausência de prática termodinâmica
+
+A proposta atual dedica as atividades práticas exclusivamente à cinética.
+
+Isso produz desequilíbrio entre os dois campos agrupados.
+
+Poderão ser consideradas atividades termodinâmicas como:
+
+- calorimetria de neutralização;
+- entalpia de dissolução;
+- verificação da Lei de Hess;
+- influência da temperatura sobre um equilíbrio;
+- determinação simplificada de grandeza termodinâmica;
+- simulação de \(\Delta G\), \(Q\) e \(K\).
+
+A seleção deverá considerar precisão, tempo e disponibilidade de equipamentos.
+
+#### 8.7.47 Possibilidades de práticas cinéticas
+
+Poderão ser avaliadas:
+
+- reação colorida acompanhada por absorbância ou análise de imagem;
+- degradação de composto-modelo seguro;
+- influência da temperatura;
+- influência do pH;
+- determinação de ordem;
+- estimativa de \(k\);
+- cálculo de \(t_{1/2}\) e \(t_{90}\);
+- construção de gráfico de Arrhenius;
+- comparação entre modelos;
+- simulação com dados farmacêuticos anonimizados ou didáticos.
+
+A escolha deverá evitar processos que produzam resultados pouco reprodutíveis no tempo disponível.
+
+#### 8.7.48 Segurança e responsabilidade ambiental
+
+As práticas deverão ser avaliadas quanto a:
+
+- aquecimento;
+- recipientes pressurizados;
+- substâncias inflamáveis;
+- oxidantes;
+- ácidos e bases;
+- produtos de degradação desconhecidos;
+- exposição à luz ultravioleta;
+- uso de solventes;
+- descarte de soluções;
+- riscos de equipamentos elétricos e banhos térmicos.
+
+Os compostos-modelo deverão possuir risco reduzido e rota de descarte definida.
+
+Medicamentos comerciais não deverão ser descartados indiscriminadamente após as atividades.
+
+#### 8.7.49 Carga horária
+
+A carga atual de 7 h/a teóricas e 2 h/a práticas é claramente insuficiente para desenvolver com rigor Termodinâmica e cinética.
+
+Somente a Termodinâmica proposta envolve:
+
+- Primeira Lei;
+- trabalho e calor;
+- entalpia;
+- entropia;
+- energia livre;
+- espontaneidade;
+- equilíbrio;
+- temperatura;
+- Eletroquímica.
+
+A cinética envolve:
+
+- velocidade;
+- leis diferenciais e integradas;
+- ordem;
+- Arrhenius;
+- mecanismos;
+- degradação;
+- estabilidade;
+- tratamento de dados.
+
+A compressão compromete tanto a fundamentação matemática quanto as aplicações farmacêuticas.
+
+#### 8.7.50 Problema de sequência curricular
+
+A posição atual da unidade é inadequada para a fundamentação pretendida.
+
+A Termodinâmica aparece depois de:
+
+- equilíbrio químico;
+- ácido-base;
+- solubilidade;
+- complexação;
+- Eletroquímica.
+
+Entretanto, energia livre é necessária para fundamentar:
+
+- espontaneidade;
+- constante de equilíbrio;
+- influência da temperatura;
+- potenciais eletroquímicos;
+- equação de Nernst.
+
+Recomenda-se antecipar a Termodinâmica para antes do equilíbrio químico ou, no mínimo, antes da Eletroquímica.
+
+#### 8.7.51 Necessidade de desmembramento
+
+A análise preliminar recomenda separar os dois campos.
+
+Uma organização possível será:
+
+**Unidade de Termodinâmica química**
+
+- sistemas e funções de estado;
+- Primeira Lei;
+- entalpia;
+- Segunda Lei;
+- entropia;
+- energia livre;
+- espontaneidade;
+- relação com equilíbrio.
+
+**Unidade de cinética química e estabilidade**
+
+- velocidade;
+- leis de velocidade;
+- ordem;
+- temperatura;
+- Arrhenius;
+- mecanismos;
+- degradação;
+- estabilidade farmacêutica.
+
+O desmembramento permitirá reposicionar a Termodinâmica e manter a cinética próxima das aplicações de estabilidade.
+
+#### 8.7.52 Repetições e conexões
+
+A unidade apresenta conexões com praticamente todo o Livro Mestre:
+
+- gases e líquidos;
+- soluções;
+- propriedades coligativas;
+- equilíbrio;
+- ácido-base;
+- solubilidade;
+- complexação;
+- Eletroquímica;
+- interfaces;
+- análise qualitativa;
+- estabilidade farmacêutica.
+
+A nova organização deverá distribuir essas conexões sem repetir conteúdos completos.
+
+A Termodinâmica fornecerá fundamentos; as demais unidades aplicarão esses fundamentos.
+
+#### 8.7.53 Lacunas principais
+
+As principais lacunas identificadas são:
+
+- sistema, vizinhança e fronteira não explicitados;
+- funções de estado não indicadas;
+- trabalho e calor não desenvolvidos;
+- Lei de Hess ausente;
+- calorimetria ausente;
+- estado padrão não explicitado;
+- relação entre \(\Delta G\), \(Q\) e \(K\) insuficientemente detalhada;
+- dependência de \(K\) com a temperatura não indicada;
+- Termodinâmica posicionada tarde demais;
+- ordem e molecularidade não diferenciadas;
+- leis integradas não explicitadas;
+- unidades de \(k\) não indicadas;
+- pseudo-ordem ausente;
+- mecanismos não explicitados;
+- meia-vida confundível com prazo de validade;
+- \(t_{90}\) ausente;
+- limites dos estudos acelerados não indicados;
+- ausência de prática termodinâmica;
+- carga horária insuficiente.
+
+#### 8.7.54 Recomendação preliminar
+
+Recomenda-se:
+
+- desmembrar Termodinâmica e cinética;
+- posicionar Termodinâmica antes do equilíbrio químico;
+- utilizar Termodinâmica para fundamentar \(K\), espontaneidade e Eletroquímica;
+- posicionar cinética depois dos principais equilíbrios ou em bloco próprio de transformação e estabilidade;
+- desenvolver leis integradas e tratamento de dados;
+- distinguir meia-vida, \(t_{90}\) e prazo de validade;
+- abordar estudos acelerados com suas limitações;
+- incluir ao menos uma atividade termodinâmica;
+- ampliar a carga horária total destinada aos dois campos;
+- preservar a forte contextualização farmacêutica.
+
+Essa recomendação deverá orientar diretamente a elaboração do novo sumário.
+
+#### 8.7.55 Conclusão diagnóstica
+
+| Critério | Diagnóstico |
+|---|---|
+| Relevância da Termodinâmica | Essencial |
+| Relevância da cinética | Essencial |
+| Agrupamento atual | Inadequado pela amplitude |
+| Primeira Lei | Necessita maior desenvolvimento |
+| Entalpia | Deve ser aprofundada |
+| Calorimetria | Ausente |
+| Segunda Lei e entropia | Necessitam tratamento conceitual cuidadoso |
+| Energia livre | Central e posicionada tardiamente |
+| Relação entre \(\Delta G\), \(Q\) e \(K\) | Deve ser explicitada |
+| Relação com Eletroquímica | Fundamental |
+| Velocidade e lei de velocidade | Devem ser sistematizadas |
+| Ordens de reação | Relevantes, com necessidade de modelos integrados |
+| Equação de Arrhenius | Deve ser preservada com limitações |
+| Cinética de degradação | Muito relevante |
+| Meia-vida | Não deve ser confundida com prazo de validade |
+| \(t_{90}\) | Precisa ser incorporado |
+| Estudos acelerados | Necessitam rigor e limites |
+| Aplicações farmacêuticas | Muito fortes |
+| Aplicações analíticas | Devem ser ampliadas |
+| Práticas termodinâmicas | Ausentes |
+| Práticas cinéticas | Pertinentes, mas precisam de integração |
+| Segurança | Riscos controláveis com seleção adequada |
+| Carga horária | Claramente insuficiente |
+| Sequência curricular | Inadequada |
+| Recomendação | Desmembrar, ampliar e reposicionar |
