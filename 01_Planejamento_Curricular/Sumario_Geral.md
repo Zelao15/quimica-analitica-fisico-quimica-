@@ -5598,3 +5598,1123 @@ Não se recomenda desmembrar imediatamente a unidade. Sua abrangência deverá s
 | Carga horária | Severamente insuficiente |
 | Delimitação curricular | Necessária em relação à Tecnologia Farmacêutica |
 | Recomendação | Preservar, ampliar e delimitar |
+### 8.9 Unidade atual 9 — Análise qualitativa sistemática
+
+#### 8.9.1 Função atual
+
+A Unidade atual 9 integra os equilíbrios estudados anteriormente na separação e identificação de cátions e ânions.
+
+Com 6 h/a teóricas e 13 h/a práticas, deverá culminar na análise de uma amostra desconhecida e na elaboração de relatório fundamentado.
+
+Sua função é transformar conhecimentos sobre:
+
+- pH;
+- solubilidade;
+- precipitação;
+- complexação;
+- mascaramento;
+- oxirredução;
+- cinética;
+- interfaces;
+- seletividade;
+
+em uma estratégia racional de análise química.
+
+#### 8.9.2 Pontos fortes
+
+A unidade possui elevada coerência com a grande ideia da disciplina.
+
+Ela reúne:
+
+- lógica da marcha analítica;
+- controle de pH;
+- precipitação seletiva;
+- produto de solubilidade;
+- efeito do íon comum;
+- complexação;
+- mascaramento;
+- reações redox;
+- interferências;
+- testes confirmatórios;
+- análise de amostra desconhecida;
+- relatório técnico.
+
+A carga prática expressiva reconhece corretamente que a competência analítica exige experiência de laboratório.
+
+#### 8.9.3 Função de síntese curricular
+
+A análise sistemática deverá funcionar como síntese, não como conjunto independente de receitas.
+
+Cada etapa deverá responder:
+
+- qual espécie está presente;
+- em qual forma química;
+- qual equilíbrio será controlado;
+- por que o reagente foi escolhido;
+- qual interferente poderá reagir;
+- qual observação é esperada;
+- como a separação será verificada;
+- quais resíduos serão produzidos;
+- qual conclusão pode ser sustentada.
+
+A marcha analítica deverá ser compreendida como encadeamento de decisões químicas.
+
+#### 8.9.4 Conhecimentos prévios
+
+A unidade pressupõe domínio funcional de:
+
+- preparo e diluição de soluções;
+- atividade e força iônica;
+- equilíbrio químico;
+- ácido-base;
+- soluções tampão;
+- solubilidade;
+- produto de solubilidade;
+- precipitação seletiva;
+- complexação;
+- mascaramento;
+- oxirredução;
+- cinética;
+- fenômenos coloidais;
+- segurança química;
+- registro de dados.
+
+As unidades anteriores deverão preparar progressivamente essas competências.
+
+#### 8.9.5 Natureza da análise qualitativa
+
+A análise qualitativa deverá ser apresentada como processo destinado a produzir evidência sobre a identidade ou presença de espécies químicas.
+
+Ela poderá envolver:
+
+- observação inicial;
+- preparação da amostra;
+- separação;
+- teste de grupo;
+- teste confirmatório;
+- controle;
+- comparação;
+- exclusão de interferências;
+- interpretação;
+- comunicação da conclusão.
+
+A presença de uma cor ou precipitado, isoladamente, não constitui sempre identificação conclusiva.
+
+#### 8.9.6 Evidência analítica
+
+O material deverá distinguir:
+
+- indício;
+- resposta de triagem;
+- separação;
+- reação característica;
+- confirmação;
+- conclusão.
+
+Uma identificação confiável poderá exigir:
+
+- resposta positiva;
+- controle adequado;
+- ausência de interferência relevante;
+- reação confirmatória;
+- coerência com as etapas anteriores;
+- repetição, quando necessária.
+
+A força da conclusão deverá ser proporcional à qualidade das evidências obtidas.
+
+#### 8.9.7 Seletividade e especificidade
+
+Os termos deverão ser utilizados com rigor.
+
+A unidade deverá discutir:
+
+- seletividade;
+- especificidade;
+- sensibilidade;
+- interferência;
+- matriz;
+- limite de observação;
+- falso positivo;
+- falso negativo.
+
+Poucas reações químicas clássicas são absolutamente específicas. A seletividade geralmente resulta da combinação entre condições, separações e confirmações.
+
+#### 8.9.8 Sensibilidade dos testes
+
+A sensibilidade de um teste qualitativo depende de:
+
+- concentração;
+- volume;
+- contraste visual;
+- iluminação;
+- equilíbrio químico;
+- tempo;
+- temperatura;
+- interferentes;
+- técnica do analista;
+- método de observação.
+
+O material poderá introduzir conceitos como:
+
+- limite de identificação;
+- concentração limite;
+- diluição limite;
+
+quando forem pedagogicamente úteis e acompanhados de definição adequada.
+
+#### 8.9.9 Ensaios preliminares
+
+Os ensaios preliminares deverão ser utilizados de forma criteriosa.
+
+Poderão incluir:
+
+- aspecto;
+- cor;
+- odor apenas quando o procedimento for seguro e autorizado;
+- pH;
+- solubilidade;
+- comportamento ao aquecimento controlado;
+- reação com ácido ou base;
+- formação de gás;
+- chama, quando pertinente e segura;
+- condutividade ou outras medidas simples.
+
+Nunca deverá ser orientada a inalação direta de vapores ou gases.
+
+#### 8.9.10 Amostragem e identificação da amostra
+
+Antes da análise, deverão ser considerados:
+
+- origem;
+- identificação;
+- homogeneidade;
+- quantidade disponível;
+- contaminação;
+- recipiente;
+- conservação;
+- rastreabilidade;
+- risco químico;
+- representatividade.
+
+Mesmo em atividades didáticas, as amostras desconhecidas deverão possuir código, composição conhecida pelo responsável e avaliação prévia de risco.
+
+#### 8.9.11 Preparação e dissolução da amostra
+
+A unidade deverá abordar a preparação da solução de análise.
+
+Deverão ser considerados:
+
+- dissolução em água;
+- ajuste de pH;
+- dissolução ácida ou básica;
+- filtração;
+- centrifugação;
+- diluição;
+- remoção de interferentes;
+- preservação das espécies;
+- alteração do estado de oxidação;
+- possível perda de componentes voláteis.
+
+A preparação não deverá modificar inadvertidamente a espécie que se pretende identificar.
+
+#### 8.9.12 Planejamento da marcha analítica
+
+A marcha deverá ser apresentada como sequência lógica de operações.
+
+O planejamento deverá considerar:
+
+- composição provável;
+- reagentes de grupo;
+- ordem das separações;
+- seletividade;
+- compatibilidade entre etapas;
+- necessidade de conservar alíquotas;
+- riscos;
+- resíduos;
+- tempo;
+- critérios de decisão.
+
+Fluxogramas poderão representar as etapas, mas cada bifurcação deverá possuir justificativa química.
+
+#### 8.9.13 Separação e identificação
+
+A unidade deverá distinguir claramente:
+
+- separar uma espécie ou grupo;
+- identificar a espécie.
+
+A formação de um precipitado de grupo pode indicar que uma ou mais espécies reagiram, mas não identifica automaticamente qual cátion está presente.
+
+Depois da separação, deverão ser realizados testes confirmatórios adequados.
+
+#### 8.9.14 Controle de pH
+
+O pH deverá ser tratado como variável central.
+
+Ele controla:
+
+- precipitação de hidróxidos;
+- formação de sulfetos;
+- protonação de ânions;
+- complexação;
+- reações redox;
+- dissolução de precipitados;
+- seletividade;
+- estabilidade dos reagentes.
+
+O ajuste de pH deverá ser justificado por equilíbrios, e não apresentado como instrução operacional isolada.
+
+#### 8.9.15 Precipitação seletiva
+
+A precipitação seletiva deverá retomar:
+
+- \(K_{ps}\);
+- \(Q_{ps}\);
+- início da precipitação;
+- concentração residual;
+- extensão da separação;
+- efeito do íon comum;
+- influência do pH;
+- complexação;
+- coprecipitação.
+
+A simples existência de diferença entre produtos de solubilidade não garante separação adequada.
+
+#### 8.9.16 Complexação e mascaramento
+
+A complexação poderá ser utilizada para:
+
+- manter uma espécie em solução;
+- dissolver um precipitado;
+- produzir cor;
+- mascarar interferentes;
+- alterar seletividade;
+- controlar a concentração do íon livre.
+
+O estudante deverá identificar:
+
+- ligante empregado;
+- espécies concorrentes;
+- influência do pH;
+- possibilidade de desmascaramento;
+- limitações da estratégia.
+
+#### 8.9.17 Reações de oxirredução
+
+Reações redox poderão ser utilizadas para:
+
+- alterar estado de oxidação;
+- produzir espécie colorida;
+- dissolver ou formar precipitado;
+- remover interferente;
+- confirmar analito.
+
+Deverão ser consideradas:
+
+- potencial;
+- pH;
+- complexação;
+- velocidade;
+- excesso de reagente;
+- estabilidade do produto;
+- risco do oxidante ou redutor.
+
+#### 8.9.18 Interferências
+
+As interferências deverão ser classificadas e discutidas.
+
+Poderão ocorrer por:
+
+- reação semelhante;
+- competição pelo reagente;
+- consumo do reagente;
+- alteração do pH;
+- complexação;
+- oxirredução;
+- adsorção;
+- coprecipitação;
+- cor ou turbidez;
+- contaminação;
+- matriz.
+
+O estudante deverá propor maneiras de reconhecer, reduzir ou controlar a interferência.
+
+#### 8.9.19 Controles experimentais
+
+As práticas deverão incorporar, quando apropriado:
+
+- controle positivo;
+- controle negativo;
+- branco de reagentes;
+- amostra de referência;
+- repetição;
+- teste da eficiência da separação;
+- verificação da lavagem.
+
+Esses controles permitirão distinguir resposta verdadeira de contaminação, falha do reagente ou interpretação incorreta.
+
+#### 8.9.20 Ordem de adição e técnica operacional
+
+A ordem de adição dos reagentes pode modificar:
+
+- pH local;
+- supersaturação;
+- tamanho das partículas;
+- complexação;
+- estado de oxidação;
+- excesso de reagente;
+- observação final.
+
+O estudante deverá compreender por que determinada ordem é especificada.
+
+Também deverão ser padronizados:
+
+- mistura;
+- aquecimento;
+- repouso;
+- centrifugação;
+- lavagem;
+- transferência;
+- conservação de sobrenadantes.
+
+#### 8.9.21 Separação de fases
+
+A unidade deverá desenvolver técnicas básicas como:
+
+- decantação;
+- centrifugação;
+- filtração;
+- lavagem;
+- redispersão;
+- transferência do sobrenadante.
+
+Deverão ser discutidos:
+
+- perda de material;
+- contaminação cruzada;
+- ressuspensão;
+- passagem de partículas;
+- adsorção;
+- escolha do método;
+- conservação das frações.
+
+#### 8.9.22 Lavagem de precipitados
+
+A lavagem deverá ser explicada como etapa analítica.
+
+O líquido de lavagem deverá:
+
+- remover espécies aderidas;
+- evitar dissolução excessiva;
+- limitar peptização;
+- não introduzir interferentes;
+- ser compatível com o teste posterior.
+
+A escolha não deverá ser reduzida ao uso automático de água.
+
+#### 8.9.23 Fenômenos coloidais na marcha
+
+Precipitados coloidais podem:
+
+- permanecer dispersos;
+- atravessar filtros;
+- adsorver íons;
+- sofrer peptização;
+- coagular;
+- contaminar separações;
+- dificultar a observação.
+
+A unidade deverá retomar os fundamentos de interfaces e coloides para explicar esses problemas.
+
+#### 8.9.24 Coprecipitação e pós-precipitação
+
+A unidade deverá considerar:
+
+- adsorção superficial;
+- oclusão;
+- inclusão;
+- aprisionamento;
+- pós-precipitação.
+
+Esses fenômenos podem produzir falsos resultados ou comprometer a seletividade.
+
+Sua discussão reforçará que uma marcha real não corresponde a uma sequência ideal de equilíbrios independentes.
+
+#### 8.9.25 Testes confirmatórios
+
+Um teste confirmatório deverá apresentar:
+
+- fundamento;
+- espécie identificada;
+- condições;
+- resposta esperada;
+- interferentes;
+- controles;
+- sensibilidade;
+- limitações;
+- descarte.
+
+Sempre que possível, deverá ser utilizado teste baseado em princípio diferente daquele empregado na separação.
+
+#### 8.9.26 Marcha clássica de cátions
+
+A divisão clássica em grupos possui valor histórico e pedagógico porque demonstra:
+
+- precipitação seletiva;
+- controle de pH;
+- solubilidade;
+- complexação;
+- redox;
+- separação sequencial.
+
+Entretanto, sua execução integral envolve reagentes e íons de risco elevado.
+
+O Livro Mestre deverá distinguir:
+
+- estudo conceitual da marcha histórica;
+- seleção didática de grupos;
+- marcha adaptada para microescala;
+- procedimentos efetivamente autorizados no laboratório.
+
+#### 8.9.27 Grupo I — cloretos
+
+O grupo dos cloretos poderá exemplificar precipitação seletiva e diferenciação posterior.
+
+A seleção dos cátions deverá considerar segurança.
+
+Compostos de chumbo e mercúrio não deverão ser incluídos automaticamente apenas por pertencerem à marcha tradicional.
+
+Caso sejam estudados conceitualmente, deverão ser claramente identificados como substâncias de alta preocupação, sem pressupor execução prática.
+
+#### 8.9.28 Grupo II — sulfetos em meio ácido
+
+A precipitação de sulfetos em meio ácido é uma das etapas mais problemáticas da marcha clássica.
+
+Os principais riscos incluem:
+
+- geração de sulfeto de hidrogênio;
+- toxicidade aguda;
+- odor não confiável como alerta;
+- metais altamente tóxicos;
+- resíduos de difícil destinação.
+
+Recomenda-se não adotar automaticamente essa prática. O princípio poderá ser estudado por:
+
+- simulação;
+- demonstração controlada, se institucionalmente autorizada;
+- dados experimentais;
+- vídeos próprios;
+- sistemas substitutivos de menor risco.
+
+#### 8.9.29 Grupo III — hidróxidos e sulfetos em meio básico
+
+O grupo III permite integrar:
+
+- precipitação de hidróxidos;
+- controle de pH;
+- complexação com amônia;
+- anfoterismo;
+- oxirredução;
+- sulfetos em meio básico.
+
+Entretanto, a composição do grupo e os reagentes variam entre esquemas.
+
+A seleção deverá considerar:
+
+- risco dos metais;
+- risco de amônia;
+- risco de sulfetos;
+- clareza das separações;
+- disponibilidade de testes confirmatórios seguros.
+
+#### 8.9.30 Grupo IV — carbonatos
+
+A precipitação de carbonatos pode oferecer alternativa didática para estudar:
+
+- seletividade;
+- influência do pH;
+- dissolução ácida;
+- diferenças de solubilidade;
+- testes confirmatórios.
+
+Deverá ser avaliada a possibilidade de utilizar cátions de menor risco e procedimentos em microescala.
+
+#### 8.9.31 Grupo V — espécies solúveis
+
+As espécies que permanecem solúveis exigem testes específicos.
+
+Poderão ser considerados:
+
+- testes de chama;
+- precipitações específicas;
+- reações com reagentes seletivos;
+- medidas instrumentais simples;
+- controles positivos.
+
+Os testes de chama deverão incluir medidas para:
+
+- evitar contaminação;
+- controlar a chama;
+- interpretar cores;
+- reconhecer limitações;
+- trabalhar com segurança.
+
+#### 8.9.32 Limitações do agrupamento clássico
+
+A composição dos grupos não é universal e depende:
+
+- do esquema adotado;
+- dos reagentes;
+- das concentrações;
+- do pH;
+- das convenções didáticas;
+- das restrições de segurança.
+
+O Livro Mestre deverá declarar qual sistema está utilizando e por quê.
+
+Não se deverá apresentar a marcha clássica como única forma possível de análise qualitativa.
+
+#### 8.9.33 Proposta de marcha didática adaptada
+
+A futura marcha prática deverá priorizar:
+
+- poucos cátions selecionados;
+- diferenças químicas claras;
+- reagentes de menor perigo;
+- microescala;
+- resíduos controláveis;
+- testes confirmatórios confiáveis;
+- integração dos equilíbrios;
+- duração compatível com as aulas.
+
+Ela poderá preservar a lógica de grupos sem reproduzir integralmente o esquema histórico.
+
+A composição definitiva dependerá da infraestrutura e das normas institucionais.
+
+#### 8.9.34 Análise de ânions
+
+A análise de ânions geralmente possui sistematização menos uniforme que a marcha clássica de cátions.
+
+O planejamento deverá considerar:
+
+- ensaios preliminares;
+- formação de gases;
+- precipitação;
+- ácido-base;
+- oxirredução;
+- complexação;
+- testes específicos;
+- interferências.
+
+A seleção deverá ser baseada na relevância, na segurança e na possibilidade de confirmação.
+
+#### 8.9.35 Ânions voláteis em meio ácido
+
+A acidificação pode produzir gases ou espécies voláteis.
+
+Deverão ser considerados:
+
+- identidade provável do gás;
+- equação química;
+- interferentes;
+- método seguro de detecção;
+- ventilação;
+- incompatibilidades;
+- quantidade gerada.
+
+Nunca deverá ser recomendada a identificação por inalação direta.
+
+Sistemas capazes de liberar gases altamente tóxicos deverão ser excluídos da prática didática comum.
+
+#### 8.9.36 Ânions precipitáveis com bário ou cálcio
+
+Os testes com bário ou cálcio deverão ser interpretados com base em:
+
+- solubilidade;
+- pH;
+- concentração;
+- estequiometria;
+- interferentes;
+- dissolução posterior;
+- toxicidade dos reagentes.
+
+Sais solúveis de bário exigem controle e descarte adequado.
+
+Quando possível, deverão ser escolhidos sistemas e quantidades que reduzam o risco.
+
+#### 8.9.37 Haletos e precipitação com prata
+
+A precipitação de haletos com prata poderá integrar:
+
+- \(K_{ps}\);
+- cor e aspecto;
+- fotossensibilidade;
+- dissolução por complexação;
+- interferências;
+- sequência de testes.
+
+Deverão ser considerados:
+
+- custo;
+- resíduos contendo prata;
+- exposição à luz;
+- amônia ou outros complexantes;
+- descarte e recuperação, quando aplicável.
+
+#### 8.9.38 Ânions oxidantes e redutores
+
+Os testes deverão considerar:
+
+- potencial redox;
+- pH;
+- estado de oxidação;
+- reagente indicador;
+- excesso;
+- interferentes;
+- velocidade;
+- segurança.
+
+Oxidantes fortes e reagentes capazes de produzir halogênios ou outros vapores perigosos deverão ser avaliados com rigor.
+
+#### 8.9.39 Testes confirmatórios para ânions
+
+A identificação deverá utilizar critérios mais robustos que uma única precipitação de grupo.
+
+Sempre que viável, deverão ser combinados:
+
+- comportamento preliminar;
+- reação de separação;
+- teste confirmatório;
+- controle;
+- exclusão de interferentes.
+
+O estudante deverá registrar o grau de confiança da conclusão.
+
+#### 8.9.40 Conservação de reagentes
+
+A unidade atual menciona conservação de reagentes, aspecto que deverá ser ampliado.
+
+Deverão ser considerados:
+
+- estabilidade;
+- validade;
+- fotossensibilidade;
+- oxidação pelo ar;
+- absorção de umidade;
+- volatilidade;
+- contaminação;
+- rotulagem;
+- concentração;
+- condição de armazenamento;
+- teste de desempenho.
+
+Reagente deteriorado pode produzir falso negativo ou resposta ambígua.
+
+#### 8.9.41 Conservação de amostras
+
+A conservação deverá prevenir:
+
+- evaporação;
+- precipitação;
+- oxidação;
+- redução;
+- absorção de dióxido de carbono;
+- alteração de pH;
+- contaminação;
+- adsorção;
+- troca com a embalagem.
+
+A composição das amostras desconhecidas deverá permanecer estável durante o período da atividade.
+
+#### 8.9.42 Registro das observações
+
+O estudante deverá registrar observações no momento em que ocorrerem.
+
+O registro deverá separar:
+
+- procedimento realizado;
+- observação;
+- interpretação;
+- equação;
+- decisão;
+- conclusão.
+
+Expressões vagas como “deu certo” deverão ser substituídas por descrições objetivas de:
+
+- cor;
+- turbidez;
+- precipitado;
+- dissolução;
+- gás;
+- temperatura;
+- pH;
+- tempo;
+- mudança observada.
+
+#### 8.9.43 Caderno de laboratório
+
+O caderno poderá incluir:
+
+- identificação;
+- data;
+- amostra;
+- lote ou código;
+- reagentes;
+- esquema da análise;
+- riscos;
+- dados brutos;
+- observações;
+- cálculos;
+- desvios;
+- resultados;
+- assinatura ou validação definida.
+
+Correções deverão preservar a rastreabilidade e não apagar o registro original.
+
+#### 8.9.44 Fluxogramas e árvores de decisão
+
+Fluxogramas poderão organizar:
+
+- adição de reagentes;
+- separação de fases;
+- testes do precipitado;
+- testes do sobrenadante;
+- decisões positivas e negativas;
+- confirmações;
+- destino dos resíduos.
+
+Eles deverão representar raciocínio, e não substituir a fundamentação textual e química.
+
+#### 8.9.45 Amostra desconhecida
+
+A amostra desconhecida deverá funcionar como avaliação integradora.
+
+Ela deverá exigir:
+
+- planejamento;
+- seleção de alíquotas;
+- execução segura;
+- controle;
+- interpretação;
+- justificativa;
+- comunicação dos resultados.
+
+Sua composição deverá ser previamente validada pelo docente para assegurar que:
+
+- os testes funcionem;
+- não haja combinação perigosa;
+- as concentrações sejam adequadas;
+- o resultado seja interpretável;
+- os resíduos sejam conhecidos.
+
+#### 8.9.46 Estratégia para evitar análise por tentativa
+
+O estudante não deverá adicionar reagentes aleatoriamente até obter uma resposta visual.
+
+Antes de cada teste, deverá registrar:
+
+- hipótese;
+- objetivo;
+- alíquota;
+- resultado esperado;
+- possíveis interferentes;
+- decisão posterior.
+
+Esse procedimento reduzirá desperdício, contaminação e conclusões sem fundamento.
+
+#### 8.9.47 Relatório técnico
+
+O relatório final deverá incluir:
+
+- identificação da amostra;
+- objetivo;
+- estratégia;
+- fluxograma;
+- procedimentos;
+- observações;
+- equações;
+- controles;
+- resultados;
+- discussão;
+- interferências;
+- limitações;
+- conclusão;
+- resíduos;
+- referências.
+
+A conclusão deverá indicar apenas as espécies sustentadas pelas evidências obtidas.
+
+#### 8.9.48 Avaliação da aprendizagem prática
+
+A avaliação não deverá considerar somente a identificação correta da amostra.
+
+Também deverão ser avaliados:
+
+- planejamento;
+- segurança;
+- organização;
+- uso de controles;
+- técnica;
+- registro;
+- gestão de resíduos;
+- interpretação;
+- fundamentação;
+- comunicação;
+- reconhecimento de limitações.
+
+Uma resposta final correta obtida por procedimento inadequado não demonstrará integralmente a competência esperada.
+
+#### 8.9.49 Aplicações farmacêuticas
+
+A análise qualitativa poderá ser relacionada a:
+
+- identificação de matérias-primas;
+- testes de identidade;
+- íons presentes em insumos;
+- impurezas selecionadas;
+- incompatibilidades;
+- água de uso farmacêutico;
+- excipientes;
+- sais utilizados em formulações;
+- triagem de amostras.
+
+Os exemplos deverão ser contextualizados sem apresentar testes didáticos como substitutos de métodos oficiais validados.
+
+#### 8.9.50 Relação com compêndios oficiais
+
+Quando forem utilizados exemplos farmacopeicos, deverão ser consultadas as edições vigentes dos compêndios aplicáveis.
+
+O material deverá diferenciar:
+
+- reação didática;
+- ensaio de identidade compendial;
+- método validado;
+- teste instrumental;
+- especificação oficial.
+
+As referências normativas deverão indicar documento, edição e contexto de aplicação.
+
+#### 8.9.51 Instrumentação complementar
+
+A disciplina poderá apresentar métodos instrumentais simples como confirmação ou comparação, quando disponíveis:
+
+- pHmetria;
+- condutividade;
+- espectrofotometria;
+- potenciometria;
+- análise de imagem;
+- testes comerciais validados para fins didáticos.
+
+A instrumentação deverá complementar o raciocínio químico e não ocultar os equilíbrios responsáveis pela resposta.
+
+#### 8.9.52 Microescala
+
+A microescala deverá ser princípio permanente da unidade.
+
+Ela permite:
+
+- reduzir exposição;
+- diminuir consumo;
+- reduzir resíduos;
+- realizar mais testes com menor volume;
+- facilitar controles;
+- diminuir custo;
+- preservar amostra.
+
+Entretanto, exige:
+
+- materiais adequados;
+- precisão de transferência;
+- treinamento;
+- iluminação;
+- critérios de observação;
+- prevenção de contaminação cruzada.
+
+#### 8.9.53 Segurança química
+
+Antes de cada prática, deverão ser identificados:
+
+- perigos dos reagentes;
+- incompatibilidades;
+- produtos formados;
+- gases possíveis;
+- equipamentos necessários;
+- medidas de emergência;
+- segregação dos resíduos;
+- procedimentos proibidos.
+
+A ficha da prática deverá passar por revisão de segurança antes da aplicação.
+
+#### 8.9.54 Reagentes de elevada preocupação
+
+Deverão receber avaliação crítica:
+
+- compostos de mercúrio;
+- compostos de chumbo;
+- sais de cádmio;
+- compostos de cromo hexavalente;
+- sais de níquel e cobalto;
+- arsênio e antimônio;
+- sulfetos;
+- sulfeto de hidrogênio;
+- sais solúveis de bário;
+- oxidantes fortes;
+- solventes tóxicos;
+- reagentes voláteis e corrosivos.
+
+A presença em procedimentos históricos não constitui autorização para uso didático.
+
+#### 8.9.55 Gestão de resíduos
+
+Os resíduos deverão ser separados segundo sua composição e compatibilidade.
+
+Poderão existir recipientes específicos para:
+
+- metais;
+- prata;
+- oxidantes;
+- sulfetos;
+- ácidos e bases;
+- solventes;
+- resíduos aquosos sem metais, quando autorizado;
+- sólidos contaminados.
+
+A mistura indiscriminada poderá gerar gases, calor, precipitados instáveis ou dificultar a destinação.
+
+#### 8.9.56 Química analítica verde
+
+A revisão das práticas deverá aplicar princípios como:
+
+- prevenção de resíduos;
+- microescala;
+- substituição de substâncias perigosas;
+- redução do número de etapas;
+- redução de energia;
+- planejamento do descarte;
+- uso de simulações para procedimentos de alto risco;
+- escolha de sistemas representativos e seguros.
+
+A qualidade pedagógica deverá ser preservada durante a redução do impacto ambiental.
+
+#### 8.9.57 Distribuição das práticas ao longo da disciplina
+
+As 13 h/a práticas não deverão necessariamente permanecer concentradas apenas na unidade final.
+
+Parte delas poderá ser distribuída entre:
+
+- ácido-base;
+- solubilidade;
+- complexação;
+- Eletroquímica;
+- cinética;
+- interfaces.
+
+Ao final, práticas integradoras poderão reunir essas competências na marcha adaptada e na amostra desconhecida.
+
+Essa distribuição fortalecerá a articulação entre teoria e prática durante todo o semestre.
+
+#### 8.9.58 Carga horária
+
+A carga de 6 h/a teóricas e 13 h/a práticas reconhece corretamente a natureza experimental da análise qualitativa.
+
+Entretanto, será necessário reservar tempo para:
+
+- planejamento;
+- segurança;
+- preparação;
+- separações;
+- confirmações;
+- repetição;
+- tratamento de resíduos;
+- registro;
+- relatório;
+- discussão.
+
+As 13 h/a podem ser adequadas para um conjunto selecionado de práticas em microescala, mas não para executar integralmente todas as marchas clássicas de cátions e ânions.
+
+#### 8.9.59 Repetições e conexões
+
+A unidade retoma conteúdos de todas as unidades anteriores.
+
+Essa retomada é necessária, mas deverá ocorrer como aplicação.
+
+Não se deverá repetir integralmente:
+
+- teoria ácido-base;
+- dedução de \(K_{ps}\);
+- fundamentos de complexação;
+- equação de Nernst;
+- teoria coloidal.
+
+A unidade deverá mostrar como os fundamentos são combinados para resolver um problema analítico.
+
+#### 8.9.60 Lacunas principais
+
+As principais lacunas identificadas são:
+
+- evidência analítica não explicitada;
+- seletividade e sensibilidade insuficientemente definidas;
+- controles experimentais ausentes;
+- amostragem e preparação pouco desenvolvidas;
+- separação e identificação não diferenciadas;
+- lavagem e separação de fases não explicitadas;
+- coprecipitação e coloides pouco integrados;
+- limitações da marcha clássica não indicadas;
+- riscos dos grupos com sulfetos e metais tóxicos não explicitados;
+- ausência de proposta adaptada e segura;
+- registro e rastreabilidade pouco desenvolvidos;
+- gestão de resíduos insuficientemente detalhada;
+- critérios de avaliação prática não indicados;
+- distribuição das práticas ao longo da disciplina não considerada.
+
+#### 8.9.61 Recomendação preliminar
+
+A unidade deverá ser preservada como culminância integradora da disciplina.
+
+Recomenda-se:
+
+- manter a lógica da análise sistemática;
+- estudar a marcha clássica também como referência histórica;
+- não executar automaticamente a marcha clássica completa;
+- desenvolver marcha didática adaptada e segura;
+- utilizar microescala;
+- selecionar número limitado de cátions e ânions;
+- incorporar controles positivos, negativos e brancos;
+- distinguir separação, triagem e confirmação;
+- fortalecer registro, fluxogramas e relatório;
+- utilizar amostra desconhecida previamente validada;
+- integrar aplicações farmacêuticas;
+- distribuir parte das práticas ao longo do semestre;
+- implementar plano de resíduos;
+- excluir ou substituir sistemas de risco injustificável.
+
+#### 8.9.62 Conclusão diagnóstica
+
+| Critério | Diagnóstico |
+|---|---|
+| Relevância | Essencial |
+| Função integradora | Máxima |
+| Lógica da marcha | Deve ser preservada |
+| Controle de pH | Central |
+| Precipitação seletiva | Central |
+| Complexação e mascaramento | Centrais |
+| Reações redox | Relevantes |
+| Interferências | Precisam de maior desenvolvimento |
+| Evidência analítica | Não explicitada |
+| Seletividade e sensibilidade | Necessitam definição |
+| Controles experimentais | Ausentes |
+| Separação e identificação | Precisam ser diferenciadas |
+| Marcha clássica de cátions | Valiosa conceitualmente, mas problemática na execução |
+| Grupo II com sulfetos | Alto risco |
+| Metais tóxicos | Exigem exclusão, substituição ou justificativa institucional |
+| Análise de ânions | Relevante, mas precisa de seleção |
+| Testes confirmatórios | Devem ser fortalecidos |
+| Amostra desconhecida | Excelente atividade integradora |
+| Registro e relatório | Devem ser ampliados |
+| Aplicações farmacêuticas | Precisam ser fortalecidas |
+| Microescala | Deve ser obrigatória como princípio |
+| Gestão de resíduos | Precisa ser detalhada |
+| Carga teórica | Possivelmente insuficiente |
+| Carga prática | Adequada apenas para seleção de sistemas |
+| Distribuição das práticas | Deve ocorrer ao longo da disciplina |
+| Recomendação | Preservar, modernizar e tornar segura |
