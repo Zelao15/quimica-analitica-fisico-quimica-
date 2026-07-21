@@ -7818,3 +7818,284 @@ A reconstrução deverá:
 - incorporar segurança e sustentabilidade.
 
 A próxima etapa será elaborar alternativas de arquitetura curricular e comparar sua coerência, carga horária e capacidade de integração antes da escolha do novo sumário.
+## 10. Alternativas de arquitetura curricular
+
+### 10.1 Finalidade
+
+A síntese transversal demonstrou que a estrutura atual de nove unidades precisa ser reorganizada.
+
+Esta seção apresenta três alternativas de arquitetura curricular, todas compatíveis com:
+
+- carga horária total de 100 h/a;
+- 60 h/a teóricas;
+- 40 h/a práticas;
+- integração entre Físico-Química e Química Analítica Qualitativa;
+- inclusão das propriedades coligativas;
+- inclusão de osmose, osmolaridade, osmolalidade e isotonicidade;
+- separação entre Termodinâmica e cinética;
+- distribuição das práticas ao longo da disciplina;
+- culminância em análise qualitativa sistemática.
+
+As alternativas serão comparadas antes da aprovação do novo sumário.
+
+### 10.2 Critérios de comparação
+
+As três alternativas serão avaliadas segundo:
+
+1. coerência da sequência;
+2. respeito aos pré-requisitos;
+3. equilíbrio entre abrangência e profundidade;
+4. integração entre teoria e prática;
+5. espaço destinado às aplicações farmacêuticas;
+6. capacidade de incorporar as lacunas;
+7. risco de sobrecarga;
+8. risco de fragmentação;
+9. viabilidade nas 100 h/a;
+10. clareza para estudantes e docentes;
+11. possibilidade de produção dos materiais derivados;
+12. adequação ao padrão do Livro Mestre.
+
+### 10.3 Alternativa A — Estrutura compacta com 11 unidades
+
+#### 10.3.1 Organização proposta
+
+| Unidade | T | P | Total |
+|---|---:|---:|---:|
+| 1 — Matéria, estados físicos, gases, líquidos e soluções | 7 | 4 | 11 |
+| 2 — Propriedades coligativas, osmose e isotonicidade | 5 | 3 | 8 |
+| 3 — Termodinâmica química | 6 | 3 | 9 |
+| 4 — Equilíbrio químico | 4 | 2 | 6 |
+| 5 — Equilíbrios ácido-base | 6 | 4 | 10 |
+| 6 — Solubilidade e precipitação | 6 | 4 | 10 |
+| 7 — Complexação | 5 | 3 | 8 |
+| 8 — Oxirredução e Eletroquímica | 5 | 3 | 8 |
+| 9 — Cinética e estabilidade farmacêutica | 5 | 3 | 8 |
+| 10 — Interfaces e sistemas dispersos | 5 | 4 | 9 |
+| 11 — Análise qualitativa sistemática | 6 | 7 | 13 |
+| **Total** | **60** | **40** | **100** |
+
+#### 10.3.2 Lógica da alternativa
+
+A alternativa A reduz o número de unidades ao reunir em um único bloco inicial:
+
+- matéria;
+- estados físicos;
+- gases;
+- líquidos;
+- soluções;
+- concentração;
+- eletrólitos;
+- atividade.
+
+As propriedades coligativas permanecem em unidade própria.
+
+Termodinâmica é antecipada, e cinética passa a constituir unidade independente.
+
+#### 10.3.3 Vantagens
+
+- estrutura relativamente compacta;
+- menor número de transições entre unidades;
+- manutenção de blocos curriculares amplos;
+- carga maior para interfaces e análise qualitativa;
+- facilidade para organizar o calendário;
+- menor fragmentação formal;
+- preservação da integração inicial entre matéria e soluções.
+
+#### 10.3.4 Limitações
+
+- a Unidade 1 permanece muito extensa;
+- gases, líquidos e soluções competem pela mesma carga;
+- atividade e força iônica podem ser introduzidas rapidamente;
+- conteúdos iniciais com naturezas diferentes permanecem agrupados;
+- risco de repetir o problema de abrangência da unidade atual;
+- menor clareza para produzir materiais derivados independentes.
+
+#### 10.3.5 Avaliação preliminar
+
+A alternativa é viável, mas mantém parte da sobrecarga identificada no diagnóstico da Unidade atual 1.
+
+Ela resolve o problema de Termodinâmica e cinética, porém não resolve integralmente a progressão entre estados físicos e soluções.
+
+### 10.4 Alternativa B — Estrutura equilibrada com 12 unidades
+
+#### 10.4.1 Organização proposta
+
+| Unidade | T | P | Total |
+|---|---:|---:|---:|
+| 1 — Estados físicos, gases e líquidos | 4 | 2 | 6 |
+| 2 — Soluções, eletrólitos e atividade | 5 | 3 | 8 |
+| 3 — Propriedades coligativas, osmose e isotonicidade | 5 | 3 | 8 |
+| 4 — Termodinâmica química | 6 | 3 | 9 |
+| 5 — Equilíbrio químico | 4 | 2 | 6 |
+| 6 — Equilíbrios ácido-base | 6 | 4 | 10 |
+| 7 — Solubilidade e precipitação | 6 | 4 | 10 |
+| 8 — Complexação | 5 | 3 | 8 |
+| 9 — Oxirredução e Eletroquímica | 5 | 3 | 8 |
+| 10 — Cinética e estabilidade farmacêutica | 5 | 3 | 8 |
+| 11 — Interfaces e sistemas dispersos | 4 | 3 | 7 |
+| 12 — Análise qualitativa sistemática | 5 | 7 | 12 |
+| **Total** | **60** | **40** | **100** |
+
+#### 10.4.2 Lógica da alternativa
+
+A alternativa B separa os fundamentos iniciais em três etapas:
+
+1. comportamento dos estados físicos;
+2. formação e composição das soluções;
+3. propriedades dependentes do número de partículas dissolvidas.
+
+Depois desses fundamentos, a sequência progride para:
+
+- Termodinâmica;
+- equilíbrio geral;
+- equilíbrios específicos;
+- Eletroquímica;
+- cinética;
+- interfaces;
+- análise qualitativa integradora.
+
+#### 10.4.3 Vantagens
+
+- resolve a sobrecarga da Unidade atual 1;
+- atribui unidade própria às propriedades coligativas;
+- permite desenvolver osmose e isotonicidade com profundidade;
+- diferencia propriedades dos líquidos de comportamento das soluções;
+- posiciona Termodinâmica antes do equilíbrio;
+- preserva ácido-base, solubilidade e complexação como eixos próprios;
+- mantém Oxirredução e Eletroquímica integradas;
+- separa Termodinâmica e cinética;
+- distribui as 40 h/a práticas por toda a disciplina;
+- apresenta bom equilíbrio entre profundidade e fragmentação;
+- favorece a organização do Livro Mestre e dos materiais derivados.
+
+#### 10.4.4 Limitações
+
+- exige controle rigoroso da carga nas três primeiras unidades;
+- a Termodinâmica continua extensa para 6 h/a teóricas;
+- Eletroquímica deverá selecionar cuidadosamente seu desenvolvimento matemático;
+- interfaces recebe carga limitada;
+- a análise qualitativa precisará utilizar marcha adaptada;
+- doze unidades exigem transições pedagógicas bem planejadas.
+
+#### 10.4.5 Avaliação preliminar
+
+A alternativa B apresenta o melhor equilíbrio entre:
+
+- progressão conceitual;
+- profundidade;
+- integração;
+- viabilidade;
+- clareza editorial.
+
+É a alternativa preliminarmente recomendada para o novo sumário.
+
+### 10.5 Alternativa C — Estrutura ampliada com 13 unidades
+
+#### 10.5.1 Organização proposta
+
+| Unidade | T | P | Total |
+|---|---:|---:|---:|
+| 1 — Estados físicos, gases e líquidos | 4 | 2 | 6 |
+| 2 — Soluções, eletrólitos e atividade | 5 | 3 | 8 |
+| 3 — Propriedades coligativas, osmose e isotonicidade | 5 | 3 | 8 |
+| 4 — Termodinâmica química | 6 | 3 | 9 |
+| 5 — Equilíbrio químico | 4 | 2 | 6 |
+| 6 — Equilíbrios ácido-base | 6 | 4 | 10 |
+| 7 — Solubilidade e precipitação | 6 | 4 | 10 |
+| 8 — Complexação | 5 | 3 | 8 |
+| 9 — Reações de oxirredução | 3 | 2 | 5 |
+| 10 — Células eletroquímicas e potenciais | 3 | 2 | 5 |
+| 11 — Cinética e estabilidade farmacêutica | 5 | 3 | 8 |
+| 12 — Interfaces e sistemas dispersos | 4 | 3 | 7 |
+| 13 — Análise qualitativa sistemática | 4 | 6 | 10 |
+| **Total** | **60** | **40** | **100** |
+
+#### 10.5.2 Lógica da alternativa
+
+A alternativa C utiliza a mesma estrutura inicial da alternativa B, mas separa:
+
+- reações de oxirredução;
+- células eletroquímicas e potenciais.
+
+Essa separação permite diferenciar:
+
+- balanceamento e estequiometria redox;
+- comportamento de células e eletrodos;
+- potenciais;
+- equação de Nernst;
+- medições eletroquímicas.
+
+#### 10.5.3 Vantagens
+
+- maior clareza entre redox químico e sistemas eletroquímicos;
+- possibilidade de construir pré-requisitos antes da equação de Nernst;
+- unidades menores e mais focalizadas;
+- organização editorial detalhada;
+- facilidade para produzir materiais derivados temáticos;
+- maior visibilidade das aplicações eletroquímicas.
+
+#### 10.5.4 Limitações
+
+- maior fragmentação curricular;
+- redução da carga final de análise qualitativa;
+- risco de separar artificialmente fenômenos redox e eletroquímicos;
+- unidades 9 e 10 muito curtas;
+- maior número de avaliações, transições e materiais;
+- menor tempo para a marcha integrada e a amostra desconhecida;
+- calendário potencialmente mais complexo.
+
+#### 10.5.5 Avaliação preliminar
+
+A alternativa C possui boa clareza temática, mas a separação entre redox e Eletroquímica retira carga da culminância analítica.
+
+O ganho de especialização pode não compensar a fragmentação.
+
+### 10.6 Comparação das alternativas
+
+| Critério | Alternativa A — 11 unidades | Alternativa B — 12 unidades | Alternativa C — 13 unidades |
+|---|---|---|---|
+| Coerência da sequência | Boa | Muito boa | Muito boa |
+| Resolução da sobrecarga inicial | Parcial | Completa | Completa |
+| Propriedades coligativas | Unidade própria | Unidade própria | Unidade própria |
+| Termodinâmica antes do equilíbrio | Sim | Sim | Sim |
+| Separação entre Termodinâmica e cinética | Sim | Sim | Sim |
+| Integração entre redox e Eletroquímica | Preservada | Preservada | Desmembrada |
+| Espaço para análise qualitativa | Maior | Adequado | Menor |
+| Risco de sobrecarga | Alto na Unidade 1 | Moderado | Moderado |
+| Risco de fragmentação | Baixo | Moderado e controlável | Alto |
+| Organização editorial | Boa | Muito boa | Muito detalhada |
+| Distribuição das práticas | Boa | Muito boa | Boa |
+| Aplicações farmacêuticas | Adequadas | Muito adequadas | Adequadas |
+| Viabilidade nas 100 h/a | Boa | Muito boa | Possível, mas mais complexa |
+| Avaliação global | Viável com ressalvas | Recomendada | Viável, mas fragmentada |
+
+### 10.7 Síntese da comparação
+
+A alternativa A possui a vantagem da compactação, mas não resolve completamente a sobrecarga dos conteúdos iniciais.
+
+A alternativa C oferece maior separação temática, mas fragmenta Oxirredução e Eletroquímica e reduz o espaço destinado à análise qualitativa integradora.
+
+A alternativa B:
+
+- resolve as principais lacunas;
+- preserva os campos que precisam permanecer integrados;
+- corrige a sequência;
+- distribui adequadamente as práticas;
+- mantém carga suficiente para a análise qualitativa;
+- apresenta melhor organização para o Livro Mestre.
+
+### 10.8 Recomendação preliminar
+
+Recomenda-se adotar a alternativa B, com 12 unidades, como base para a redação do novo sumário.
+
+Essa recomendação ainda deverá ser submetida a uma validação final, considerando:
+
+- calendário acadêmico;
+- número de semanas;
+- infraestrutura laboratorial;
+- disponibilidade de equipamentos;
+- segurança dos sistemas experimentais;
+- relação com as demais disciplinas do curso;
+- equilíbrio entre teoria, prática e avaliação.
+
+Somente depois dessa validação a alternativa será registrada como arquitetura curricular aprovada.
